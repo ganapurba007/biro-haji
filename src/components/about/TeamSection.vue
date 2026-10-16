@@ -2,7 +2,9 @@
 import { Linkedin, Mail } from 'lucide-vue-next'
 import teamData from '@/data/team.json'
 import SectionTitle from '@/components/ui/SectionTitle.vue'
+import { useAgency } from '@/composables/useAgency'
 
+const { agency } = useAgency()
 const team = teamData
 </script>
 
@@ -12,9 +14,9 @@ const team = teamData
       
       <!-- Section Header -->
       <SectionTitle
-        badge="Jajaran Manajemen & Ahli"
-        title="Kepemimpinan Profesional & Berpengalaman"
-        description="Dipimpin oleh para profesional teknik berlisensi resmi dengan dedikasi tinggi terhadap kualitas konstruksi dan keselamatan kerja."
+        badge="Pembimbing Ibadah & Manajemen"
+        title="Asatidz Pembimbing & Manajemen Amanah"
+        description="Dibimbing langsung oleh para asatidz lulusan universitas Islam terkemuka bersertifikat pembimbing ibadah haji Kemenag RI serta jajaran manajemen profesional."
         align="center"
       />
 
@@ -50,7 +52,7 @@ const team = teamData
 
           <!-- Bottom Decorative Footer -->
           <div class="px-6 pb-6 pt-2 border-t border-slate-200/60 flex items-center justify-between text-slate-400">
-            <span class="text-[11px] font-medium text-slate-500">PT Adhirajasa Karya Mandiri</span>
+            <span class="text-[11px] font-medium text-slate-500">{{ agency.name }}</span>
             <div class="flex items-center gap-2 text-slate-600 hover:text-amber-600 transition-colors">
               <Linkedin class="w-4 h-4 cursor-pointer" />
             </div>

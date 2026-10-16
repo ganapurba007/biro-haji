@@ -1,20 +1,22 @@
 <script setup>
 import { RouterLink } from 'vue-router'
-import { Building2, Hammer, Truck, Paintbrush, ClipboardCheck, ArrowRight } from 'lucide-vue-next'
+import { Compass, Globe, Award, HeartHandshake, ArrowRight } from 'lucide-vue-next'
 import servicesData from '@/data/services.json'
 import SectionTitle from '@/components/ui/SectionTitle.vue'
+import { useAgency } from '@/composables/useAgency'
+
+const { agencyLink } = useAgency()
 
 // Ambil 4 layanan utama untuk beranda
 const services = servicesData.slice(0, 4)
 
 const getServiceIcon = (iconName) => {
   switch (iconName) {
-    case 'Building2': return Building2
-    case 'Hammer': return Hammer
-    case 'Truck': return Truck
-    case 'Paintbrush': return Paintbrush
-    case 'ClipboardCheck': return ClipboardCheck
-    default: return Building2
+    case 'Compass': return Compass
+    case 'Globe': return Globe
+    case 'Award': return Award
+    case 'HeartHandshake': return HeartHandshake
+    default: return Compass
   }
 }
 </script>
@@ -26,14 +28,14 @@ const getServiceIcon = (iconName) => {
       <!-- Section Header -->
       <div class="flex flex-col md:flex-row md:items-end justify-between mb-12 lg:mb-16 gap-6">
         <SectionTitle
-          badge="Layanan Konstruksi"
-          title="Solusi Terpadu untuk Setiap Kebutuhan Konstruksi Anda"
-          description="Dari pembangunan gedung pencakar langit hingga peremajaan interior presisi, kami memberikan hasil terbaik berstandar ISO."
+          badge="Program Ibadah Unggulan"
+          title="Layanan Terpadu Menuju Ibadah Umroh & Haji yang Mabrur"
+          description="Dari paket reguler bintang 5 pelataran, umroh plus mancanegara, hingga haji khusus dan badal amanah sesuai sunnah."
           align="left"
         />
 
         <RouterLink
-          to="/layanan"
+          :to="agencyLink('/layanan')"
           class="inline-flex items-center gap-2 text-sm font-bold text-amber-600 hover:text-amber-700 transition-colors shrink-0 pb-1"
         >
           <span>Lihat Semua Layanan ({{ servicesData.length }})</span>
@@ -84,7 +86,7 @@ const getServiceIcon = (iconName) => {
           <!-- Bottom Read More Link -->
           <div class="px-6 pb-6 pt-2">
             <RouterLink
-              to="/layanan"
+              :to="agencyLink('/layanan')"
               class="inline-flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-slate-900 group-hover:text-amber-600 transition-colors"
             >
               <span>Selengkapnya</span>

@@ -32,10 +32,10 @@ const isSubmitting = ref(false)
 const simulateError = ref(false) // Toggle for demonstrator failure simulation (FR-6.3)
 
 const budgetOptions = [
-  'Di bawah Rp 500 Juta',
-  'Rp 500 Juta - Rp 2 Miliar',
-  'Rp 2 Miliar - Rp 10 Miliar',
-  'Di atas Rp 10 Miliar',
+  'Di bawah Rp 30 Juta (Reguler Hemat)',
+  'Rp 30 Juta - Rp 40 Juta (Reguler Bintang 5)',
+  'Rp 40 Juta - Rp 60 Juta (Umroh Plus Wisata)',
+  'Di atas Rp 150 Juta (Haji Khusus / Furoda)',
   'Belum Ditentukan'
 ]
 
@@ -124,7 +124,7 @@ const handleSubmit = async () => {
     } else {
       emit('submit-success', {
         title: 'Pesan Terkirim!',
-        message: `Terima kasih Bapak/Ibu ${form.fullName}. Permintaan konsultasi Anda telah kami terima dan tim estimator kami akan menghubungi dalam waktu 1x24 jam.`
+        message: `Terima kasih Bapak/Ibu ${form.fullName}. Permintaan konsultasi Anda telah kami terima dan tim konsultan ibadah kami akan menghubungi dalam waktu 1x24 jam.`
       })
       resetForm()
     }
@@ -138,13 +138,13 @@ const handleSubmit = async () => {
     <!-- Header info -->
     <div class="mb-8">
       <div class="text-xs font-extrabold uppercase tracking-widest text-amber-600 mb-2">
-        Konsultasi Proyek Gratis
+        Konsultasi Ibadah Gratis
       </div>
       <h3 class="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
-        Formulir Rencana Proyek
+        Formulir Konsultasi & Pendaftaran
       </h3>
       <p class="text-sm text-slate-600 mt-1">
-        Isi data singkat berikut untuk mendapatkan estimasi jadwal, analisis awal, dan proposal RAB transparan.
+        Isi data singkat berikut untuk mendapatkan informasi jadwal keberangkatan, rincian fasilitas hotel, dan estimasi biaya ibadah transparan.
       </p>
     </div>
 
@@ -311,7 +311,7 @@ const handleSubmit = async () => {
       <!-- Perkiraan Anggaran (Select Opsional) -->
       <div>
         <label for="budget" class="block text-xs font-bold uppercase tracking-wider text-slate-700 mb-2">
-          Perkiraan Anggaran Proyek <span class="text-slate-400 font-normal">(Opsional)</span>
+          Perkiraan Anggaran / Paket Pilihan <span class="text-slate-400 font-normal">(Opsional)</span>
         </label>
         <select
           id="budget"
@@ -319,18 +319,18 @@ const handleSubmit = async () => {
           :disabled="isSubmitting"
           class="w-full px-4 py-3 rounded-xl border border-slate-200 text-sm transition-all focus:outline-none focus:ring-2 focus:ring-amber-400 focus:border-amber-500 text-slate-900 disabled:bg-slate-100 cursor-pointer"
         >
-          <option value="">Pilih Estimasi Anggaran</option>
+          <option value="">Pilih Estimasi Anggaran / Paket</option>
           <option v-for="b in budgetOptions" :key="b" :value="b">
             {{ b }}
           </option>
         </select>
       </div>
 
-      <!-- Pesan Kebutuhan Proyek (Textarea) -->
+      <!-- Pesan Kebutuhan Ibadah (Textarea) -->
       <div>
         <div class="flex items-center justify-between mb-2">
           <label for="message" class="block text-xs font-bold uppercase tracking-wider text-slate-700">
-            Rincian Kebutuhan Proyek <span class="text-rose-500">*</span>
+            Rincian Kebutuhan / Pertanyaan Jamaah <span class="text-rose-500">*</span>
           </label>
           <span 
             class="text-xs font-mono font-medium"
@@ -345,7 +345,7 @@ const handleSubmit = async () => {
           @blur="validateField('message')"
           :disabled="isSubmitting"
           rows="4"
-          placeholder="Tuliskan lokasi, perkiraan luas bangunan, target waktu pengerjaan, atau spesifikasi khusus yang Anda butuhkan..."
+          placeholder="Tuliskan rencana bulan keberangkatan, jumlah anggota keluarga/jamaah, atau permintaan kamar khusus yang Anda butuhkan..."
           :aria-invalid="!!errors.message"
           :aria-describedby="errors.message ? 'message-error' : null"
           class="w-full px-4 py-3 rounded-xl border text-sm transition-all focus:outline-none focus:ring-2 disabled:bg-slate-100 disabled:cursor-not-allowed"

@@ -25,6 +25,6 @@ describe('ServicesView Page (FR-4.1, FR-4.2)', () => {
 
   it('renders work process methodology section (FR-4.2)', () => {
     const wrapper = mount(ServicesView, { global: globalMocks })
-    expect(wrapper.text()).toContain('4 Langkah Sistematis Menuju Keberhasilan Proyek Anda')
+    expect(wrapper.text()).toContain('4 Langkah Mudah Menuju Baitullah Bersama Kami')
   })
 })

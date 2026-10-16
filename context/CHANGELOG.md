@@ -14,6 +14,25 @@ Format tiap entri:
 **Docs updated:** [PRD §9 / SCHEMA.md / tidak ada perubahan scope]
 -->
 
+## Polish — Penyelarasan Menyeluruh Teks, Menu Navigasi, dan Gambar Haji & Umroh (2026-10-16)
+**FR terkait:** FR-1.1 s/d FR-6.6
+**Yang dikerjakan:**
+- **Pembersihan Metadata & SEO Global:** Memperbarui `index.html` (Title, Meta Description, Keywords, OG Tags, Twitter Cards, Schema.org `TravelAgency` PPIU & PIHK) menggantikan seluruh jejak profil kontraktor
+- **Pembaruan Menu Navigasi Navbar:** Mengubah nama menu menjadi `Beranda`, `Tentang Kami`, `Layanan Ibadah`, `Paket Umroh & Haji`, `Kontak` di `Navbar.vue`
+- **Penyelarasan Teks Komponen:**
+  - `ServicesSection.vue`: Mengganti badge "Program Ibadah Unggulan", deskripsi layanan ibadah, dan ikon yang relevan (`Compass`, `Globe`, `Award`, `HeartHandshake`)
+  - `TestimonialsSection.vue`: Mengganti badge "Pengalaman Jamaah" dan deskripsi kekhusyukan ibadah
+  - `TeamSection.vue`: Mengganti jajaran asatidz pembimbing haji/umroh dan nama agency dinamis
+  - `CompanyHistory.vue`: Mengganti deskripsi sejarah khidmat melayani jamaah ke Baitullah
+  - `StatsStrip.vue`: Mengganti teks "Layanan Konsultan Jamaah 24/7"
+  - `WorkProcessSection.vue`: Mengganti header "Tahapan Pendaftaran: 4 Langkah Mudah Menuju Baitullah Bersama Kami"
+  - `ContactForm.vue`: Mengganti header "Formulir Konsultasi & Pendaftaran", opsi perkiraan anggaran paket umroh/haji, dan placeholder kebutuhan ibadah
+- **Pembaruan Gambar:** Mengganti foto tahapan alur kerja di `src/data/home.json` (Langkah 01 konsultasi dan Langkah 03 Al-Qur'an & bimbingan manasik)
+- **Unit Testing:** Menyelaraskan test assertion di `Navbar.spec.js` dan `ServicesView.spec.js`, seluruh 58 unit tests lulus 100% dan build produksi sukses
+**File yang berubah:** `index.html`, `src/components/layout/Navbar.vue`, `src/components/sections/ServicesSection.vue`, `src/components/sections/TestimonialsSection.vue`, `src/components/about/TeamSection.vue`, `src/components/about/CompanyHistory.vue`, `src/components/sections/StatsStrip.vue`, `src/components/sections/WorkProcessSection.vue`, `src/components/forms/ContactForm.vue`, `src/data/home.json`, unit tests
+**Test:** 58 passed / 58 total (23 test files)
+**Docs updated:** CHANGELOG.md
+
 ## Fase 8.2 — Implementasi Penuh Website Haji & Umroh + Dynamic Client Mockup Subpath (2026-10-16)
 **FR terkait:** FR-1.x s/d FR-7.x (termasuk FR-7.1 s/d FR-7.6)
 **Yang dikerjakan:**

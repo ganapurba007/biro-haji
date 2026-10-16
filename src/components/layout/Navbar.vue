@@ -11,9 +11,9 @@ const isScrolled = ref(false)
 
 const navLinks = [
   { name: 'Beranda', path: '/' },
-  { name: 'Tentang', path: '/tentang' },
-  { name: 'Layanan', path: '/layanan' },
-  { name: 'Proyek', path: '/proyek' },
+  { name: 'Tentang Kami', path: '/tentang' },
+  { name: 'Layanan Ibadah', path: '/layanan' },
+  { name: 'Paket Umroh & Haji', path: '/proyek' },
   { name: 'Kontak', path: '/kontak' },
 ]
 

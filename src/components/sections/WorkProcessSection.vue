@@ -11,9 +11,9 @@ const workProcess = homeData.workProcess
       
       <!-- Section Header -->
       <SectionTitle
-        badge="Metodologi Kerja"
-        title="4 Langkah Sistematis Menuju Keberhasilan Proyek Anda"
-        description="Setiap tahapan proyek dikawal dengan manajemen mutu ketat, transparansi laporan progres, dan protokol keselamatan K3."
+        badge="Tahapan Pendaftaran"
+        title="4 Langkah Mudah Menuju Baitullah Bersama Kami"
+        description="Setiap tahapan pendaftaran dan persiapan ibadah Anda dikawal dengan pelayanan amanah, kepastian dokumen 5 Pasti Umroh, dan bimbingan manasik intensif."
         align="center"
         :dark="true"
       />

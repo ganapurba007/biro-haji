@@ -24,7 +24,7 @@ const getTimelineIcon = (index) => {
       <SectionTitle
         badge="Jejak Langkah & Pencapaian"
         title="Sejarah Perjalanan Tumbuh Berkembang Kami"
-        description="Perjalanan lebih dari satu dekade membuktikan konsistensi mutu rekayasa dan integritas dalam membangun infrastruktur negeri."
+        description="Perjalanan lebih dari satu dekade membuktikan konsistensi mutu pelayanan, amanah, dan integritas dalam melayani ribuan jamaah ke Tanah Suci."
         align="center"
         :dark="true"
       />

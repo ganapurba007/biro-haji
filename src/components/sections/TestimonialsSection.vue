@@ -22,9 +22,9 @@ const prevTestimonial = () => {
       
       <!-- Section Header -->
       <SectionTitle
-        badge="Testimoni Klien"
-        title="Kepercayaan & Kepuasan Mitra Adalah Prioritas Utama"
-        description="Apa yang dikatakan oleh para pimpinan perusahaan dan pengembang properti mengenai kemitraan konstruksi bersama kami."
+        badge="Pengalaman Jamaah"
+        title="Kenyamanan & Kekhusyukan Ibadah Jamaah Kami"
+        description="Ungkapan kebahagiaan dan kesan mendalam dari para jamaah yang telah menunaikan ibadah umroh dan haji bersama kami."
         align="center"
       />
 

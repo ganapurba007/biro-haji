@@ -22,7 +22,7 @@ describe('Navbar Component (FR-1.2, FR-1.3)', () => {
     expect(wrapper.text()).toContain('Beranda')
     expect(wrapper.text()).toContain('Tentang')
     expect(wrapper.text()).toContain('Layanan')
-    expect(wrapper.text()).toContain('Proyek')
+    expect(wrapper.text()).toContain('Paket Umroh & Haji')
     expect(wrapper.text()).toContain('Kontak')
     expect(wrapper.text()).toContain('Konsultasi Gratis')
   })

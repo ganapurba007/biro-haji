@@ -99,7 +99,7 @@ onMounted(() => {
           </div>
           <div class="text-xs text-slate-400 flex items-center gap-2">
             <CheckCircle class="w-4 h-4 text-amber-400 shrink-0" />
-            <span>Respon Cepat Tim Estimator 24/7</span>
+            <span>Layanan Konsultan Jamaah 24/7</span>
           </div>
         </div>
 
