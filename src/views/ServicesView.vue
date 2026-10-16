@@ -34,11 +34,10 @@ const getServiceIcon = (iconName) => {
 
 <template>
   <div class="space-y-0">
-    <!-- Page Header Banner with Breadcrumbs -->
+    <!-- Page Header Banner -->
     <PageHeader
       title="Layanan Ibadah Haji & Umroh"
       subtitle="Penyelenggaraan ibadah umroh reguler, paket plus wisata halal, haji khusus/furoda, badal, serta bimbingan manasik intensif sesuai sunnah."
-      :breadcrumbs="[{ name: 'Layanan Ibadah' }]"
       backgroundImage="https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=1600&q=80"
     />
 

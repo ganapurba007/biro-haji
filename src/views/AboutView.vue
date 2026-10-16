@@ -9,11 +9,10 @@ import CtaBanner from '@/components/sections/CtaBanner.vue'
 
 <template>
   <div class="space-y-0">
-    <!-- Page Header Banner with Breadcrumbs -->
+    <!-- Page Header Banner -->
     <PageHeader
       title="Tentang Kami"
       subtitle="Profil komprehensif, visi misi, legalitas Kemenag, dan jajaran pembimbing ibadah serta manajemen."
-      :breadcrumbs="[{ name: 'Tentang Kami' }]"
       backgroundImage="https://images.unsplash.com/photo-1542816417-0983c9c9ad53?auto=format&fit=crop&w=1600&q=80"
     />
 

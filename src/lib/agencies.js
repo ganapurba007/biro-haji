@@ -49,8 +49,8 @@ export function getRegisteredAgencies() {
       shortName: item.shortName || slugToTitle(slug).split(' ')[0] || 'BIRO',
       subName: item.subName || 'Umroh & Haji',
       logo: item.logo || null,
-      brandColor: item.colors?.brand || '#064e3b',
-      accentColor: item.colors?.accent || '#d97706'
+      brandColor: item.colors?.brand || '#047857',
+      accentColor: item.colors?.accent || '#f59e0b'
     })
   }
 
@@ -87,8 +87,8 @@ export function getAgencyBySlug(slug) {
     merged.logo = registered.logo || null
     merged.initials = getInitials(merged.name)
     merged.colors = {
-      brand: registered.colors?.brand || '#064e3b',
-      accent: registered.colors?.accent || '#d97706'
+      brand: registered.colors?.brand || '#047857',
+      accent: registered.colors?.accent || '#f59e0b'
     }
     if (registered.contact) {
       merged.contact = {
@@ -112,8 +112,8 @@ export function getAgencyBySlug(slug) {
       initials: 'DB',
       isCustom: false,
       colors: {
-        brand: '#064e3b',
-        accent: '#d97706'
+        brand: '#047857',
+        accent: '#f59e0b'
       }
     }
   }
@@ -136,8 +136,8 @@ export function getAgencyBySlug(slug) {
     about: `${title} adalah biro perjalanan ibadah umroh dan haji khusus resmi terpercaya yang mengutamakan kenyamanan jamaah, kepastian 5 Pasti Umroh, dan bimbingan ibadah sesuai sunnah.`,
     logo: null, // Will display stylized badge monogram
     colors: {
-      brand: '#064e3b', // Default elegant emerald
-      accent: '#d97706' // Default golden amber
+      brand: '#047857', // Default vibrant emerald
+      accent: '#f59e0b' // Default warm gold amber
     }
   }
 }

@@ -82,22 +82,22 @@ onMounted(() => {
         </div>
 
         <!-- Toll Free Call CTA (lg:col-span-4) -->
-        <div class="lg:col-span-4 flex flex-col sm:flex-row lg:flex-col items-center lg:items-start justify-center gap-4 bg-slate-950 text-white p-6 sm:p-7 rounded-2xl shadow-xl border border-slate-800">
+        <div class="lg:col-span-4 flex flex-col sm:flex-row lg:flex-col items-center lg:items-start justify-center gap-4 bg-emerald-950 text-white p-6 sm:p-7 rounded-2xl shadow-xl border border-emerald-900/60">
           <div class="flex items-center gap-3">
             <div class="w-12 h-12 rounded-xl bg-amber-500 text-slate-950 flex items-center justify-center font-bold shrink-0">
               <PhoneCall class="w-6 h-6 animate-pulse" />
             </div>
             <div>
-              <span class="text-xs text-amber-400 font-bold uppercase tracking-wider block">Layanan Bebas Pulsa</span>
+              <span class="text-xs text-amber-300 font-bold uppercase tracking-wider block">Layanan Bebas Pulsa</span>
               <a 
                 :href="`tel:${companyData.contact.tollFree.replace(/[^0-9]/g, '')}`" 
-                class="text-lg sm:text-xl font-black text-white hover:text-amber-400 transition-colors"
+                class="text-lg sm:text-xl font-black text-white hover:text-amber-300 transition-colors"
               >
                 {{ companyData.contact.tollFree }}
               </a>
             </div>
           </div>
-          <div class="text-xs text-slate-400 flex items-center gap-2">
+          <div class="text-xs text-emerald-200/80 flex items-center gap-2">
             <CheckCircle class="w-4 h-4 text-amber-400 shrink-0" />
             <span>Layanan Konsultan Jamaah 24/7</span>
           </div>

@@ -32,16 +32,16 @@ const highlights = [
 
           <!-- Decorative Accent Background Element -->
           <div class="absolute -bottom-6 -left-6 w-72 h-72 bg-amber-400/20 rounded-3xl -z-0 blur-xl" />
-          <div class="absolute -top-6 -right-6 w-72 h-72 bg-slate-800/10 rounded-3xl -z-0 blur-xl" />
+          <div class="absolute -top-6 -right-6 w-72 h-72 bg-brand-500/15 rounded-3xl -z-0 blur-xl" />
 
           <!-- Floating Experience Card -->
-          <div class="absolute -bottom-8 right-4 sm:-right-6 z-20 bg-slate-950 text-white p-6 rounded-2xl shadow-2xl border border-slate-800 flex items-center gap-4 max-w-[260px]">
+          <div class="absolute -bottom-8 right-4 sm:-right-6 z-20 bg-emerald-950 text-white p-6 rounded-2xl shadow-2xl border border-emerald-900/60 flex items-center gap-4 max-w-[260px]">
             <div class="w-14 h-14 rounded-xl bg-amber-500 flex items-center justify-center text-slate-950 font-black text-2xl shrink-0">
               11+
             </div>
             <div>
               <div class="text-sm font-bold text-white">Tahun Khidmah</div>
-              <div class="text-xs text-slate-400">Melayani tamu Allah menuju ibadah mabrur</div>
+              <div class="text-xs text-emerald-200/80">Melayani tamu Allah menuju ibadah mabrur</div>
             </div>
           </div>
         </div>
@@ -83,10 +83,10 @@ const highlights = [
           <div class="pt-6 flex flex-wrap items-center gap-4">
             <RouterLink
               :to="agencyLink('/tentang')"
-              class="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl bg-slate-950 hover:bg-slate-800 text-white font-bold text-sm shadow-md hover:shadow transition-all duration-200"
+              class="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-bold text-sm shadow-md hover:shadow transition-all duration-200"
             >
               <span>Profil Lengkap</span>
-              <ArrowRight class="w-4 h-4 text-amber-400" />
+              <ArrowRight class="w-4 h-4 text-amber-300" />
             </RouterLink>
 
             <a

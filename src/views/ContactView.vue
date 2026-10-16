@@ -73,11 +73,10 @@ const faqs = [
 
 <template>
   <div class="space-y-0">
-    <!-- Page Header Banner with Breadcrumbs -->
+    <!-- Page Header Banner -->
     <PageHeader
       title="Hubungi Kami"
       subtitle="Diskusikan rencana ibadah haji & umroh Anda dan keluarga bersama konsultan dan pembimbing ibadah kami."
-      :breadcrumbs="[{ name: 'Hubungi Kami' }]"
       backgroundImage="https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=1600&q=80"
     />
 

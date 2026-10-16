@@ -28,8 +28,9 @@ describe('Theme and Dynamic Shade Generation (PRD §8)', () => {
     const shades = generateColorShades('#064e3b')
     const cssVars = shadesToCssVariables(shades, 'brand')
 
-    expect(cssVars['--color-brand-500']).toBe('6 78 59')
+    expect(cssVars['--color-brand-500']).toBe('#064e3b')
     expect(cssVars['--hex-brand-500']).toBe('#064e3b')
+    expect(cssVars['--rgb-brand-500']).toBe('6 78 59')
     expect(cssVars['--color-brand-50']).toBeDefined()
     expect(cssVars['--color-brand-950']).toBeDefined()
   })

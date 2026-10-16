@@ -6,8 +6,12 @@ const workProcess = homeData.workProcess
 </script>
 
 <template>
-  <section id="alur-kerja" class="py-20 lg:py-28 bg-slate-900 text-white scroll-mt-20">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+  <section id="alur-kerja" class="py-20 lg:py-28 bg-gradient-to-b from-slate-900 via-emerald-950/70 to-slate-900 text-white scroll-mt-20 relative overflow-hidden">
+    <!-- Ambient Background Glow -->
+    <div class="absolute -top-32 -left-32 w-96 h-96 bg-brand-500/15 rounded-full blur-3xl pointer-events-none" />
+    <div class="absolute -bottom-32 -right-32 w-96 h-96 bg-amber-500/15 rounded-full blur-3xl pointer-events-none" />
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
       
       <!-- Section Header -->
       <SectionTitle
@@ -23,7 +27,7 @@ const workProcess = homeData.workProcess
         <div
           v-for="(step, index) in workProcess"
           :key="step.number"
-          class="relative bg-slate-800/80 rounded-2xl p-6 border border-slate-700/80 hover:border-amber-400/80 transition-all duration-300 group flex flex-col justify-between"
+          class="relative bg-slate-900/90 rounded-2xl p-6 border border-emerald-900/60 hover:border-amber-400/80 hover:bg-slate-900 shadow-xl transition-all duration-300 group flex flex-col justify-between"
         >
           <div>
             <!-- Step Image -->

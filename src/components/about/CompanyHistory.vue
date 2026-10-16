@@ -17,8 +17,12 @@ const getTimelineIcon = (index) => {
 </script>
 
 <template>
-  <section class="py-20 bg-slate-900 text-white border-y border-slate-800">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+  <section class="py-20 bg-gradient-to-b from-slate-900 via-emerald-950/70 to-slate-900 text-white border-y border-emerald-900/40 relative overflow-hidden">
+    <!-- Ambient Background Glow -->
+    <div class="absolute -top-32 -left-32 w-96 h-96 bg-brand-500/15 rounded-full blur-3xl pointer-events-none" />
+    <div class="absolute -bottom-32 -right-32 w-96 h-96 bg-amber-500/15 rounded-full blur-3xl pointer-events-none" />
+
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
       
       <!-- Section Header -->
       <SectionTitle
@@ -32,7 +36,7 @@ const getTimelineIcon = (index) => {
       <!-- Timeline Container -->
       <div class="relative mt-16 max-w-4xl mx-auto">
         <!-- Central Line for Desktop / Left Line for Mobile -->
-        <div class="absolute left-6 md:left-1/2 top-0 bottom-0 w-0.5 bg-gradient-to-b from-amber-500 via-amber-400 to-slate-700 transform md:-translate-x-1/2" />
+        <div class="absolute left-6 md:left-1/2 top-0 bottom-0 w-0.5 bg-gradient-to-b from-amber-500 via-amber-400 to-emerald-900/60 transform md:-translate-x-1/2" />
 
         <div class="space-y-12">
           <div
@@ -44,7 +48,7 @@ const getTimelineIcon = (index) => {
             <!-- Timeline Content Card -->
             <div class="ml-16 md:ml-0 md:w-1/2">
               <div 
-                class="bg-slate-800/90 rounded-2xl p-6 sm:p-7 border border-slate-700/80 hover:border-amber-400 transition-all duration-300 shadow-xl group"
+                class="bg-slate-900/90 rounded-2xl p-6 sm:p-7 border border-emerald-900/60 hover:border-amber-400 transition-all duration-300 shadow-xl group"
                 :class="[index % 2 === 0 ? 'md:mr-8' : 'md:ml-8']"
               >
                 <!-- Year Badge -->
@@ -64,7 +68,7 @@ const getTimelineIcon = (index) => {
             </div>
 
             <!-- Central Timeline Node Icon -->
-            <div class="absolute left-6 md:left-1/2 transform -translate-x-1/2 w-12 h-12 rounded-full bg-slate-950 border-4 border-amber-500 flex items-center justify-center text-amber-400 shadow-lg z-10">
+            <div class="absolute left-6 md:left-1/2 transform -translate-x-1/2 w-12 h-12 rounded-full bg-emerald-950 border-4 border-amber-500 flex items-center justify-center text-amber-300 shadow-lg z-10">
               <component :is="getTimelineIcon(index)" class="w-5 h-5" />
             </div>
 

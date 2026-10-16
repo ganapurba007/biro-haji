@@ -27,10 +27,10 @@ const featuredProjects = projectsData.filter((p) => p.featured).slice(0, 3)
 
         <RouterLink
           :to="agencyLink('/proyek')"
-          class="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-slate-900 hover:bg-slate-800 text-white text-sm font-bold shadow transition-colors shrink-0"
+          class="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-brand-600 hover:bg-brand-700 text-white text-sm font-bold shadow-md hover:shadow transition-colors shrink-0"
         >
           <span>Lihat Semua Paket ({{ projectsData.length }})</span>
-          <ArrowRight class="w-4 h-4 text-amber-400" />
+          <ArrowRight class="w-4 h-4 text-amber-300" />
         </RouterLink>
       </div>
 

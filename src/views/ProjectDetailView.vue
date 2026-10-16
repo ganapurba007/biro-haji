@@ -84,7 +84,7 @@ const copyShareLink = async () => {
       </p>
       <RouterLink
         :to="agencyLink('/proyek')"
-        class="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl bg-slate-900 hover:bg-slate-800 text-white font-bold text-sm shadow-md transition-colors"
+        class="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-bold text-sm shadow-md transition-colors"
       >
         <ArrowLeft class="w-4 h-4" />
         <span>Kembali ke Katalog Paket</span>
@@ -94,14 +94,10 @@ const copyShareLink = async () => {
     <!-- FR-5.3: Project Detail View if Project Found -->
     <div v-else class="space-y-0 bg-slate-50">
       
-      <!-- Page Header with Breadcrumbs -->
+      <!-- Page Header Banner -->
       <PageHeader
         :title="project.title"
         :subtitle="`Kategori: ${project.category} • Maskapai & Hotel: ${project.client}`"
-        :breadcrumbs="[
-          { name: 'Katalog Paket', path: agencyLink('/proyek') },
-          { name: project.title }
-        ]"
         :backgroundImage="project.images[0]"
       />
 

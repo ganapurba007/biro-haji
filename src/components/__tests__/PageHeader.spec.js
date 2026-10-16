@@ -12,18 +12,17 @@ describe('PageHeader Component', () => {
     }
   }
 
-  it('renders title, subtitle and breadcrumbs correctly', () => {
+  it('renders title and subtitle correctly without breadcrumbs', () => {
     const wrapper = mount(PageHeader, {
       props: {
         title: 'Tentang Kami',
-        subtitle: 'Profil perusahaan kontraktor.',
-        breadcrumbs: [{ name: 'Tentang Kami' }]
+        subtitle: 'Profil biro perjalanan haji & umroh terpercaya.'
       },
       global: globalMocks
     })
 
     expect(wrapper.text()).toContain('Tentang Kami')
-    expect(wrapper.text()).toContain('Profil perusahaan kontraktor.')
-    expect(wrapper.text()).toContain('Beranda')
+    expect(wrapper.text()).toContain('Profil biro perjalanan haji & umroh terpercaya.')
+    expect(wrapper.find('nav[aria-label="Breadcrumb"]').exists()).toBe(false)
   })
 })

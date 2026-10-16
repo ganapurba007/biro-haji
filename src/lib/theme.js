@@ -98,9 +98,10 @@ export function shadesToCssVariables(shades, prefix = 'brand') {
   const vars = {}
   for (const [key, rgb] of Object.entries(shades)) {
     const hex = rgbToHex(rgb.r, rgb.g, rgb.b)
-    vars[`--color-${prefix}-${key}`] = `${rgb.r} ${rgb.g} ${rgb.b}`
+    vars[`--color-${prefix}-${key}`] = hex
     vars[`--hex-${prefix}-${key}`] = hex
     vars[`--app-${prefix}-${key}`] = hex
+    vars[`--rgb-${prefix}-${key}`] = `${rgb.r} ${rgb.g} ${rgb.b}`
   }
   return vars
 }

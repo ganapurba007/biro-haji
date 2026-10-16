@@ -14,6 +14,68 @@ Format tiap entri:
 **Docs updated:** [PRD §9 / SCHEMA.md / tidak ada perubahan scope]
 -->
 
+## UI Refinement — Penghapusan Breadcrumbs di Seluruh Halaman (2026-10-16)
+**FR terkait:** FR-1.1, Desain & Layout Halaman
+**Yang dikerjakan:**
+- **Penghapusan Breadcrumbs Global:**
+  - Menghapus navigasi breadcrumb (`<nav aria-label="Breadcrumb">`) pada komponen header bersama [PageHeader.vue](file:///d:/Projects/umroh/src/components/ui/PageHeader.vue)
+  - Membersihkan passing prop `:breadcrumbs` di seluruh view sub-halaman: [AboutView.vue](file:///d:/Projects/umroh/src/views/AboutView.vue), [ServicesView.vue](file:///d:/Projects/umroh/src/views/ServicesView.vue), [ProjectsView.vue](file:///d:/Projects/umroh/src/views/ProjectsView.vue), [ProjectDetailView.vue](file:///d:/Projects/umroh/src/views/ProjectDetailView.vue), dan [ContactView.vue](file:///d:/Projects/umroh/src/views/ContactView.vue)
+  - Tampilan header pada seluruh sub-halaman kini lebih bersih, lapang, dan langsung menonjolkan judul serta deskripsi halaman
+- **Testing & Build:** Seluruh 58 unit tests lolos (100% green) dan build produksi Vite sukses
+**File yang berubah:** `src/components/ui/PageHeader.vue`, `src/components/__tests__/PageHeader.spec.js`, `src/views/AboutView.vue`, `src/views/ServicesView.vue`, `src/views/ProjectsView.vue`, `src/views/ProjectDetailView.vue`, `src/views/ContactView.vue`, `context/CHANGELOG.md`
+**Test:** 58 passed / 58 total (23 test files)
+**Docs updated:** CHANGELOG.md
+
+## Content Update — Penggantian Foto Buah & Penyesuaian Profil Tim ke Laki-Laki (2026-10-16)
+**FR terkait:** FR-2.1, FR-2.4, FR-3.3, FR-5.1
+**Yang dikerjakan:**
+- **Eliminasi Foto Buah/Supermarket:**
+  - Mengganti seluruh referensi foto buah/supermarket (`photo-1542838132-92c53300491e`) dengan foto ibadah Islami autentik (Ka'bah Makkah, tawaf, dan mushaf Al-Qur'an) pada:
+    - [home.json](file:///d:/Projects/umroh/src/data/home.json) (Slide 2: Haji Khusus & Furoda)
+    - [services.json](file:///d:/Projects/umroh/src/data/services.json) (Layanan 3: Haji Khusus & Haji Furoda Mujamalah)
+    - [projects.json](file:///d:/Projects/umroh/src/data/projects.json) (Paket Umroh Reguler, Umroh Ramadhan, Haji Furoda, Haji Kuota Kemenag, dan Badal Umroh)
+    - [company.json](file:///d:/Projects/umroh/src/data/company.json) (SK Izin Resmi Haji Khusus PIHK)
+- **Penyesuaian Profil Tim & Testimoni:**
+  - Mengubah anggota tim ke-4 pada [team.json](file:///d:/Projects/umroh/src/data/team.json) dari *Hj. Siti Rahmawati, S.Psi.* menjadi figur pria: **H. Arif Rahman Hakim, S.E., M.M.** (Kepala Divisi Operasional & Pelayanan Jamaah) lengkap dengan foto profil pria profesional
+  - Menyesuaikan testimoni ke-4 pada [testimonials.json](file:///d:/Projects/umroh/src/data/testimonials.json) menjadi **H. Bambang Irawan & Keluarga** dengan avatar pria
+- **Testing & Build:** Seluruh 58 unit tests lolos (100% green) dan build produksi Vite sukses
+**File yang berubah:** `src/data/home.json`, `src/data/services.json`, `src/data/projects.json`, `src/data/company.json`, `src/data/team.json`, `src/data/testimonials.json`, `context/CHANGELOG.md`
+**Test:** 58 passed / 58 total (23 test files)
+**Docs updated:** CHANGELOG.md
+
+## UI Refinement — Penghapusan Badge & Perbaikan Spacing Navigasi Hero Slider (2026-10-16)
+**FR terkait:** FR-2.1, Desain & Layout Hero Section
+**Yang dikerjakan:**
+- **Penghapusan Badge Eyebrow Tagline:**
+  - Menghapus badge pill tagline (*"Melayani Tamu Allah Sepenuh Hati Menuju Ibadah yang Mabrur"*) di atas judul hero slider pada [HeroSlider.vue](file:///d:/Projects/umroh/src/components/sections/HeroSlider.vue) agar layout header hero lebih lapang, bersih, dan langsung fokus ke headline utama
+- **Perbaikan Jarak & Posisi Navigasi Hero:**
+  - Memindahkan tombol panah navigasi (`<` dan `>`) dari sudut kanan bawah (yang sebelumnya mepet dan bertabrakan dengan floating card `ScoreCards`) ke sisi kiri dan kanan layar secara vertikal terpusat (`top-1/2 -translate-y-1/2 left-4 lg:left-8` dan `right-4 lg:right-8`) dengan tampilan frosted glass circular mewah (`bg-slate-900/40 backdrop-blur-md border border-white/20 hover:bg-amber-500`)
+  - Menaikkan indikator titik slide (*dots indicator*) ke `bottom-24 sm:bottom-28` agar berdiri aman dan terpisah di atas kartu `ScoreCards`
+- **Testing & Build:** Seluruh 58 unit tests lolos (100% green) dan build produksi Vite sukses
+**File yang berubah:** `src/components/sections/HeroSlider.vue`, `context/CHANGELOG.md`
+**Test:** 58 passed / 58 total (23 test files)
+**Docs updated:** CHANGELOG.md
+
+## Style — Palet Warna Default Segar, Cerah & Bernuansa Islami (2026-10-16)
+**FR terkait:** FR-8.1, Desain & Tema Visual
+**Yang dikerjakan:**
+- **Pembaruan Palet Warna Default:**
+  - Mengubah warna primer default dari hijau zamrud gelap pekat (`#064e3b` Emerald 900) menjadi hijau zamrud Islami yang cerah, kaya, dan segar (`#047857` Emerald 700 / `#059669` Emerald 600) di `src/data/agencies.json`, `src/lib/agencies.js`, `src/assets/main.css`, `public/favicon.svg`, dan `public/images/logos/default-biro.svg`
+  - Mengubah warna aksen default menjadi emas amber hangat yang bercahaya (`#f59e0b` Amber 500 & `#fbbf24` Amber 400)
+- **Eliminasi Kesan Gelap & Monokrom:**
+  - `HeroSlider.vue`: Mengganti overlay hitam pekat `slate-950/95` dengan gradien hijau zamrud Islami `from-emerald-950/90 via-emerald-950/65 to-slate-900/35` sehingga keindahan visual Masjidil Haram & Nabawi bersinar alami dan teks tetap memiliki kontras tinggi
+  - `TopBar.vue`: Mengganti latar `bg-slate-900` dengan hijau zamrud `bg-emerald-950 text-emerald-100` beraksen emas
+  - `WorkProcessSection.vue` & `CompanyHistory.vue`: Mengganti flat `bg-slate-900` dengan gradasi halus bernuansa zamrud dan pencahayaan radial ambient emas
+  - `CtaBanner.vue`: Mengubah latar kartu menjadi gradien hijau zamrud `from-emerald-900 via-emerald-950 to-slate-900` dengan tombol emas amber menyala
+  - `Footer.vue`: Menyelaraskan latar belakang dengan gradasi zamrud lembut `from-slate-950 to-emerald-950/80`
+  - `AboutSection.vue`, `StatsStrip.vue`, `FeaturedProjects.vue`: Mengganti tombol atau badge hitam ke warna brand aktif (`bg-brand-600` / `bg-emerald-950`)
+- **Fix Syntax Nilai CSS Variable Tailwind v4:**
+  - Memperbaiki `shadesToCssVariables` di `src/lib/theme.js` agar menghasilkan kode warna hex valid (`#xxxxxx`) untuk `--color-${prefix}-${key}` sehingga utilitas Tailwind v4 seperti `bg-amber-500` dan `text-amber-400` teraplikasikan secara langsung tanpa fallback invalid
+- **Testing & Build:** Seluruh 58 unit tests lolos (100% green) dan build produksi Vite sukses
+**File yang berubah:** `src/data/agencies.json`, `src/lib/agencies.js`, `src/lib/theme.js`, `src/assets/main.css`, `public/favicon.svg`, `public/images/logos/default-biro.svg`, `index.html`, `src/components/layout/TopBar.vue`, `src/components/sections/HeroSlider.vue`, `src/components/sections/WorkProcessSection.vue`, `src/components/sections/CtaBanner.vue`, `src/components/layout/Footer.vue`, `src/components/sections/AboutSection.vue`, `src/components/sections/StatsStrip.vue`, `src/components/sections/FeaturedProjects.vue`, `src/views/ProjectDetailView.vue`, `src/components/__tests__/theme.spec.js`, `context/CHANGELOG.md`
+**Test:** 58 passed / 58 total (23 test files)
+**Docs updated:** CHANGELOG.md
+
 ## Fix — Favicon Islami, Logo Biro Preset, dan Visibilitas Hero Slider (2026-10-16)
 **FR terkait:** FR-1.2, FR-2.1, FR-7.2
 **Yang dikerjakan:**

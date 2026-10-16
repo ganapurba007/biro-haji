@@ -38,7 +38,7 @@ const getSocialIcon = (name) => {
 </script>
 
 <template>
-  <footer class="bg-slate-950 text-slate-400 pt-16 pb-8 border-t border-slate-900">
+  <footer class="bg-gradient-to-b from-slate-950 to-emerald-950/80 text-slate-300 pt-16 pb-8 border-t border-emerald-900/40">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-10 lg:gap-8 pb-12 border-b border-slate-800">
         
@@ -61,18 +61,18 @@ const getSocialIcon = (name) => {
             </div>
           </RouterLink>
 
-          <p class="text-sm text-slate-400 leading-relaxed pr-4">
+          <p class="text-sm text-slate-300 leading-relaxed pr-4">
             {{ agency.about }}
           </p>
 
-          <div class="flex items-center gap-2 text-xs text-amber-400 bg-slate-900/80 px-3.5 py-2 rounded-lg border border-slate-800 w-fit">
+          <div class="flex items-center gap-2 text-xs text-amber-300 bg-emerald-950/90 px-3.5 py-2 rounded-lg border border-emerald-900/70 w-fit">
             <ShieldCheck class="w-4 h-4 text-amber-400 shrink-0" />
             <span>Izin Resmi Kemenag RI (PPIU & PIHK) • Akreditasi A</span>
           </div>
 
           <!-- Social Media Links -->
           <div class="pt-2">
-            <h4 class="text-xs uppercase font-bold tracking-wider text-slate-300 mb-3">Media Sosial</h4>
+            <h4 class="text-xs uppercase font-bold tracking-wider text-slate-200 mb-3">Media Sosial</h4>
             <div class="flex items-center space-x-3">
               <a
                 v-for="item in companyData.social"
@@ -80,7 +80,7 @@ const getSocialIcon = (name) => {
                 :href="item.url"
                 target="_blank"
                 rel="noopener noreferrer"
-                class="w-9 h-9 rounded-lg bg-slate-900 hover:bg-amber-500 text-slate-400 hover:text-slate-950 flex items-center justify-center transition-all duration-200 border border-slate-800"
+                class="w-9 h-9 rounded-lg bg-emerald-950/80 hover:bg-amber-500 text-slate-300 hover:text-slate-950 flex items-center justify-center transition-all duration-200 border border-emerald-900/60"
                 :aria-label="item.name"
               >
                 <component :is="getSocialIcon(item.name)" class="w-4 h-4" />

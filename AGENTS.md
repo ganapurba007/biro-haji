@@ -10,7 +10,7 @@
 ## Status Saat Ini
 - **Fase aktif:** Selesai (Fase 8 — Transformasi Scope Rebranding & Dynamic Client Mockup Subpath Selesai)
 - **Test:** 58 passed / 58 total (23 test files)
-- **Sedang dikerjakan:** Seluruh implementasi website Demo Biro Umroh dan Haji serta dynamic branding multi-client mockup (`/:agencySlug`) telah selesai, 58/58 unit test lulus, build produksi sukses
+- **Sedang dikerjakan:** Breadcrumbs di seluruh sub-halaman dihilangkan, header tampil bersih dan lapang, 58/58 unit test lulus, build produksi sukses
 - **Update terakhir:** 2026-10-16
 
 > Update 3 baris di atas setiap kali fase/task berubah. Jangan biarkan basi.

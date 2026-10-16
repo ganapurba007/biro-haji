@@ -26,11 +26,10 @@ const handleCategoryChange = (category) => {
 
 <template>
   <div class="space-y-0">
-    <!-- Page Header Banner with Breadcrumbs -->
+    <!-- Page Header Banner -->
     <PageHeader
       title="Katalog Paket Ibadah"
       subtitle="Pilihan paket ibadah haji khusus, umroh reguler bintang 5, umroh plus mancanegara, dan wisata halal dengan fasilitas terbaik."
-      :breadcrumbs="[{ name: 'Katalog Paket Ibadah' }]"
       backgroundImage="https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=1600&q=80"
     />
 
