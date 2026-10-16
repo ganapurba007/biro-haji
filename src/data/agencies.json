@@ -266,6 +266,120 @@
         "email": "magelang@arminarekaperdana.com",
         "address": "Punduhsari RT.5/RW.2, Tempuran, Kabupaten Magelang, Jawa Tengah 56161"
       }
+    },
+    "mozaik-umroh-solo": {
+      "slug": "mozaik-umroh-solo",
+      "name": "Mozaik Surakarta Biro Umroh & Haji Khusus",
+      "shortName": "MOZAIK",
+      "subName": "Biro Umroh Solo",
+      "tagline": "Biro Umroh Terpercaya Solo — Bimbingan Ibadah Sesuai Sunnah & Hotel Nyaman",
+      "about": "Mozaik Surakarta Biro Umroh & Haji Khusus melayani perjalanan ibadah masyarakat Solo Raya dengan komitmen kepastian jadwal, akomodasi hotel dekat masjid, dan bimbingan muthawif berpengalaman.",
+      "logo": "/images/logos/mozaik-umroh-solo.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "08164274822",
+        "whatsapp": "628164274822",
+        "email": "info@mozaikumrohsolo.com",
+        "address": "Jl. Satrio Wibowo Sel. No.15, Surakarta, Jawa Tengah"
+      }
+    },
+    "kansa-tours-klaten": {
+      "slug": "kansa-tours-klaten",
+      "name": "KANSA TOURS (PT Kafilah Antar Nusa) Klaten",
+      "shortName": "KANSA TOURS",
+      "subName": "Biro Umroh & Haji",
+      "tagline": "Mitra Ibadah Amanah Klaten — Kepastian Berangkat, Pelayanan Purna Jual",
+      "about": "PT Kafilah Antar Nusa (KANSA TOURS) Klaten merupakan penyelenggara perjalanan ibadah umroh dan haji khusus resmi berizin. Didukung fasilitas prima dan asatidz pembimbing kompeten.",
+      "logo": "/images/logos/kansa-tours-klaten.svg",
+      "colors": {
+        "brand": "#065f46",
+        "accent": "#eab308"
+      },
+      "contact": {
+        "phone": "081285647949",
+        "whatsapp": "6281285647949",
+        "email": "klaten@kansatours.com",
+        "address": "Kabupaten Klaten, Jawa Tengah"
+      }
+    },
+    "hisar-global-klaten": {
+      "slug": "hisar-global-klaten",
+      "name": "Travel Umrah & Haji Hisar Global Klaten",
+      "shortName": "HISAR GLOBAL",
+      "subName": "Biro Umrah Klaten",
+      "tagline": "Khidmah Jamaah Menuju Baitullah — Profesional dan Berpengalaman",
+      "about": "Hisar Global Klaten melayani pendaftaran paket umrah reguler dan plus dengan penerbangan terbaik serta pendampingan maksimal dari keberangkatan hingga kepulangan.",
+      "logo": "/images/logos/hisar-global-klaten.svg",
+      "colors": {
+        "brand": "#1e40af",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "081943634974",
+        "whatsapp": "6281943634974",
+        "email": "info@hisarglobalklaten.com",
+        "address": "Jl. Dk. Mrisen RT.01/RW.01, Klaten, Jawa Tengah"
+      }
+    },
+    "vianzo-amanah-klaten": {
+      "slug": "vianzo-amanah-klaten",
+      "name": "Vianzo Amanah Tour Klaten",
+      "shortName": "VIANZO",
+      "subName": "Biro Haji & Umroh",
+      "tagline": "Umroh Berkualitas dan Murah — Amanah dan Penuh Senyuman",
+      "about": "Vianzo Amanah Tour Klaten menghadirkan paket ibadah umroh hemat berkualitas untuk warga Klaten. Fasilitas hotel nyaman dan bimbingan ibadah ramah jemaah.",
+      "logo": "/images/logos/vianzo-amanah-klaten.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "081327783095",
+        "whatsapp": "6281327783095",
+        "email": "info@vianzotravel.com",
+        "address": "Jl. Ronggo Warsito No.2, Klaten, Jawa Tengah"
+      }
+    },
+    "ameera-klaten": {
+      "slug": "ameera-klaten",
+      "name": "Biro Umroh dan Haji Plus Ameera Klaten",
+      "shortName": "AMEERA",
+      "subName": "Umroh & Haji Plus",
+      "tagline": "Solusi Perjalanan Umroh Tenang — Layanan Terpadu & Hotel Dekat Masjid",
+      "about": "Ameera Klaten melayani calon jemaah umroh dan haji plus dengan kepastian fasilitas, bimbingan syari, serta pilihan jadwal yang fleksibel.",
+      "logo": "/images/logos/ameera-klaten.svg",
+      "colors": {
+        "brand": "#115e59",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "081215858282",
+        "whatsapp": "6281215858282",
+        "email": "klaten@ameeratravel.com",
+        "address": "Ps. Gabus, Klaten, Jawa Tengah"
+      }
+    },
+    "golden-jannah-klaten": {
+      "slug": "golden-jannah-klaten",
+      "name": "Golden Jannah Haji & Umroh Klaten",
+      "shortName": "GOLDEN JANNAH",
+      "subName": "Travel Haji & Umroh",
+      "tagline": "Melangkah ke Baitullah Meraih Jannah — Fasilitas Lengkap & Terpercaya",
+      "about": "Golden Jannah Haji & Umroh melayani warga Cawas, Klaten dan sekitarnya dengan paket perjalanan ibadah yang amanah, transparan, dan mengutamakan kenyamanan jemaah.",
+      "logo": "/images/logos/golden-jannah-klaten.svg",
+      "colors": {
+        "brand": "#064e3b",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "085868977411",
+        "whatsapp": "6285868977411",
+        "email": "info@goldenjannahklaten.com",
+        "address": "Jl. Cawas-Weru, Klaten, Jawa Tengah"
+      }
     }
   }
 }

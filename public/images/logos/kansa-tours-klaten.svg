@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="kanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#065f46" />
+      <stop offset="100%" stop-color="#022c22" />
+    </linearGradient>
+    <linearGradient id="kanGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#eab308" />
+      <stop offset="100%" stop-color="#ca8a04" />
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="46" fill="url(#kanGrad)" stroke="url(#kanGold)" stroke-width="3" />
+  <g transform="translate(32, 28)">
+    <rect x="4" y="10" width="28" height="26" rx="2" fill="#0B132B" stroke="url(#kanGold)" stroke-width="2" />
+    <rect x="4" y="16" width="28" height="4" fill="url(#kanGold)" />
+    <rect x="22" y="22" width="6" height="14" rx="1" fill="url(#kanGold)" />
+  </g>
+  <text x="50" y="78" font-family="sans-serif" font-weight="900" font-size="11" fill="url(#kanGold)" text-anchor="middle" letter-spacing="1">KANSA</text>
+</svg>

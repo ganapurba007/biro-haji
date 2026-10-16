@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="ameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#115e59" />
+      <stop offset="100%" stop-color="#134e4a" />
+    </linearGradient>
+    <linearGradient id="ameGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="46" fill="url(#ameGrad)" stroke="url(#ameGold)" stroke-width="3" />
+  <g transform="translate(32, 28)">
+    <rect x="4" y="10" width="28" height="26" rx="2" fill="#0B132B" stroke="url(#ameGold)" stroke-width="2" />
+    <rect x="4" y="16" width="28" height="4" fill="url(#ameGold)" />
+    <rect x="22" y="22" width="6" height="14" rx="1" fill="url(#ameGold)" />
+  </g>
+  <text x="50" y="78" font-family="sans-serif" font-weight="900" font-size="11" fill="url(#ameGold)" text-anchor="middle" letter-spacing="1">AMEERA</text>
+</svg>
