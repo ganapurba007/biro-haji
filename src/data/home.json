@@ -1,0 +1,80 @@
+{
+  "heroSlides": [
+    {
+      "id": 1,
+      "headline": "Membangun Konstruksi Berstandar Dunia",
+      "subheadline": "Keahlian rekayasa teknik dan komitmen mutu tanpa kompromi untuk mewujudkan bangunan komersial & industri masa depan.",
+      "image": "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?auto=format&fit=crop&w=1600&q=80",
+      "ctaLabel": "Lihat Proyek Kami",
+      "ctaLink": "/proyek"
+    },
+    {
+      "id": 2,
+      "headline": "Infrastruktur Kokoh untuk Kemajuan Bangsa",
+      "subheadline": "Pengalaman lebih dari 14 tahun dalam pengerjaan jalan, jembatan, dan sarana transportasi modern di penjuru negeri.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1600&q=80",
+      "ctaLabel": "Jelajahi Layanan",
+      "ctaLink": "/layanan"
+    },
+    {
+      "id": 3,
+      "headline": "Desain Interior & Finishing Presisi Tinggi",
+      "subheadline": "Transformasi ruang kerja, residensial mewah, dan retail dengan estetika fungsional dan material premium pilihan.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80",
+      "ctaLabel": "Konsultasi Gratis",
+      "ctaLink": "/kontak"
+    }
+  ],
+  "scoreCards": [
+    {
+      "number": "01",
+      "title": "Kualitas Konstruksi",
+      "description": "Pengawasan ketat berstandar ISO 9001:2015 dengan pemilihan material terbaik.",
+      "score": 98
+    },
+    {
+      "number": "02",
+      "title": "Keselamatan Kerja (K3)",
+      "description": "Zero Accident Policy dan kepatuhan penuh standar keselamatan ISO 45001.",
+      "score": 100
+    },
+    {
+      "number": "03",
+      "title": "Ketepatan Waktu",
+      "description": "Manajemen proyek terintegrasi digital demi serah terima tepat jadwal.",
+      "score": 96
+    }
+  ],
+  "stats": [
+    { "label": "Proyek Selesai", "value": 150, "suffix": "+" },
+    { "label": "Klien Puas", "value": 120, "suffix": "+" },
+    { "label": "Tenaga Ahli Bersertifikat", "value": 85, "suffix": "+" },
+    { "label": "Tahun Pengalaman", "value": 14, "suffix": " Thn" }
+  ],
+  "workProcess": [
+    {
+      "number": "01",
+      "title": "Konsultasi & Studi Kelayakan",
+      "description": "Diskusi komprehensif mengenai visi, kebutuhan teknis, anggaran, dan survei lokasi awal.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "number": "02",
+      "title": "Perencanaan & Desain Teknis",
+      "description": "Penyusunan gambar kerja, perhitungan struktur, timeline pengerjaan, dan spesifikasi RAB transparan.",
+      "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "number": "03",
+      "title": "Pelaksanaan & Supervisi K3",
+      "description": "Pembangunan fisik dengan kontrol kualitas harian dan standar keselamatan kerja tinggi.",
+      "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "number": "04",
+      "title": "Serah Terima & Garansi",
+      "description": "Inspeksi akhir bersama klien, pengujian fungsionalitas, serta masa pemeliharaan bergaransi resmi.",
+      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=600&q=80"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+    "slug": "menara-graha-nusantara",
+    "title": "Pembangunan Menara Graha Nusantara",
+    "category": "Gedung",
+    "location": "Jakarta Selatan",
+    "year": 2024,
+    "client": "PT Graha Nusantara Investama",
+    "duration": "18 Bulan",
+    "status": "Selesai",
+    "summary": "Pembangunan gedung perkantoran modern 18 lantai dengan façade hemat energi dan sistem otomasi pintar.",
+    "description": "Proyek pembangunan gedung perkantoran setinggi 18 lantai dengan 3 lantai basement. Menggunakan struktur beton bertulang mutu tinggi, kaca low-E curtain wall, sistem tata udara sentral VRV berstandar green building, dan integrasi Building Management System.",
+    "images": [
+      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "slug": "tol-lingkar-timur-seksi-3",
+    "title": "Pekerjaan Jalan Tol Lingkar Timur Seksi 3",
+    "category": "Infrastruktur",
+    "location": "Jawa Barat",
+    "year": 2023,
+    "client": "PT Marga Mandiri Persada",
+    "duration": "14 Bulan",
+    "status": "Selesai",
+    "summary": "Pengerjaan perkerasan rigid sepanjang 12,5 km dilengkapi dengan overpass dan sistem drainase terpadu.",
+    "description": "Pekerjaan konstruksi jalan tol sepanjang 12,5 km dengan perkerasan kaku (rigid pavement), 2 unit jembatan flyover bentang 40 meter, pemasangan barrier beton, serta penataan lereng dengan sistem geotekstil.",
+    "images": [
+      "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true
+  },
+  {
+    "id": 3,
+    "slug": "headquarter-bkn-fintech",
+    "title": "Fit-Out Kantor Pusat Finansial Digital",
+    "category": "Interior",
+    "location": "Jakarta Pusat",
+    "year": 2024,
+    "client": "PT Finansial Mandiri Solusi",
+    "duration": "4 Bulan",
+    "status": "Selesai",
+    "summary": "Desain dan renovasi interior kantor kolaboratif seluas 3.200 m² bernuansa modern industrial elegan.",
+    "description": "Pelaksanaan interior komprehensif pada 3 lantai gedung, mencakup area open workspace, 12 ruang meeting kedap suara akustik, cafeteria korporat, lounge eksekutif, dan sistem pencahayaan pintar circadian rhythm.",
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": true
+  },
+  {
+    "id": 4,
+    "slug": "renovasi-heritage-hotel-royal",
+    "title": "Restorasi & Renovasi Grand Heritage Hotel",
+    "category": "Renovasi",
+    "location": "Yogyakarta",
+    "year": 2023,
+    "client": "PT Pesona Wisata Nusantara",
+    "duration": "10 Bulan",
+    "status": "Selesai",
+    "summary": "Penguatan struktur bangunan cagar budaya dan peremajaan 80 kamar hotel dengan kenyamanan bintang lima.",
+    "description": "Proyek preservasi arsitektur kolonial bersejarah yang dipadukan dengan penguatan struktur beton bawah tanah, modernisasi plumbing, dan interior bergaya etnik kontemporer.",
+    "images": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false
+  },
+  {
+    "id": 5,
+    "slug": "pusat-logistik-modern-cikarang",
+    "title": "Kawasan Pergudangan & Pusat Logistik Cikarang",
+    "category": "Gedung",
+    "location": "Bekasi, Jawa Barat",
+    "year": 2024,
+    "client": "PT Logistik Samudera Pratama",
+    "duration": "12 Bulan",
+    "status": "Selesai",
+    "summary": "Pembangunan kompleks gudang modern bertaraf internasional dengan lantai super flat floor dan dock leveler.",
+    "description": "Konstruksi struktur baja bentang lebar seluas 24.000 m² dengan spesifikasi lantai flatness FM2, insulasi atap thermo-reflective, instalasi sprinkler ESFR, dan area parkir truk muatan berat.",
+    "images": [
+      "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false
+  },
+  {
+    "id": 6,
+    "slug": "jembatan-penyeberangan-ikonik-bahari",
+    "title": "Jembatan Penyeberangan & Jalur Pedestrian Ikonik",
+    "category": "Infrastruktur",
+    "location": "Semarang",
+    "year": 2023,
+    "client": "Dinas Bina Marga & Tata Ruang",
+    "duration": "8 Bulan",
+    "status": "Selesai",
+    "summary": "Pembangunan jembatan lengkung baja artistik dengan pencahayaan LED arsitektural di kawasan pesisir.",
+    "description": "Konstruksi jembatan pejalan kaki dengan struktur cable-stayed estetis, lantai kaca tempered tahan cuaca ekstrem, dan lift aksesibilitas ramah difabel.",
+    "images": [
+      "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false
+  },
+  {
+    "id": 7,
+    "slug": "residensial-villa-nirwana-ubud",
+    "title": "Kompleks Villa Eksklusif Nirwana",
+    "category": "Gedung",
+    "location": "Bali",
+    "year": 2023,
+    "client": "PT Bali Surya Resort",
+    "duration": "11 Bulan",
+    "status": "Selesai",
+    "summary": "Pembangunan 12 unit private luxury villa dengan kolam infinity dan lanskap tropis terintegrasi.",
+    "description": "Pengembangan residensial peristirahatan premium dengan kombinasi struktur beton ekspos, kayu ulin Kalimantan, atap sirap tradisional, dan penataan tebing alami dengan retaining wall teruji.",
+    "images": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false
+  },
+  {
+    "id": 8,
+    "slug": "renovasi-fasilitas-rumah-sakit-medika",
+    "title": "Modernisasi Fasilitas Bedah Rumah Sakit Medika",
+    "category": "Renovasi",
+    "location": "Surabaya",
+    "year": 2024,
+    "client": "Yayasan Kesehatan Medika Utama",
+    "duration": "6 Bulan",
+    "status": "Selesai",
+    "summary": "Renovasi ruang operasi bertekanan positif dengan standar HEPA filter dan dinding antibakteri.",
+    "description": "Pekerjaan spesialis ruang medis steril mencakup sistem tata udara HVAC Cleanroom Kelas 10.000, gas medis tersentralisasi, vinyl antistatis konduktif, dan pintu otomatis kedap udara hermetik.",
+    "images": [
+      "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "featured": false
+  }
+]

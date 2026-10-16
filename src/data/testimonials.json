@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Agus Setiawan",
+    "role": "Direktur Pengembangan Properti, PT Graha Nusantara Investama",
+    "quote": "PT Adhirajasa Karya Mandiri menunjukkan dedikasi luar biasa dalam proyek pembangunan Menara Graha. Struktur kokoh, detail façade rapi, dan serah terima dilakukan 2 minggu lebih cepat dari target.",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Clarissa Wijaya",
+    "role": "VP Operations, PT Finansial Mandiri Solusi",
+    "quote": "Pekerjaan fit-out interior kantor pusat kami berjalan sangat mulus. Tim lapangan sangat tertib, komunikatif, dan standar estetika yang dihasilkan benar-benar sesuai ekspektasi dewan direksi.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Ir. Denny Wardana",
+    "role": "Project Director, PT Marga Mandiri Persada",
+    "quote": "Kepatuhan terhadap standar K3 dan mutu perkerasan rigid beton pada jalan tol seksi 3 sangat teruji. Salah satu mitra kontraktor terbaik yang pernah bekerja sama dengan kami.",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=300&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Siti Nurhaliza Putri",
+    "role": "General Manager, PT Pesona Wisata Nusantara",
+    "quote": "Merestorasi hotel cagar budaya bukanlah hal yang mudah. PT Adhirajasa mampu menjaga nilai historis bangunan sembari menghadirkan kenyamanan modern kelas premium.",
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=300&q=80"
+  }
+]

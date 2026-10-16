@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "slug": "pembangunan-gedung",
+    "title": "Pembangunan Gedung",
+    "summary": "Konstruksi gedung komersial, perkantoran, dan fasilitas publik berstandar tinggi.",
+    "description": "Layanan konstruksi gedung komersial, perkantoran modern, pusat perbelanjaan, rumah sakit, dan fasilitas publik mulai dari fondasi, struktur beton bertulang/baja, MEP (Mechanical, Electrical, Plumbing), hingga tahap finishing arsitektural.",
+    "scope": [
+      "Struktur Beton Bertulang & Rangka Baja",
+      "Instalasi Sistem Mekanikal & Elektrikal (MEP)",
+      "Pemasangan Façade & Curtain Wall",
+      "Sistem Proteksi Kebakaran & Otomasi Gedung",
+      "Finishing Arsitektural Eksterior & Interior"
+    ],
+    "icon": "Building2",
+    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 2,
+    "slug": "renovasi-rehabilitasi",
+    "title": "Renovasi & Rehabilitasi Gedung",
+    "summary": "Peningkatan performa, perluasan struktur, dan modernisasi bangunan eksisting.",
+    "description": "Peremajaan, penguatan struktur (retrofitting), perubahan fungsi ruang, dan modernisasi arsitektur bangunan guna memperpanjang usia pakai dan meningkatkan efisiensi energi bangunan.",
+    "scope": [
+      "Audit Struktur & Retrofitting Bangunan",
+      "Redesain & Optimalisasi Tata Ruang",
+      "Peremajaan Sistem MEP & Utilitas",
+      "Penggantian Material Finishing Modern",
+      "Peningkatan Efisiensi Energi & Akustik Ruang"
+    ],
+    "icon": "Hammer",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 3,
+    "slug": "infrastruktur-jalan",
+    "title": "Infrastruktur & Jalan",
+    "summary": "Pekerjaan sipil jalan raya, jembatan, saluran drainase, dan fasilitas umum.",
+    "description": "Pengerjaan infrastruktur transportasi dan sipil mencakup perkerasan aspal hotmix, rigid pavement beton, jembatan bentang menengah, sistem drainase kota, dan penataan kawasan industri.",
+    "scope": [
+      "Perkerasan Jalan Aspal Hotmix & Rigid Beton",
+      "Konstruksi Jembatan & Flyover",
+      "Sistem Drainase & Saluran Pengendali Banjir",
+      "Pekerjaan Tanah, Cut and Fill & Pemadatan",
+      "Penerangan Jalan Umum & Marka Lalu Lintas"
+    ],
+    "icon": "Truck",
+    "image": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 4,
+    "slug": "interior-finishing",
+    "title": "Interior & Finishing Presisi",
+    "summary": "Desain dan fabrikasi interior eksklusif untuk kantor, residensial, dan komersial.",
+    "description": "Pembuatan interior custom, partisi modular, instalasi plafon akustik, tata pencahayaan artistik, dan furnitur custom (built-in) yang mengedepankan nilai ergonomis serta kemewahan estetika.",
+    "scope": [
+      "Fit-out Ruang Kantor & Komersial",
+      "Custom Furniture & Fabrikasi Kayu/Baja",
+      "Pemasangan Lantai Marmer, Granit & Vinyl SPC",
+      "Plafon Akustik & Tata Cahaya Tersembunyi",
+      "Wall Panel Dekoratif & Partisi Kaca Akustik"
+    ],
+    "icon": "Paintbrush",
+    "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 5,
+    "slug": "manajemen-pengawasan-proyek",
+    "title": "Konsultasi & Pengawasan Proyek",
+    "summary": "Manajemen konstruksi terpadu untuk pengendalian mutu, biaya, dan jadwal.",
+    "description": "Layanan supervisi lapangan, manajemen keselamatan kerja K3, estimasi biaya kuantitas (Quantity Surveying), dan quality control independen untuk memastikan keselarasan hasil dengan spesifikasi desain.",
+    "scope": [
+      "Supervisi Lapangan & Quality Assurance",
+      "Penyusunan Jadwal & Manajemen Waktu (CPM/BIM)",
+      "Pengawasan Penerapan Standar Keselamatan (K3)",
+      "Audit Kuantitas & Rekomendasi Material",
+      "Penyusunan As-Built Drawing & Dokumen Serah Terima"
+    ],
+    "icon": "ClipboardCheck",
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80"
+  }
+]
