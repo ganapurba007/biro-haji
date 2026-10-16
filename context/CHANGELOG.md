@@ -14,6 +14,19 @@ Format tiap entri:
 **Docs updated:** [PRD §9 / SCHEMA.md / tidak ada perubahan scope]
 -->
 
+## Fase 8 — Transformasi Scope & Rebranding Biro Haji & Umroh + Spesifikasi Mockup Dinamis (2026-10-16)
+**FR terkait:** FR-1.x s/d FR-7.x
+**Yang dikerjakan:**
+- Mengubah arah proyek dari profil perusahaan kontraktor umum menjadi portal company profile & katalog paket ibadah untuk **Demo Biro Umroh dan Haji** (Biro Penyelenggara Haji Khusus & Umroh Resmi Kemenag RI: PPIU & PIHK)
+- Memperbarui `context/PRD.md` mencakup latar belakang ibadah haji/umroh, pilar keunggulan (5 Pasti Umroh Kemenag), alur pendaftaran 4 langkah, paket ibadah, profil pembimbing ibadah (asatidz/muthawif), form pendaftaran/konsultasi jamaah, serta modul **FR-7.x Dynamic Client Mockup Branding & Whitelabel Subpath System** (`/:agencySlug` seperti `/surya-biro`) mengacu pada arsitektur `gerayana-rent`
+- Memperbarui `context/SCHEMA.md` untuk menyelaraskan skema data dummy JSON di `src/data/` ke domain biro perjalanan haji & umroh dan menambahkan skema `agencies.json` untuk multi-client mockup
+- Membuat pedoman kerja baku `context/rules.md` (prinsip anti-halu, standar Vue 3 & Composition API, konvensi Tailwind, testing, dan alur docs-first)
+- Memperbarui `AGENTS.md` agar mencerminkan identitas biro haji & umroh serta status fase terkini
+- Memastikan tidak ada file kode program yang diubah sesuai instruksi user
+**File yang berubah:** AGENTS.md, context/rules.md, context/PRD.md, context/SCHEMA.md, context/CHANGELOG.md
+**Test:** 46 passed / 46 total (terjaga, tanpa perubahan kode)
+**Docs updated:** PRD §3.7 & §9, SCHEMA.md, rules.md, AGENTS.md, CHANGELOG.md
+
 ## Refactoring — Corporate Aesthetic Polish & Image Audit (2026-10-09)
 **Yang dikerjakan:**
 - Menghilangkan style pill/capsule badge generic ("AI slop") di seluruh website dan menggantinya dengan sleek corporate typography, eyebrow subheaders bergaris aksen minimalis, dan rounded-md micro-tags yang profesional

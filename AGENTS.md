@@ -3,15 +3,15 @@
 > File ini adalah pintu masuk pertama untuk AI agent. Baca file ini SEBELUM membaca file lain.
 
 ## Proyek
-**Nama:** Company Profile PT Adhirajasa Karya Mandiri (dummy portfolio)
-**Tujuan:** Website company profile perusahaan kontraktor fiktif untuk portfolio, menampilkan kemampuan membangun website multi-halaman yang responsif, aksesibel, dan terstruktur rapi.
+**Nama:** Demo Biro Umroh dan Haji
+**Tujuan:** Website company profile dan katalog paket ibadah haji & umroh multi-halaman yang amanah, kredibel, responsif, aksesibel, dan terstruktur rapi untuk calon jamaah serta portfolio teknis.
 **Stack:** Vue 3 (Vite), Tailwind CSS, Vue Router, Pinia, Zod, data dummy JSON lokal (tanpa backend/database), Vitest + @vue/test-utils
 
 ## Status Saat Ini
-- **Fase aktif:** Selesai — Seluruh Fase 0–7 Selesai (Proyek Siap Rilis)
+- **Fase aktif:** Fase 8 — Transformasi Scope Rebranding & Dynamic Client Mockup Subpath
 - **Test:** 46 passed / 46 total
-- **Sedang dikerjakan:** Seluruh milestone & dokumentasi selesai terverifikasi
-- **Update terakhir:** 2026-10-09
+- **Sedang dikerjakan:** Spesifikasi sistem haji & umroh serta fitur dynamic branding multi-client mockup (`/:agencySlug` mengacu gerayana-rent) telah selesai disinkronkan ke dokumen context; kode program belum diubah
+- **Update terakhir:** 2026-10-16
 
 > Update 3 baris di atas setiap kali fase/task berubah. Jangan biarkan basi.
 
