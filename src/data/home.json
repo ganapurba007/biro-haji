@@ -2,79 +2,79 @@
   "heroSlides": [
     {
       "id": 1,
-      "headline": "Membangun Konstruksi Berstandar Dunia",
-      "subheadline": "Keahlian rekayasa teknik dan komitmen mutu tanpa kompromi untuk mewujudkan bangunan komersial & industri masa depan.",
-      "image": "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?auto=format&fit=crop&w=1600&q=80",
-      "ctaLabel": "Lihat Proyek Kami",
+      "headline": "Menunaikan Ibadah Umroh dengan Penuh Ketenangan",
+      "subheadline": "Paket Umroh Bintang 5 dengan hotel ring 1 pelataran Masjidil Haram dan bimbingan muthawif berpengalaman sesuai sunnah.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=1600&q=80",
+      "ctaLabel": "Lihat Paket Ibadah",
       "ctaLink": "/proyek"
     },
     {
       "id": 2,
-      "headline": "Infrastruktur Kokoh untuk Kemajuan Bangsa",
-      "subheadline": "Pengalaman lebih dari 14 tahun dalam pengerjaan jalan, jembatan, dan sarana transportasi modern di penjuru negeri.",
-      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1600&q=80",
-      "ctaLabel": "Jelajahi Layanan",
+      "headline": "Haji Khusus & Furoda Tanpa Antre Bertahun-tahun",
+      "subheadline": "Penyelenggaraan haji resmi izin Kemenag RI dan visa mujamalah resmi dengan fasilitas maktab VIP dan hotel pelataran.",
+      "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1600&q=80",
+      "ctaLabel": "Jelajahi Program Haji",
       "ctaLink": "/layanan"
     },
     {
       "id": 3,
-      "headline": "Desain Interior & Finishing Presisi Tinggi",
-      "subheadline": "Transformasi ruang kerja, residensial mewah, dan retail dengan estetika fungsional dan material premium pilihan.",
-      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80",
-      "ctaLabel": "Konsultasi Gratis",
+      "headline": "Perjalanan Berkah Umroh Plus Mancanegara",
+      "subheadline": "Padukan kekhusyukan ibadah di Tanah Suci dengan napak tilas sejarah peradaban Islam di Turki, Thaif, dan Dubai.",
+      "image": "https://images.unsplash.com/photo-1565552645632-d725f8bfc19a?auto=format&fit=crop&w=1600&q=80",
+      "ctaLabel": "Daftar & Konsultasi",
       "ctaLink": "/kontak"
     }
   ],
   "scoreCards": [
     {
       "number": "01",
-      "title": "Kualitas Konstruksi",
-      "description": "Pengawasan ketat berstandar ISO 9001:2015 dengan pemilihan material terbaik.",
-      "score": 98
+      "title": "Kepastian 5 Pasti Umroh",
+      "description": "Pasti Travelnya berizin, Pasti Jadwalnya, Pasti Terbangnya, Pasti Hotelnya, Pasti Visanya.",
+      "score": 100
     },
     {
       "number": "02",
-      "title": "Keselamatan Kerja (K3)",
-      "description": "Zero Accident Policy dan kepatuhan penuh standar keselamatan ISO 45001.",
+      "title": "Bimbingan Sesuai Sunnah",
+      "description": "Dibimbing langsung oleh Asatidz dan Muthawif bersertifikat lulusan Universitas Islam Madinah.",
       "score": 100
     },
     {
       "number": "03",
-      "title": "Ketepatan Waktu",
-      "description": "Manajemen proyek terintegrasi digital demi serah terima tepat jadwal.",
-      "score": 96
+      "title": "Hotel Pelataran Ring 1",
+      "description": "Akomodasi bintang 5 di pelataran Masjidil Haram dan Nabawi memudahkan sholat berjamaah.",
+      "score": 98
     }
   ],
   "stats": [
-    { "label": "Proyek Selesai", "value": 150, "suffix": "+" },
-    { "label": "Klien Puas", "value": 120, "suffix": "+" },
-    { "label": "Tenaga Ahli Bersertifikat", "value": 85, "suffix": "+" },
-    { "label": "Tahun Pengalaman", "value": 14, "suffix": " Thn" }
+    { "label": "Jamaah Diberangkatkan", "value": 12500, "suffix": "+" },
+    { "label": "Tingkat Kepuasan Jamaah", "value": 99, "suffix": "%" },
+    { "label": "Asatidz & Muthawif", "value": 45, "suffix": "+" },
+    { "label": "Tahun Khidmah Melayani", "value": 11, "suffix": " Thn" }
   ],
   "workProcess": [
     {
       "number": "01",
-      "title": "Konsultasi & Studi Kelayakan",
-      "description": "Diskusi komprehensif mengenai visi, kebutuhan teknis, anggaran, dan survei lokasi awal.",
+      "title": "Konsultasi & Pilih Paket",
+      "description": "Pilih jadwal keberangkatan, tipe kamar hotel bintang 5, dan maskapai penerbangan yang diinginkan.",
       "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=600&q=80"
     },
     {
       "number": "02",
-      "title": "Perencanaan & Desain Teknis",
-      "description": "Penyusunan gambar kerja, perhitungan struktur, timeline pengerjaan, dan spesifikasi RAB transparan.",
-      "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=600&q=80"
+      "title": "Pendaftaran & Paspor",
+      "description": "Pemeriksaan paspor, rekam biometrik visa tasreh, dan kelengkapan administrasi secara mudah.",
+      "image": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=600&q=80"
     },
     {
       "number": "03",
-      "title": "Pelaksanaan & Supervisi K3",
-      "description": "Pembangunan fisik dengan kontrol kualitas harian dan standar keselamatan kerja tinggi.",
+      "title": "Bimbingan Manasik Intensif",
+      "description": "Pembekalan rukun, tata cara thawaf, sa'i, dan doa-doa ibadah sesuai sunnah sebelum keberangkatan.",
       "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=600&q=80"
     },
     {
       "number": "04",
-      "title": "Serah Terima & Garansi",
-      "description": "Inspeksi akhir bersama klien, pengujian fungsionalitas, serta masa pemeliharaan bergaransi resmi.",
-      "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=600&q=80"
+      "title": "Keberangkatan & Bimbingan",
+      "description": "Penerbangan direct flight ke Tanah Suci didampingi tim muthawif hingga kepulangan ke Tanah Air.",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80"
     }
   ]
 }

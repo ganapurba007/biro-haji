@@ -19,7 +19,7 @@ describe('Footer Component (FR-1.4)', () => {
     expect(wrapper.text()).toContain(companyData.contact.address)
     expect(wrapper.text()).toContain(companyData.contact.phone)
     expect(wrapper.text()).toContain(companyData.contact.email)
-    expect(wrapper.text()).toContain('ADHIRAJASA')
+    expect(wrapper.text()).toContain('DEMO')
     expect(wrapper.text()).toContain('All rights reserved')
   })
 

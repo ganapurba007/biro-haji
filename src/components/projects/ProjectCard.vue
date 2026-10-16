@@ -1,6 +1,7 @@
 <script setup>
 import { RouterLink } from 'vue-router'
-import { MapPin, Calendar, Clock, ArrowRight, ExternalLink } from 'lucide-vue-next'
+import { MapPin, Calendar, Clock, ArrowRight } from 'lucide-vue-next'
+import { useAgency } from '@/composables/useAgency'
 import BaseBadge from '@/components/ui/BaseBadge.vue'
 
 defineProps({
@@ -10,8 +11,14 @@ defineProps({
   }
 })
 
+const { agencyLink } = useAgency()
+
 const getCategoryVariant = (category) => {
   switch (category.toLowerCase()) {
+    case 'umroh reguler': return 'green'
+    case 'umroh plus': return 'blue'
+    case 'haji khusus': return 'amber'
+    case 'wisata halal': return 'slate'
     case 'gedung': return 'amber'
     case 'infrastruktur': return 'blue'
     case 'renovasi': return 'green'
@@ -69,7 +76,7 @@ const getCategoryVariant = (category) => {
         </h3>
         
         <div class="flex items-center gap-2 text-xs text-slate-500 font-semibold mb-3">
-          <span>Klien:</span>
+          <span>Maskapai:</span>
           <span class="text-slate-800 font-bold truncate">{{ project.client }}</span>
         </div>
 
@@ -87,7 +94,7 @@ const getCategoryVariant = (category) => {
       </div>
 
       <RouterLink
-        :to="`/proyek/${project.slug}`"
+        :to="agencyLink(`/proyek/${project.slug}`)"
         class="inline-flex items-center gap-1 text-xs font-bold uppercase tracking-wider text-slate-900 group-hover:text-amber-600 transition-colors"
       >
         <span>Lihat Detail</span>

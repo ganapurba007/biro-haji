@@ -1,9 +1,10 @@
 <script setup>
 import { ref, onMounted, onUnmounted, watch } from 'vue'
 import { RouterLink, useRoute } from 'vue-router'
-import { Menu, X, HardHat, ArrowRight, Phone } from 'lucide-vue-next'
-import companyData from '@/data/company.json'
+import { Menu, X, ArrowRight, Phone } from 'lucide-vue-next'
+import { useAgency } from '@/composables/useAgency'
 
+const { agency, agencyLink } = useAgency()
 const route = useRoute()
 const isMobileMenuOpen = ref(false)
 const isScrolled = ref(false)
@@ -53,10 +54,11 @@ onUnmounted(() => {
 
 const isActive = (path) => {
   if (!route || !route.path) return false
+  const target = agencyLink(path)
   if (path === '/') {
-    return route.path === '/'
+    return route.path === '/' || route.path === `/${agency.value.slug}`
   }
-  return route.path.startsWith(path)
+  return route.path === target || route.path.startsWith(`${target}/`)
 }
 </script>
 
@@ -69,19 +71,22 @@ const isActive = (path) => {
       <div class="flex items-center justify-between">
         <!-- Logo -->
         <RouterLink 
-          to="/" 
+          :to="agencyLink('/')" 
           class="flex items-center gap-3 group focus:outline-none focus:ring-2 focus:ring-amber-500 rounded-lg p-1"
-          aria-label="PT Adhirajasa Karya Mandiri - Kembali ke Beranda"
+          :aria-label="`${agency.name} - Kembali ke Beranda`"
         >
-          <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-slate-900 to-slate-800 flex items-center justify-center text-amber-500 shadow-md group-hover:scale-105 transition-transform duration-200">
-            <HardHat class="w-6 h-6" />
+          <div v-if="agency.logo" class="w-10 h-10 rounded-xl overflow-hidden shadow-md flex items-center justify-center bg-white group-hover:scale-105 transition-transform duration-200">
+            <img :src="agency.logo" :alt="agency.name" class="w-full h-full object-contain" />
+          </div>
+          <div v-else class="w-10 h-10 rounded-xl bg-gradient-to-tr from-slate-900 to-slate-800 flex items-center justify-center text-amber-500 shadow-md group-hover:scale-105 transition-transform duration-200 font-extrabold text-sm tracking-wider">
+            <span>{{ agency.initials || 'DB' }}</span>
           </div>
           <div>
             <div class="text-lg sm:text-xl font-extrabold tracking-tight text-slate-900 leading-tight">
-              ADHIRAJASA
+              {{ agency.shortName }}
             </div>
             <div class="text-[10px] tracking-widest text-amber-600 font-bold uppercase -mt-0.5">
-              Karya Mandiri Kontraktor
+              {{ agency.subName }}
             </div>
           </div>
         </RouterLink>
@@ -91,7 +96,7 @@ const isActive = (path) => {
           <RouterLink
             v-for="link in navLinks"
             :key="link.path"
-            :to="link.path"
+            :to="agencyLink(link.path)"
             class="px-3.5 py-2 rounded-lg text-sm font-semibold transition-colors duration-200 relative"
             :class="[
               isActive(link.path)
@@ -110,7 +115,7 @@ const isActive = (path) => {
         <!-- Right Side CTA (Desktop) -->
         <div class="hidden md:flex items-center gap-4">
           <RouterLink
-            to="/kontak"
+            :to="agencyLink('/kontak')"
             class="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-amber-500 hover:bg-amber-600 text-slate-950 text-sm font-bold shadow-sm hover:shadow transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-amber-400 focus:ring-offset-2"
           >
             <span>Konsultasi Gratis</span>
@@ -153,7 +158,7 @@ const isActive = (path) => {
           <RouterLink
             v-for="link in navLinks"
             :key="link.path"
-            :to="link.path"
+            :to="agencyLink(link.path)"
             @click="closeMobileMenu"
             class="block px-4 py-3 rounded-lg text-base font-semibold transition-colors duration-150"
             :class="[
@@ -168,7 +173,7 @@ const isActive = (path) => {
 
         <div class="pt-3 border-t border-slate-100 flex flex-col gap-3">
           <RouterLink
-            to="/kontak"
+            :to="agencyLink('/kontak')"
             @click="closeMobileMenu"
             class="w-full flex items-center justify-center gap-2 px-5 py-3 rounded-lg bg-amber-500 hover:bg-amber-600 text-slate-950 font-bold text-center shadow transition-colors"
           >
@@ -177,11 +182,11 @@ const isActive = (path) => {
           </RouterLink>
 
           <a 
-            :href="`tel:${companyData.contact.phone.replace(/[^0-9+]/g, '')}`"
+            :href="`tel:${agency.contact.phone.replace(/[^0-9+]/g, '')}`"
             class="flex items-center justify-center gap-2 py-2 text-xs text-slate-600 font-medium"
           >
             <Phone class="w-3.5 h-3.5 text-amber-500" />
-            <span>{{ companyData.contact.phone }} (Hubungi Langsung)</span>
+            <span>{{ agency.contact.phone }} (Hubungi Langsung)</span>
           </a>
         </div>
       </div>

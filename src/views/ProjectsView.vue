@@ -8,7 +8,7 @@ import CtaBanner from '@/components/sections/CtaBanner.vue'
 import { FolderSearch, Sparkles } from 'lucide-vue-next'
 
 const selectedCategory = ref('Semua')
-const categories = ['Semua', 'Gedung', 'Renovasi', 'Infrastruktur', 'Interior']
+const categories = ['Semua', 'Umroh Reguler', 'Umroh Plus', 'Haji Khusus', 'Wisata Halal']
 
 const filteredProjects = computed(() => {
   if (selectedCategory.value === 'Semua') {
@@ -28,10 +28,10 @@ const handleCategoryChange = (category) => {
   <div class="space-y-0">
     <!-- Page Header Banner with Breadcrumbs -->
     <PageHeader
-      title="Portfolio Proyek"
-      subtitle="Dokumentasi karya dan rekayasa konstruksi prestisius yang telah kami wujudkan di seluruh Nusantara."
-      :breadcrumbs="[{ name: 'Portfolio Proyek' }]"
-      backgroundImage="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1600&q=80"
+      title="Katalog Paket Ibadah"
+      subtitle="Pilihan paket ibadah haji khusus, umroh reguler bintang 5, umroh plus mancanegara, dan wisata halal dengan fasilitas terbaik."
+      :breadcrumbs="[{ name: 'Katalog Paket Ibadah' }]"
+      backgroundImage="https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=1600&q=80"
     />
 
     <!-- Main Projects Section -->

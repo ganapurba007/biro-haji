@@ -12,9 +12,9 @@ import CtaBanner from '@/components/sections/CtaBanner.vue'
     <!-- Page Header Banner with Breadcrumbs -->
     <PageHeader
       title="Tentang Kami"
-      subtitle="Profil komprehensif, visi misi, sejarah perjalanan, dan jajaran pimpinan PT Adhirajasa Karya Mandiri."
+      subtitle="Profil komprehensif, visi misi, legalitas Kemenag, dan jajaran pembimbing ibadah serta manajemen."
       :breadcrumbs="[{ name: 'Tentang Kami' }]"
-      backgroundImage="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1600&q=80"
+      backgroundImage="https://images.unsplash.com/photo-1542816417-0983c9c9ad53?auto=format&fit=crop&w=1600&q=80"
     />
 
     <!-- FR-3.1: Profil Perusahaan, Visi & Misi -->

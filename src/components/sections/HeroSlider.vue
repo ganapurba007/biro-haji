@@ -1,9 +1,11 @@
 <script setup>
 import { ref, onMounted, onUnmounted } from 'vue'
 import { RouterLink } from 'vue-router'
-import { ChevronLeft, ChevronRight, ArrowRight, ShieldCheck } from 'lucide-vue-next'
+import { ChevronLeft, ChevronRight, ArrowRight } from 'lucide-vue-next'
+import { useAgency } from '@/composables/useAgency'
 import homeData from '@/data/home.json'
 
+const { agency, agencyLink } = useAgency()
 const slides = homeData.heroSlides
 const currentSlide = ref(0)
 const isPaused = ref(false)
@@ -61,7 +63,7 @@ onUnmounted(() => {
     @mouseleave="handleMouseLeave"
     @focusin="handleMouseEnter"
     @focusout="handleMouseLeave"
-    aria-label="Hero Slider PT Adhirajasa Karya Mandiri"
+    :aria-label="`Hero Slider ${agency.name}`"
   >
     <!-- Slides Loop -->
     <div 
@@ -87,8 +89,9 @@ onUnmounted(() => {
       <div class="relative max-w-7xl mx-auto h-full px-4 sm:px-6 lg:px-8 flex flex-col justify-center">
         <div class="max-w-3xl space-y-6">
           <!-- Top Eyebrow -->
-          <div class="text-amber-400 text-xs sm:text-sm font-extrabold uppercase tracking-widest">
-            Kontraktor Terpercaya & Bersertifikasi Nasional
+          <div class="text-amber-400 text-xs sm:text-sm font-extrabold uppercase tracking-widest flex items-center gap-2">
+            <span class="w-2 h-2 rounded-full bg-amber-400 inline-block" />
+            <span>{{ agency.tagline }}</span>
           </div>
 
           <!-- Headline -->
@@ -104,7 +107,7 @@ onUnmounted(() => {
           <!-- Action Buttons -->
           <div class="pt-2 flex flex-wrap items-center gap-4">
             <RouterLink
-              :to="slide.ctaLink"
+              :to="agencyLink(slide.ctaLink)"
               class="inline-flex items-center gap-2 px-6 sm:px-8 py-3.5 rounded-xl bg-amber-500 hover:bg-amber-600 text-slate-950 font-bold text-sm sm:text-base shadow-lg hover:shadow-amber-500/20 hover:-translate-y-0.5 transition-all duration-200"
             >
               <span>{{ slide.ctaLabel }}</span>
@@ -112,50 +115,57 @@ onUnmounted(() => {
             </RouterLink>
 
             <RouterLink
-              to="/tentang"
+              :to="agencyLink('/tentang')"
               class="inline-flex items-center gap-2 px-6 sm:px-8 py-3.5 rounded-xl bg-white/10 hover:bg-white/20 text-white font-semibold text-sm sm:text-base backdrop-blur-md border border-white/20 hover:border-white/40 transition-all duration-200"
             >
-              <span>Tentang Perusahaan</span>
+              <span>Tentang Biro</span>
             </RouterLink>
           </div>
         </div>
       </div>
     </div>
 
-    <!-- Navigation Arrows -->
-    <div class="absolute inset-y-0 left-4 right-4 z-20 flex items-center justify-between pointer-events-none">
+    <!-- Navigation Controls (Desktop Panah Kiri & Kanan) -->
+    <div class="absolute z-20 bottom-8 right-8 sm:bottom-12 sm:right-12 flex items-center gap-3">
       <button
         type="button"
         @click="prevSlide"
-        class="p-3 rounded-full bg-slate-900/60 hover:bg-amber-500 text-white hover:text-slate-950 backdrop-blur-md border border-white/10 transition-all duration-200 pointer-events-auto cursor-pointer focus:outline-none focus:ring-2 focus:ring-amber-400"
+        class="w-12 h-12 rounded-xl bg-white/10 hover:bg-amber-500 hover:text-slate-950 text-white backdrop-blur-md border border-white/20 flex items-center justify-center transition-all duration-200 shadow-lg cursor-pointer"
         aria-label="Slide sebelumnya"
       >
         <ChevronLeft class="w-6 h-6" />
       </button>
+
       <button
         type="button"
         @click="nextSlide"
-        class="p-3 rounded-full bg-slate-900/60 hover:bg-amber-500 text-white hover:text-slate-950 backdrop-blur-md border border-white/10 transition-all duration-200 pointer-events-auto cursor-pointer focus:outline-none focus:ring-2 focus:ring-amber-400"
+        class="w-12 h-12 rounded-xl bg-white/10 hover:bg-amber-500 hover:text-slate-950 text-white backdrop-blur-md border border-white/20 flex items-center justify-center transition-all duration-200 shadow-lg cursor-pointer"
         aria-label="Slide berikutnya"
       >
         <ChevronRight class="w-6 h-6" />
       </button>
     </div>
 
-    <!-- Bottom Indicators / Dots -->
-    <div class="absolute bottom-8 left-0 right-0 z-20 flex items-center justify-center gap-3">
+    <!-- Slide Indicators / Dots (Bottom Center) -->
+    <div 
+      class="absolute z-20 bottom-8 sm:bottom-12 left-4 sm:left-8 lg:left-12 flex items-center gap-2"
+      role="tablist"
+      aria-label="Indikator Slide"
+    >
       <button
-        v-for="(_, index) in slides"
-        :key="index"
+        v-for="(slide, index) in slides"
+        :key="slide.id"
         type="button"
         @click="goToSlide(index)"
-        class="h-2.5 rounded-full transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-amber-400 cursor-pointer"
+        role="tab"
+        :aria-selected="index === currentSlide"
+        :aria-label="`Lompat ke slide ${index + 1}`"
+        class="h-2 rounded-full transition-all duration-300 cursor-pointer"
         :class="[
           index === currentSlide 
-            ? 'w-10 bg-amber-500' 
+            ? 'w-8 bg-amber-500' 
             : 'w-2.5 bg-white/40 hover:bg-white/70'
         ]"
-        :aria-label="`Pindah ke slide ${index + 1}`"
       />
     </div>
   </section>

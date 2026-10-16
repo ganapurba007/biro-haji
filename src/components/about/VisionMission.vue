@@ -11,8 +11,8 @@ import SectionTitle from '@/components/ui/SectionTitle.vue'
       <!-- Section Header -->
       <SectionTitle
         badge="Fondasi Nilai & Komitmen"
-        title="Visi, Misi, dan Integritas Membangun Nusantara"
-        description="Prinsip dasar yang memandu setiap rekayasa teknis, tata kelola proyek, dan keselamatan tenaga kerja kami di lapangan."
+        title="Visi, Misi, dan Integritas Melayani Tamu Allah"
+        description="Prinsip dasar yang memandu setiap bimbingan manasik, tata kelola perjalanan, dan kepastian fasilitas jamaah di Tanah Suci."
         align="center"
       />
 
@@ -28,7 +28,7 @@ import SectionTitle from '@/components/ui/SectionTitle.vue'
               <Compass class="w-7 h-7" />
             </div>
 
-            <span class="text-xs font-bold uppercase tracking-widest text-amber-400 block mb-2">Visi Perusahaan</span>
+            <span class="text-xs font-bold uppercase tracking-widest text-amber-400 block mb-2">Visi Lembaga</span>
             <h3 class="text-2xl font-extrabold text-white leading-snug mb-6">
               {{ companyData.vision }}
             </h3>
@@ -36,7 +36,7 @@ import SectionTitle from '@/components/ui/SectionTitle.vue'
 
           <div class="pt-6 border-t border-slate-800 text-xs text-slate-400 flex items-center gap-2">
             <span class="w-2 h-2 rounded-sm bg-emerald-400 shrink-0" />
-            <span>Terus Berinovasi Menuju Konstruksi Berkelanjutan</span>
+            <span>Terus Berkhidmat Menuju Ibadah Mabrur Sesuai Sunnah</span>
           </div>
         </div>
 
@@ -48,8 +48,8 @@ import SectionTitle from '@/components/ui/SectionTitle.vue'
                 <Target class="w-6 h-6" />
               </div>
               <div>
-                <span class="text-xs font-bold uppercase tracking-widest text-amber-600 block">Misi Strategis</span>
-                <h3 class="text-xl font-bold text-slate-900">4 Pilar Dedikasi Kinerja Kami</h3>
+                <span class="text-xs font-bold uppercase tracking-widest text-amber-600 block">Misi Utama</span>
+                <h3 class="text-xl font-bold text-slate-900">4 Pilar Dedikasi Pelayanan Jamaah</h3>
               </div>
             </div>
 
@@ -72,7 +72,7 @@ import SectionTitle from '@/components/ui/SectionTitle.vue'
 
           <div class="mt-6 pt-4 border-t border-slate-200 text-xs text-slate-500 flex items-center gap-2">
             <CheckCircle2 class="w-4 h-4 text-emerald-500 shrink-0" />
-            <span>Kepatuhan Total Terhadap Tata Kelola Good Corporate Governance (GCG)</span>
+            <span>Kepatuhan Penuh Terhadap Standar 5 Pasti Umroh Kemenag RI</span>
           </div>
         </div>
 

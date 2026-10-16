@@ -40,7 +40,7 @@ describe('ContactForm Component (FR-6.1 to FR-6.5)', () => {
     await wrapper.find('#fullName').setValue('Ir. Hendra Gunawan')
     await wrapper.find('#email').setValue('hendra@perusahaan.co.id')
     await wrapper.find('#phone').setValue('081234567890')
-    await wrapper.find('#serviceType').setValue('Pembangunan Gedung')
+    await wrapper.find('#serviceType').setValue('Paket Umroh Reguler Bintang 5')
     await wrapper.find('#message').setValue('Rencana pembangunan gedung perkantoran 8 lantai di Jakarta.')
     await wrapper.find('#agreement').setValue(true)
 
@@ -66,7 +66,7 @@ describe('ContactForm Component (FR-6.1 to FR-6.5)', () => {
     await wrapper.find('#fullName').setValue('Ir. Hendra Gunawan')
     await wrapper.find('#email').setValue('hendra@perusahaan.co.id')
     await wrapper.find('#phone').setValue('081234567890')
-    await wrapper.find('#serviceType').setValue('Pembangunan Gedung')
+    await wrapper.find('#serviceType').setValue('Paket Umroh Reguler Bintang 5')
     await wrapper.find('#message').setValue('Rencana pembangunan gedung perkantoran 8 lantai di Jakarta.')
     await wrapper.find('#agreement').setValue(true)
 

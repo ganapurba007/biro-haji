@@ -1,54 +1,54 @@
 {
-  "name": "PT Adhirajasa Karya Mandiri",
-  "tagline": "Membangun Masa Depan Nusantara dengan Presisi, Kualitas, dan Integritas",
-  "about": "PT Adhirajasa Karya Mandiri adalah perusahaan kontraktor umum dan rekayasa konstruksi terkemuka yang berfokus pada pembangunan infrastruktur modern, gedung komersial, perumahan eksklusif, serta layanan renovasi dan finishing berkualitas tinggi di seluruh Indonesia.",
-  "vision": "Menjadi mitra konstruksi terpercaya dan inovatif berskala nasional yang unggul dalam keselamatan, ketepatan waktu, dan mutu hasil karya pembangunan.",
+  "name": "Demo Biro Umroh dan Haji",
+  "tagline": "Melayani Tamu Allah Sepenuh Hati Menuju Ibadah yang Mabrur dan Sesuai Sunnah",
+  "about": "Demo Biro Umroh dan Haji adalah penyelenggara perjalanan ibadah umroh dan haji khusus resmi berizin Kementerian Agama Republik Indonesia (Izin PPIU No. 812/2020 & PIHK No. 245/2022). Kami berkomitmen memberikan kepastian jadwal keberangkatan, fasilitas hotel pelataran bintang 5, serta bimbingan ibadah intensif yang sesuai dengan Al-Qur'an dan As-Sunnah.",
+  "vision": "Menjadi biro penyelenggara haji khusus dan umroh terdepan di Indonesia yang terpercaya, profesional, dan amanah dalam melayani tamu-tamu Allah menuju ibadah yang mabrur.",
   "mission": [
-    "Memberikan layanan konstruksi terpadu dengan standar kualitas dan keselamatan (K3) tertinggi.",
-    "Mengadopsi teknologi dan metode rekayasa konstruksi modern guna efisiensi dan ketepatan waktu.",
-    "Menjaga integritas, transparansi, dan kepuasan klien dalam setiap kemitraan proyek.",
-    "Mengembangkan sumber daya manusia yang kompeten, berdedikasi, dan berorientasi pada keberlanjutan lingkungan."
+    "Menyelenggarakan perjalanan ibadah haji khusus dan umroh yang aman, nyaman, dan berpegang teguh pada tuntunan syariat Islam.",
+    "Memberikan kepastian 5 Pasti Umroh Kemenag: Pasti Travelnya, Pasti Jadwalnya, Pasti Terbangnya, Pasti Hotelnya, dan Pasti Visanya.",
+    "Menyediakan pembimbing ibadah (muthawif dan asatidz) yang kompeten, berilmu, dan berakhlak mulia.",
+    "Mengedepankan transparansi biaya dan pelayanan prima demi kepuasan dan ketenangan jamaah dalam beribadah."
   ],
   "contact": {
-    "address": "Gedung Menara Karya Lt. 12, Jl. H.R. Rasuna Said Blok X-5 No. 8, Jakarta Selatan 12950",
+    "address": "Gedung Menara Haji Lt. 12, Jl. H.R. Rasuna Said Blok X-5 No. 8, Jakarta Selatan 12950",
     "phone": "+62 21 5550 8899",
-    "tollFree": "0800-1-ADHIRAJASA (234472)",
-    "email": "kontak@adhirajasa.co.id",
+    "tollFree": "0800-1-HARAMAIN (427262)",
+    "email": "kontak@demobiro.com",
     "whatsapp": "+62 812 3456 7890"
   },
-  "workingHours": "Senin - Jumat: 08.00 - 17.00 WIB | Sabtu: 08.00 - 13.00 WIB",
+  "workingHours": "Senin - Jumat: 08.00 - 17.00 WIB | Sabtu: 08.00 - 14.00 WIB",
   "social": [
-    { "name": "LinkedIn", "url": "https://linkedin.com", "icon": "linkedin" },
     { "name": "Instagram", "url": "https://instagram.com", "icon": "instagram" },
+    { "name": "YouTube", "url": "https://youtube.com", "icon": "youtube" },
     { "name": "Facebook", "url": "https://facebook.com", "icon": "facebook" },
-    { "name": "YouTube", "url": "https://youtube.com", "icon": "youtube" }
+    { "name": "TikTok", "url": "https://tiktok.com", "icon": "video" }
   ],
   "history": [
     {
-      "year": 2012,
-      "title": "Awal Pendirian",
-      "description": "Didirikan di Jakarta sebagai kontraktor spesialis pekerjaan sipil dan renovasi komersial."
+      "year": 2014,
+      "title": "Awal Pendirian Biro",
+      "description": "Dirintis di Jakarta sebagai penyedia bimbingan manasik dan perjalanan ibadah umroh reguler keluarga."
     },
     {
-      "year": 2016,
-      "title": "Ekspansi Nasional",
-      "description": "Memperluas jangkauan proyek infrastruktur dan gedung bertingkat di Pulau Jawa dan Sumatra."
+      "year": 2017,
+      "title": "Izin Resmi PPIU Kemenag RI",
+      "description": "Mendapatkan Surat Keputusan Izin Penyelenggara Perjalanan Ibadah Umroh (PPIU) resmi dari Kementerian Agama RI."
     },
     {
       "year": 2020,
-      "title": "Sertifikasi Mutu & K3 Internasional",
-      "description": "Meraih sertifikasi ISO 9001, ISO 14001, dan ISO 45001 secara terintegrasi."
+      "title": "Izin Haji Khusus PIHK & Akreditasi A",
+      "description": "Mendapatkan Izin Penyelenggara Ibadah Haji Khusus (PIHK) serta sertifikat akreditasi 'A' dengan standar mutu tertinggi."
     },
     {
       "year": 2024,
-      "title": "Transformasi Digital Konstruksi",
-      "description": "Mengimplementasikan Building Information Modeling (BIM) dan konstruksi ramah lingkungan berkelanjutan."
+      "title": "Layanan VIP Ring 1 & Manasik Digital",
+      "description": "Memperluas kemitraan hotel bintang 5 ring 1 pelataran Masjidil Haram dan sistem pemantauan paspor serta tasreh online."
     }
   ],
   "certifications": [
-    { "name": "SBU Jasa Pelaksana Konstruksi Kualifikasi Besar (B2)", "issuer": "LPJK / Kementerian PUPR", "image": "https://images.unsplash.com/photo-1450133064473-71024230f91b?auto=format&fit=crop&w=600&q=80" },
-    { "name": "ISO 9001:2015 Quality Management System", "issuer": "Bureau Veritas", "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=600&q=80" },
-    { "name": "ISO 45001:2018 Occupational Health & Safety", "issuer": "TUV Rheinland", "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=600&q=80" },
-    { "name": "ISO 14001:2015 Environmental Management", "issuer": "TUV Rheinland", "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=600&q=80" }
+    { "name": "SK Izin Resmi Umroh (PPIU No. 812/2020)", "issuer": "Kementerian Agama Republik Indonesia", "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=600&q=80" },
+    { "name": "SK Izin Resmi Haji Khusus (PIHK No. 245/2022)", "issuer": "Kementerian Agama Republik Indonesia", "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=600&q=80" },
+    { "name": "Akreditasi A Penyelenggara Ibadah Umroh & Haji", "issuer": "Badan Akreditasi Nasional / Kemenag RI", "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=600&q=80" },
+    { "name": "Sertifikasi Asosiasi Haji Umroh HIMPUH & Lisensi IATA", "issuer": "HIMPUH / International Air Transport Association", "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=600&q=80" }
   ]
 }

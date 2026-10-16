@@ -1,82 +1,87 @@
 [
   {
     "id": 1,
-    "slug": "pembangunan-gedung",
-    "title": "Pembangunan Gedung",
-    "summary": "Konstruksi gedung komersial, perkantoran, dan fasilitas publik berstandar tinggi.",
-    "description": "Layanan konstruksi gedung komersial, perkantoran modern, pusat perbelanjaan, rumah sakit, dan fasilitas publik mulai dari fondasi, struktur beton bertulang/baja, MEP (Mechanical, Electrical, Plumbing), hingga tahap finishing arsitektural.",
+    "slug": "paket-umroh-reguler",
+    "title": "Paket Umroh Reguler Bintang 5",
+    "summary": "Perjalanan ibadah umroh 9 hingga 12 hari dengan hotel pelataran dan maskapai direct flight.",
+    "description": "Layanan perjalanan ibadah umroh reguler dengan durasi 9 hingga 12 hari yang dirancang untuk kenyamanan keluarga dan orang tua. Menikmati akomodasi hotel bintang 5 ring 1 pelataran Masjidil Haram dan Masjid Nabawi, penerbangan langsung tanpa transit (Saudia / Garuda Indonesia), makan 3x full board masakan Indonesia, serta bimbingan muthawif bersertifikat.",
     "scope": [
-      "Struktur Beton Bertulang & Rangka Baja",
-      "Instalasi Sistem Mekanikal & Elektrikal (MEP)",
-      "Pemasangan Façade & Curtain Wall",
-      "Sistem Proteksi Kebakaran & Otomasi Gedung",
-      "Finishing Arsitektural Eksterior & Interior"
+      "Tiket Pesawat Direct Flight PP (Jakarta / Surabaya)",
+      "Hotel Bintang 5 Ring 1 Pelataran Makkah & Madinah",
+      "Visa Umroh & Visa Tasreh Raudhah Resmi",
+      "Bimbingan Manasik Teori & Praktik Sebelum Berangkat",
+      "Konsumsi 3x Sehari Menu Cita Rasa Indonesia (Full Board)",
+      "Handling Bandara, Perlengkapan Eksklusif & Muthawif Pendamping"
     ],
-    "icon": "Building2",
-    "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80"
+    "icon": "Compass",
+    "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 2,
-    "slug": "renovasi-rehabilitasi",
-    "title": "Renovasi & Rehabilitasi Gedung",
-    "summary": "Peningkatan performa, perluasan struktur, dan modernisasi bangunan eksisting.",
-    "description": "Peremajaan, penguatan struktur (retrofitting), perubahan fungsi ruang, dan modernisasi arsitektur bangunan guna memperpanjang usia pakai dan meningkatkan efisiensi energi bangunan.",
+    "slug": "paket-umroh-plus",
+    "title": "Paket Umroh Plus Mancanegara",
+    "summary": "Ibadah umroh dikombinasikan dengan wisata religi ke Turki, Thaif, Mesir, atau Dubai.",
+    "description": "Program ibadah umroh yang disempurnakan dengan napak tilas kejayaan sejarah Islam di berbagai belahan dunia. Jamaah diajak menziarahi keindahan Istanbul dan Cappadocia di Turki, kesejukan kota Thaif dengan Kereta Cepat Haramain, atau kota metropolitan Dubai dengan akomodasi hotel berbintang dan tour guide muslim profesional.",
     "scope": [
-      "Audit Struktur & Retrofitting Bangunan",
-      "Redesain & Optimalisasi Tata Ruang",
-      "Peremajaan Sistem MEP & Utilitas",
-      "Penggantian Material Finishing Modern",
-      "Peningkatan Efisiensi Energi & Akustik Ruang"
+      "Semua Fasilitas Umroh Bintang 5 Lengkap",
+      "Tiket Pesawat Rute Mancanegara & City Tour",
+      "Akomodasi Hotel Bintang 4 & 5 di Kota Tujuan Wisata",
+      "Transportasi Bus AC Pariwisata Eksekutif",
+      "Tiket Masuk Objek Wisata Bersejarah & Pemandu Lokal",
+      "Makan Halal Penuh & Pendampingan Tour Leader dari Indonesia"
     ],
-    "icon": "Hammer",
-    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80"
+    "icon": "Globe",
+    "image": "https://images.unsplash.com/photo-1565552645632-d725f8bfc19a?auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 3,
-    "slug": "infrastruktur-jalan",
-    "title": "Infrastruktur & Jalan",
-    "summary": "Pekerjaan sipil jalan raya, jembatan, saluran drainase, dan fasilitas umum.",
-    "description": "Pengerjaan infrastruktur transportasi dan sipil mencakup perkerasan aspal hotmix, rigid pavement beton, jembatan bentang menengah, sistem drainase kota, dan penataan kawasan industri.",
+    "slug": "haji-khusus-furoda",
+    "title": "Haji Khusus & Haji Furoda Mujamalah",
+    "summary": "Penyelenggaraan ibadah haji resmi kuota Kemenag (PIHK) dan Haji Furoda langsung berangkat.",
+    "description": "Layanan ibadah haji khusus resmi terdaftar di SISKOPATUH Kementerian Agama RI serta program Haji Furoda dengan Visa Mujamalah resmi Kerajaan Arab Saudi. Dilengkapi tenda ber-AC Maktab VIP di Arafah & Mina, hotel transit nyaman, bimbingan para ulama & asatidz, serta fasilitas medis dan logistik prima.",
     "scope": [
-      "Perkerasan Jalan Aspal Hotmix & Rigid Beton",
-      "Konstruksi Jembatan & Flyover",
-      "Sistem Drainase & Saluran Pengendali Banjir",
-      "Pekerjaan Tanah, Cut and Fill & Pemadatan",
-      "Penerangan Jalan Umum & Marka Lalu Lintas"
+      "Kuota Resmi Haji Khusus PIHK / Visa Haji Mujamalah Asli",
+      "Tenda Maktab Ber-AC VIP di Arafah & Mina",
+      "Akomodasi Hotel Bintang 5 Dekat Jamarat & Masjidil Haram",
+      "Bimbingan Ibadah Intensif oleh Ulama & Asatidz Berpengalaman",
+      "Dokter & Tim Medis Khusus Rombongan 24 Jam",
+      "Penerbangan Kelas Bisnis / Ekonomi Maskapai Terbaik"
     ],
-    "icon": "Truck",
-    "image": "https://images.unsplash.com/photo-1545459720-aac8509eb02c?auto=format&fit=crop&w=800&q=80"
+    "icon": "Award",
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 4,
-    "slug": "interior-finishing",
-    "title": "Interior & Finishing Presisi",
-    "summary": "Desain dan fabrikasi interior eksklusif untuk kantor, residensial, dan komersial.",
-    "description": "Pembuatan interior custom, partisi modular, instalasi plafon akustik, tata pencahayaan artistik, dan furnitur custom (built-in) yang mengedepankan nilai ergonomis serta kemewahan estetika.",
+    "slug": "badal-umroh-haji",
+    "title": "Badal Haji & Badal Umroh Bersertifikat",
+    "summary": "Pelaksanaan ibadah umroh atau haji amanah bagi keluarga yang telah wafat atau udzur syar'i.",
+    "description": "Program pelaksanaan badal umroh dan badal haji yang diamanahkan kepada para penuntut ilmu syar'i dan muthawif amanah yang bermukim di Tanah Suci. Setiap pelaksanaan badal didokumentasikan dalam format video, disertai sertifikat resmi berstempel dan air zam-zam sebagai cinderamata bagi keluarga.",
     "scope": [
-      "Fit-out Ruang Kantor & Komersial",
-      "Custom Furniture & Fabrikasi Kayu/Baja",
-      "Pemasangan Lantai Marmer, Granit & Vinyl SPC",
-      "Plafon Akustik & Tata Cahaya Tersembunyi",
-      "Wall Panel Dekoratif & Partisi Kaca Akustik"
+      "Dilaksanakan oleh Muthawif/Asatidz Mukimin Terpercaya",
+      "Satu Pelaksana Hanya Membadalkan Satu Nama Jamaah",
+      "Sesuai Tuntunan Sunnah & Rukun Manasik Sempurna",
+      "Dokumentasi Foto & Video Pelaksanaan Ba'da Thawaf & Sa'i",
+      "Sertifikat Badal Haji / Umroh Eksklusif Berpigura",
+      "Cinderamata Air Zam-zam Asli untuk Ahli Waris"
     ],
-    "icon": "Paintbrush",
-    "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=800&q=80"
+    "icon": "FileText",
+    "image": "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 5,
-    "slug": "manajemen-pengawasan-proyek",
-    "title": "Konsultasi & Pengawasan Proyek",
-    "summary": "Manajemen konstruksi terpadu untuk pengendalian mutu, biaya, dan jadwal.",
-    "description": "Layanan supervisi lapangan, manajemen keselamatan kerja K3, estimasi biaya kuantitas (Quantity Surveying), dan quality control independen untuk memastikan keselarasan hasil dengan spesifikasi desain.",
+    "slug": "wisata-halal-muslim",
+    "title": "Tour Wisata Halal & Jejak Rasul",
+    "summary": "Perjalanan wisata mancanegara dengan jaminan makanan halal dan jadwal waktu sholat terjaga.",
+    "description": "Paket perjalanan wisata internasional muslim-friendly yang dirancang khusus untuk memenuhi kenyamanan ibadah para wisatawan muslim. Menjamin menu makanan bersertifikat halal 100%, itinerary yang mengalokasikan waktu sholat di masjid bersejarah, serta pengenalan jejak sejarah dakwah Islam di berbagai belahan dunia.",
     "scope": [
-      "Supervisi Lapangan & Quality Assurance",
-      "Penyusunan Jadwal & Manajemen Waktu (CPM/BIM)",
-      "Pengawasan Penerapan Standar Keselamatan (K3)",
-      "Audit Kuantitas & Rekomendasi Material",
-      "Penyusunan As-Built Drawing & Dokumen Serah Terima"
+      "Jaminan Makanan Halal Sepanjang Perjalanan",
+      "Jadwal Kunjungan Selaras dengan Waktu Sholat Wajib",
+      "Pemandu Wisata Muslim Berpengalaman & Ramah",
+      "Hotel Berbintang Ramah Wisatawan Muslim",
+      "Asuransi Perjalanan Internasional Lengkap",
+      "Kunjungan ke Situs Warisan Peradaban Islam Terkemuka"
     ],
-    "icon": "ClipboardCheck",
+    "icon": "MapPin",
     "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80"
   }
 ]

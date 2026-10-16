@@ -1,13 +1,15 @@
 <script setup>
 import { RouterLink } from 'vue-router'
-import { CheckCircle2, ArrowRight, HardHat, Compass } from 'lucide-vue-next'
-import companyData from '@/data/company.json'
+import { CheckCircle2, ArrowRight, Compass } from 'lucide-vue-next'
+import { useAgency } from '@/composables/useAgency'
+
+const { agency, agencyLink } = useAgency()
 
 const highlights = [
-  'Penerapan Building Information Modeling (BIM)',
-  'Standar Keselamatan Kerja Zero Accident (K3)',
-  'Sertifikasi Resmi SBU Kualifikasi Besar & ISO',
-  'Jaminan Mutu & Garansi Pemeliharaan Purnajual'
+  'Kepastian 5 Pasti Umroh Kemenag RI',
+  'Bimbingan Ibadah Sesuai Al-Qur\'an & Sunnah',
+  'Hotel Bintang 5 Ring 1 Pelataran Masjid',
+  'Penerbangan Direct Flight Tanpa Transit'
 ]
 </script>
 
@@ -21,8 +23,8 @@ const highlights = [
           <!-- Main Image -->
           <div class="relative z-10 rounded-3xl overflow-hidden shadow-2xl border-4 border-white">
             <img
-              src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1000&q=80"
-              alt="Tim Konstruksi PT Adhirajasa Karya Mandiri"
+              src="https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=1000&q=80"
+              :alt="`Pelayanan Ibadah ${agency.name}`"
               class="w-full h-[400px] sm:h-[480px] object-cover hover:scale-105 transition-transform duration-700"
               loading="lazy"
             />
@@ -35,11 +37,11 @@ const highlights = [
           <!-- Floating Experience Card -->
           <div class="absolute -bottom-8 right-4 sm:-right-6 z-20 bg-slate-950 text-white p-6 rounded-2xl shadow-2xl border border-slate-800 flex items-center gap-4 max-w-[260px]">
             <div class="w-14 h-14 rounded-xl bg-amber-500 flex items-center justify-center text-slate-950 font-black text-2xl shrink-0">
-              14+
+              11+
             </div>
             <div>
-              <div class="text-sm font-bold text-white">Tahun Pengalaman</div>
-              <div class="text-xs text-slate-400">Membangun proyek prestisius di Indonesia</div>
+              <div class="text-sm font-bold text-white">Tahun Khidmah</div>
+              <div class="text-xs text-slate-400">Melayani tamu Allah menuju ibadah mabrur</div>
             </div>
           </div>
         </div>
@@ -48,21 +50,21 @@ const highlights = [
         <div class="lg:col-span-6 space-y-6">
           <!-- Section Eyebrow -->
           <div class="text-xs font-extrabold uppercase tracking-widest text-amber-600">
-            Tentang Perusahaan
+            Tentang Biro Ibadah
           </div>
 
           <!-- Main Title -->
           <h2 class="text-3xl sm:text-4xl font-extrabold text-slate-900 tracking-tight leading-tight">
-            Komitmen Kami Membangun Standar Kualitas Tanpa Kompromi
+            Melayani Sepenuh Hati, Mengutamakan Ketenangan & Kekhusyukan Ibadah
           </h2>
 
           <!-- Description -->
           <p class="text-base text-slate-600 leading-relaxed">
-            {{ companyData.about }}
+            {{ agency.about }}
           </p>
 
           <p class="text-sm font-medium text-slate-700 italic border-l-4 border-amber-500 pl-4 py-1">
-            "{{ companyData.tagline }}"
+            "{{ agency.tagline }}"
           </p>
 
           <!-- Highlights List -->
@@ -80,10 +82,10 @@ const highlights = [
           <!-- Action Buttons -->
           <div class="pt-6 flex flex-wrap items-center gap-4">
             <RouterLink
-              to="/tentang"
+              :to="agencyLink('/tentang')"
               class="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl bg-slate-950 hover:bg-slate-800 text-white font-bold text-sm shadow-md hover:shadow transition-all duration-200"
             >
-              <span>Profil Perusahaan</span>
+              <span>Profil Lengkap</span>
               <ArrowRight class="w-4 h-4 text-amber-400" />
             </RouterLink>
 
@@ -92,7 +94,7 @@ const highlights = [
               class="inline-flex items-center gap-2 px-6 py-3.5 rounded-xl bg-white hover:bg-slate-100 text-slate-800 font-semibold text-sm border border-slate-200 shadow-sm transition-colors duration-200"
             >
               <Compass class="w-4 h-4 text-amber-600" />
-              <span>Cara Kami Bekerja</span>
+              <span>Alur Pendaftaran</span>
             </a>
           </div>
         </div>

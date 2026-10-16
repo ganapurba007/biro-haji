@@ -1,5 +1,5 @@
 <script setup>
-import { ref } from 'vue'
+import { ref, computed } from 'vue'
 import { 
   MapPin, 
   Phone, 
@@ -16,6 +16,9 @@ import companyData from '@/data/company.json'
 import PageHeader from '@/components/ui/PageHeader.vue'
 import ContactForm from '@/components/forms/ContactForm.vue'
 import ToastNotification from '@/components/ui/ToastNotification.vue'
+import { useAgency } from '@/composables/useAgency'
+
+const { activeAgency } = useAgency()
 
 const toast = ref({
   show: false,
@@ -23,6 +26,12 @@ const toast = ref({
   title: '',
   message: ''
 })
+
+const agencyName = computed(() => activeAgency.value?.name || companyData.name)
+const contactPhone = computed(() => activeAgency.value?.phone || companyData.contact.phone)
+const contactWhatsapp = computed(() => activeAgency.value?.whatsapp || companyData.contact.whatsapp)
+const contactEmail = computed(() => activeAgency.value?.email || companyData.contact.email)
+const contactAddress = computed(() => activeAgency.value?.address || companyData.contact.address)
 
 const handleSuccess = ({ title, message }) => {
   toast.value = {
@@ -48,16 +57,16 @@ const closeToast = () => {
 
 const faqs = [
   {
-    q: 'Apakah survei lokasi & konsultasi awal dikenakan biaya?',
-    a: 'Tidak. Seluruh sesi konsultasi awal, survei pendahuluan, dan estimasi awal RAB disediakan gratis tanpa ikatan kontrak.'
+    q: 'Apakah konsultasi dan pendaftaran awal dikenakan biaya?',
+    a: 'Tidak. Seluruh sesi konsultasi paket, jadwal keberangkatan, dan estimasi biaya bimbingan manasik disediakan gratis tanpa ikatan.'
   },
   {
-    q: 'Berapa lama waktu yang dibutuhkan untuk pembuatan proposal RAB?',
-    a: 'Untuk proyek standar gedung/renovasi, proposal komprehensif selesai dalam 3–7 hari kerja setelah data teknis lengkap.'
+    q: 'Berapa lama proses penerbitan visa dan kepastian tiket?',
+    a: 'Kepastian jadwal penerbangan dan manifest visa umroh/haji khusus diterbitkan secara transparan 2-4 minggu sebelum tanggal keberangkatan.'
   },
   {
-    q: 'Bagaimana standar garansi pemeliharaan konstruksi?',
-    a: 'Kami memberikan masa pemeliharaan (warranty) resmi selama 3 hingga 12 bulan tergantung pada jenis dan skala proyek.'
+    q: 'Bagaimana standar bimbingan manasik dan muthawwif?',
+    a: 'Setiap jamaah didampingi oleh asatidz pembimbing bersertifikat Kemenag dan muthawwif mukim berpengalaman di Tanah Suci sesuai sunnah.'
   }
 ]
 </script>
@@ -67,9 +76,9 @@ const faqs = [
     <!-- Page Header Banner with Breadcrumbs -->
     <PageHeader
       title="Hubungi Kami"
-      subtitle="Diskusikan kebutuhan proyek konstruksi Anda langsung dengan tim estimator dan insinyur kami."
+      subtitle="Diskusikan rencana ibadah haji & umroh Anda dan keluarga bersama konsultan dan pembimbing ibadah kami."
       :breadcrumbs="[{ name: 'Hubungi Kami' }]"
-      backgroundImage="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80"
+      backgroundImage="https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=1600&q=80"
     />
 
     <!-- Main Contact Section -->
@@ -83,8 +92,8 @@ const faqs = [
             <!-- Contact Info Box -->
             <div class="bg-white rounded-3xl p-6 sm:p-8 border border-slate-200 shadow-lg space-y-6">
               <div class="border-b border-slate-100 pb-4">
-                <span class="text-xs font-bold uppercase tracking-wider text-amber-600 block mb-1">Informasi Kantor</span>
-                <h3 class="text-2xl font-extrabold text-slate-900">Kantor Pusat PT Adhirajasa</h3>
+                <span class="text-xs font-bold uppercase tracking-wider text-amber-600 block mb-1">Informasi Layanan Jamaah</span>
+                <h3 class="text-2xl font-extrabold text-slate-900">Kantor Layanan {{ agencyName }}</h3>
               </div>
 
               <ul class="space-y-5 text-sm">
@@ -96,7 +105,7 @@ const faqs = [
                   <div>
                     <span class="text-xs text-slate-400 font-bold uppercase block">Alamat Kantor</span>
                     <span class="font-bold text-slate-900 leading-snug block mt-0.5">
-                      {{ companyData.contact.address }}
+                      {{ contactAddress }}
                     </span>
                   </div>
                 </li>
@@ -107,9 +116,9 @@ const faqs = [
                     <Phone class="w-5 h-5" />
                   </div>
                   <div>
-                    <span class="text-xs text-slate-400 font-bold uppercase block">Telepon Kantor</span>
-                    <a :href="`tel:${companyData.contact.phone.replace(/[^0-9+]/g, '')}`" class="font-bold text-slate-900 hover:text-amber-600 transition-colors block mt-0.5">
-                      {{ companyData.contact.phone }}
+                    <span class="text-xs text-slate-400 font-bold uppercase block">Telepon Layanan</span>
+                    <a :href="`tel:${contactPhone.replace(/[^0-9+]/g, '')}`" class="font-bold text-slate-900 hover:text-amber-600 transition-colors block mt-0.5">
+                      {{ contactPhone }}
                     </a>
                   </div>
                 </li>
@@ -121,8 +130,8 @@ const faqs = [
                   </div>
                   <div>
                     <span class="text-xs text-slate-400 font-bold uppercase block">WhatsApp Konsultasi Cepat</span>
-                    <a :href="`https://wa.me/${companyData.contact.whatsapp.replace(/[^0-9]/g, '')}`" target="_blank" rel="noopener noreferrer" class="font-bold text-slate-900 hover:text-emerald-600 transition-colors block mt-0.5">
-                      {{ companyData.contact.whatsapp }} (Chat Langsung)
+                    <a :href="`https://wa.me/${contactWhatsapp.replace(/[^0-9]/g, '')}`" target="_blank" rel="noopener noreferrer" class="font-bold text-slate-900 hover:text-emerald-600 transition-colors block mt-0.5">
+                      {{ contactWhatsapp }} (Chat Langsung)
                     </a>
                   </div>
                 </li>
@@ -134,8 +143,8 @@ const faqs = [
                   </div>
                   <div>
                     <span class="text-xs text-slate-400 font-bold uppercase block">Email Resmi</span>
-                    <a :href="`mailto:${companyData.contact.email}`" class="font-bold text-slate-900 hover:text-amber-600 transition-colors block mt-0.5">
-                      {{ companyData.contact.email }}
+                    <a :href="`mailto:${contactEmail}`" class="font-bold text-slate-900 hover:text-amber-600 transition-colors block mt-0.5">
+                      {{ contactEmail }}
                     </a>
                   </div>
                 </li>
@@ -163,7 +172,7 @@ const faqs = [
                     <span class="text-sm font-extrabold">{{ companyData.contact.tollFree }}</span>
                   </div>
                 </div>
-                <span class="text-[11px] text-slate-400 font-medium">Layanan 24 Jam</span>
+                <span class="text-[11px] text-slate-400 font-medium">Layanan Bantuan 24 Jam</span>
               </div>
             </div>
 
@@ -172,7 +181,7 @@ const faqs = [
               <div class="flex items-center justify-between">
                 <div class="flex items-center gap-2 text-slate-900 font-bold text-sm">
                   <MapPin class="w-4 h-4 text-amber-600" />
-                  <span>Peta Lokasi Kantor Pusat</span>
+                  <span>Peta Lokasi Kantor Layanan Jamaah</span>
                 </div>
                 <span class="text-xs text-amber-600 font-bold">Jakarta Selatan</span>
               </div>
@@ -180,7 +189,7 @@ const faqs = [
               <!-- Map Visual Embed -->
               <div class="relative h-56 rounded-2xl overflow-hidden border border-slate-200 bg-slate-100">
                 <iframe
-                  title="Peta Lokasi Gedung Menara Karya"
+                  title="Peta Lokasi Kantor Layanan"
                   class="w-full h-full border-0 filter grayscale contrast-125 hover:grayscale-0 transition-all duration-500"
                   src="https://maps.google.com/maps?q=Menara%20Karya%20Rasuna%20Said%20Jakarta&t=&z=15&ie=UTF8&iwloc=&output=embed"
                   loading="lazy"
@@ -189,7 +198,7 @@ const faqs = [
               </div>
 
               <div class="text-[11px] text-slate-500 flex items-center justify-between pt-1">
-                <span>Gedung Menara Karya Lt. 12, Kuningan</span>
+                <span>Gedung Menara Madinah Lt. 5, Kuningan</span>
                 <a 
                   href="https://maps.google.com/?q=Menara+Karya+Rasuna+Said+Jakarta" 
                   target="_blank" 

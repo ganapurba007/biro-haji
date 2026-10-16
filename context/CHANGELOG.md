@@ -14,7 +14,34 @@ Format tiap entri:
 **Docs updated:** [PRD §9 / SCHEMA.md / tidak ada perubahan scope]
 -->
 
-## Fase 8 — Transformasi Scope & Rebranding Biro Haji & Umroh + Spesifikasi Mockup Dinamis (2026-10-16)
+## Fase 8.2 — Implementasi Penuh Website Haji & Umroh + Dynamic Client Mockup Subpath (2026-10-16)
+**FR terkait:** FR-1.x s/d FR-7.x (termasuk FR-7.1 s/d FR-7.6)
+**Yang dikerjakan:**
+- **Dynamic Multi-Client Branding Engine (`gerayana-rent` pattern):**
+  - Membuat `src/data/agencies.json` berisi profil biro default (`default-biro`) dan biro khusus (`surya-biro`, `al-madinah-travel`, `an-nur-mandiri`)
+  - Membuat `src/lib/theme.js` untuk konversi warna hex/rgb, generator 11 tingkat gradasi palette (50–950), dan injektor CSS variables (`--color-brand-*`, `--color-accent-*`, `--color-amber-*`) ke DOM
+  - Membuat `src/lib/agencies.js` untuk resolver profil biro berdasarkan slug URL serta auto-sintesis nama/inisial/warna untuk slug baru/kustom
+  - Membuat `src/composables/useAgency.js` sebagai state reaktif global, updater document title, dan helper rute `agencyLink(to)`
+  - Mengonfigurasi `src/router/index.js` dengan rute mockup `/:agencySlug` dan navigation guard sinkronisasi aktif agency
+- **Transformasi Data Domain Haji & Umroh:**
+  - Mengubah `company.json` (Izin Kemenag PPIU No. 812/2020 & PIHK No. 245/2022, 5 Pasti Umroh, akreditasi A)
+  - Mengubah `home.json` (hero slides Ka'bah & Nabawi, scorecard 5 Pasti Umroh, statistik jamaah, 4 langkah pendaftaran)
+  - Mengubah `services.json` (5 layanan ibadah: Reguler, Plus, Haji Khusus/Furoda, Badal, Wisata Halal)
+  - Mengubah `projects.json` (8 paket ibadah haji & umroh beserta hotel ring 1 pelataran dan maskapai penerbangan)
+  - Mengubah `team.json` (pembimbing asatidz bersertifikat Kemenag & pimpinan manajemen)
+  - Mengubah `testimonials.json` (testimoni jamaah haji & umroh)
+- **Pembaruan Komponen & Halaman:**
+  - Integrasi dynamic agency, logo monogram, kontak WhatsApp dan `agencyLink` di `Navbar.vue`, `TopBar.vue`, `Footer.vue`, `ProjectCard.vue`, `HeroSlider.vue`, `AboutSection.vue`, `FeaturedProjects.vue`, `CtaBanner.vue`
+  - Penyesuaian `ProjectsView.vue`, `ProjectDetailView.vue`, `ContactView.vue`, `AboutView.vue`, `ServicesView.vue` ke terminologi paket ibadah haji & umroh
+- **Testing & Validasi:**
+  - Menambahkan unit test `agencies.spec.js`, `theme.spec.js`, `useAgency.spec.js`
+  - Memperbarui assertions unit test eksisting yang relevan (`ProjectsView.spec.js`, `ContactForm.spec.js`, `contactSchema.spec.js`, `ProjectDetailView.spec.js`, `Footer.spec.js`)
+  - Seluruh 58 unit tests lolos (100% green), dan bundle build produksi Vite sukses tanpa error
+**File yang berubah:** `src/data/*.json`, `src/lib/*`, `src/composables/*`, `src/router/index.js`, `src/components/**/*`, `src/views/**/*`, `src/assets/main.css`, `AGENTS.md`, `context/CHANGELOG.md`
+**Test:** 58 passed / 58 total (23 test files)
+**Docs updated:** AGENTS.md, CHANGELOG.md
+
+## Fase 8.1 — Transformasi Scope & Rebranding Biro Haji & Umroh + Spesifikasi Mockup Dinamis (2026-10-16)
 **FR terkait:** FR-1.x s/d FR-7.x
 **Yang dikerjakan:**
 - Mengubah arah proyek dari profil perusahaan kontraktor umum menjadi portal company profile & katalog paket ibadah untuk **Demo Biro Umroh dan Haji** (Biro Penyelenggara Haji Khusus & Umroh Resmi Kemenag RI: PPIU & PIHK)

@@ -34,8 +34,8 @@ describe('ProjectDetailView Page (FR-5.3, FR-5.4)', () => {
     mockSlug = 'slug-tidak-valid-xyz'
     const wrapper = mount(ProjectDetailView)
 
-    expect(wrapper.text()).toContain('Proyek Tidak Ditemukan')
+    expect(wrapper.text()).toContain('Paket Ibadah Tidak Ditemukan')
     expect(wrapper.text()).toContain('slug-tidak-valid-xyz')
-    expect(wrapper.text()).toContain('Kembali ke Portfolio Proyek')
+    expect(wrapper.text()).toContain('Kembali ke Katalog Paket')
   })
 })

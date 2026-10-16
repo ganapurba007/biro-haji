@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "name": "Ir. Hendra Gunawan, M.T., IPM",
-    "position": "Direktur Utama (President Director)",
+    "name": "Ustadz H. Ahmad Fauzi, Lc., M.A.",
+    "position": "Pembina & Pembimbing Ibadah Utama (Alumni Universitas Islam Madinah)",
     "photo": "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=600&q=80"
   },
   {
     "id": 2,
-    "name": "Bambang Sudarsono, S.T.",
-    "position": "Direktur Operasional & Teknik",
+    "name": "H. Muhammad Zaki, S.E., M.M.",
+    "position": "Direktur Utama & Penyelenggara Haji Khusus",
     "photo": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=600&q=80"
   },
   {
     "id": 3,
-    "name": "Maya Kusuma Wardhani, M.Ars.",
-    "position": "Kepala Divisi Desain & Perencanaan",
-    "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80"
+    "name": "Ustadz Ridwan Al-Bantani, Lc.",
+    "position": "Muthawif Senior Makkah & Madinah",
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80"
   },
   {
     "id": 4,
-    "name": "Rian Pratama, S.T., HSE Expert",
-    "position": "Manajer K3 & Lingkungan (QHSE)",
-    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80"
+    "name": "Hj. Siti Rahmawati, S.Psi.",
+    "position": "Kepala Divisi Layanan & Bimbingan Jamaah Wanita",
+    "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80"
   }
 ]

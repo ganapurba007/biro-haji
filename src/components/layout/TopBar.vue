@@ -1,6 +1,8 @@
 <script setup>
 import { Phone, Mail, Clock } from 'lucide-vue-next'
-import companyData from '@/data/company.json'
+import { useAgency } from '@/composables/useAgency'
+
+const { agency } = useAgency()
 </script>
 
 <template>
@@ -9,18 +11,18 @@ import companyData from '@/data/company.json'
       <!-- Left side: Phone & Email -->
       <div class="flex items-center space-x-6">
         <a 
-          :href="`tel:${companyData.contact.phone.replace(/[^0-9+]/g, '')}`" 
+          :href="`tel:${agency.contact.phone.replace(/[^0-9+]/g, '')}`" 
           class="flex items-center gap-2 hover:text-amber-400 transition-colors"
         >
           <Phone class="w-3.5 h-3.5 text-amber-500" />
-          <span>{{ companyData.contact.phone }}</span>
+          <span>{{ agency.contact.phone }}</span>
         </a>
         <a 
-          :href="`mailto:${companyData.contact.email}`" 
+          :href="`mailto:${agency.contact.email}`" 
           class="flex items-center gap-2 hover:text-amber-400 transition-colors"
         >
           <Mail class="w-3.5 h-3.5 text-amber-500" />
-          <span>{{ companyData.contact.email }}</span>
+          <span>{{ agency.contact.email }}</span>
         </a>
       </div>
 
@@ -28,10 +30,10 @@ import companyData from '@/data/company.json'
       <div class="flex items-center space-x-6">
         <div class="flex items-center gap-2 text-slate-400">
           <Clock class="w-3.5 h-3.5 text-amber-500" />
-          <span>{{ companyData.workingHours }}</span>
+          <span>{{ agency.workingHours }}</span>
         </div>
-        <div class="bg-slate-800 px-2.5 py-0.5 rounded text-amber-400 font-medium">
-          Bebas Pulsa: {{ companyData.contact.tollFree }}
+        <div v-if="agency.contact.tollFree" class="bg-slate-800 px-2.5 py-0.5 rounded text-amber-400 font-medium">
+          Hotline: {{ agency.contact.tollFree }}
         </div>
       </div>
     </div>

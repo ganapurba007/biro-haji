@@ -1,11 +1,14 @@
 <script setup>
 import { RouterLink } from 'vue-router'
 import { MapPin, Calendar, ArrowRight, ExternalLink } from 'lucide-vue-next'
+import { useAgency } from '@/composables/useAgency'
 import projectsData from '@/data/projects.json'
 import SectionTitle from '@/components/ui/SectionTitle.vue'
 import BaseBadge from '@/components/ui/BaseBadge.vue'
 
-// Filter 3 proyek unggulan (featured: true)
+const { agencyLink } = useAgency()
+
+// Filter 3 paket unggulan (featured: true)
 const featuredProjects = projectsData.filter((p) => p.featured).slice(0, 3)
 </script>
 
@@ -16,17 +19,17 @@ const featuredProjects = projectsData.filter((p) => p.featured).slice(0, 3)
       <!-- Section Header -->
       <div class="flex flex-col md:flex-row md:items-end justify-between mb-12 lg:mb-16 gap-6">
         <SectionTitle
-          badge="Portfolio Unggulan"
-          title="Karya Konstruksi Terbaik Berstandar Presisi"
-          description="Eksplorasi rekam jejak pembangunan gedung komersial, jalan raya, dan interior prestisius kami di seluruh Indonesia."
+          badge="Paket Ibadah Unggulan"
+          title="Pilihan Paket Keberangkatan Terbaik Menuju Tanah Suci"
+          description="Akomodasi hotel bintang 5 ring 1 pelataran Masjidil Haram dan Nabawi serta penerbangan direct flight tanpa transit."
           align="left"
         />
 
         <RouterLink
-          to="/proyek"
+          :to="agencyLink('/proyek')"
           class="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-slate-900 hover:bg-slate-800 text-white text-sm font-bold shadow transition-colors shrink-0"
         >
-          <span>Lihat Semua Proyek ({{ projectsData.length }})</span>
+          <span>Lihat Semua Paket ({{ projectsData.length }})</span>
           <ArrowRight class="w-4 h-4 text-amber-400" />
         </RouterLink>
       </div>
@@ -82,7 +85,7 @@ const featuredProjects = projectsData.filter((p) => p.featured).slice(0, 3)
                 {{ project.title }}
               </h3>
               <p class="text-xs font-semibold text-slate-500 mb-3">
-                Klien: <span class="text-slate-700">{{ project.client }}</span>
+                Maskapai: <span class="text-slate-700 font-bold">{{ project.client }}</span>
               </p>
               <p class="text-sm text-slate-600 leading-relaxed line-clamp-2">
                 {{ project.summary }}
@@ -94,10 +97,10 @@ const featuredProjects = projectsData.filter((p) => p.featured).slice(0, 3)
           <div class="px-6 pb-6 pt-2 border-t border-slate-100 flex items-center justify-between">
             <span class="text-xs font-semibold text-amber-600">Durasi: {{ project.duration }}</span>
             <RouterLink
-              :to="`/proyek/${project.slug}`"
+              :to="agencyLink(`/proyek/${project.slug}`)"
               class="inline-flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider text-slate-900 group-hover:text-amber-600 transition-colors"
             >
-              <span>Detail Proyek</span>
+              <span>Detail Paket</span>
               <ExternalLink class="w-3.5 h-3.5" />
             </RouterLink>
           </div>

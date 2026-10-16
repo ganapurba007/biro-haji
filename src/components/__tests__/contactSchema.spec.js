@@ -6,7 +6,7 @@ describe('Contact Form Validation Schema (Zod) (FR-6.1)', () => {
     fullName: 'Ir. Hendra Gunawan',
     email: 'hendra@perusahaan.co.id',
     phone: '081234567890',
-    serviceType: 'Pembangunan Gedung',
+    serviceType: 'Paket Umroh Reguler Bintang 5',
     budget: 'Rp 2 Miliar - Rp 10 Miliar',
     message: 'Kami berencana membangun gedung kantor 5 lantai di kawasan Jakarta Selatan.',
     agreement: true,

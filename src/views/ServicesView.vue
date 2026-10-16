@@ -15,7 +15,9 @@ import PageHeader from '@/components/ui/PageHeader.vue'
 import WorkProcessSection from '@/components/sections/WorkProcessSection.vue'
 import CtaBanner from '@/components/sections/CtaBanner.vue'
 import SectionTitle from '@/components/ui/SectionTitle.vue'
+import { useAgency } from '@/composables/useAgency'
 
+const { agencyLink } = useAgency()
 const services = servicesData
 
 const getServiceIcon = (iconName) => {
@@ -34,10 +36,10 @@ const getServiceIcon = (iconName) => {
   <div class="space-y-0">
     <!-- Page Header Banner with Breadcrumbs -->
     <PageHeader
-      title="Layanan Konstruksi"
-      subtitle="Solusi komprehensif mulai dari rancang bangun gedung, sipil infrastruktur, restorasi, hingga interior presisi tinggi."
-      :breadcrumbs="[{ name: 'Layanan Konstruksi' }]"
-      backgroundImage="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1600&q=80"
+      title="Layanan Ibadah Haji & Umroh"
+      subtitle="Penyelenggaraan ibadah umroh reguler, paket plus wisata halal, haji khusus/furoda, badal, serta bimbingan manasik intensif sesuai sunnah."
+      :breadcrumbs="[{ name: 'Layanan Ibadah' }]"
+      backgroundImage="https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=1600&q=80"
     />
 
     <!-- FR-4.1: Daftar Layanan Lengkap (Detailed Services Showcase) -->
@@ -46,9 +48,9 @@ const getServiceIcon = (iconName) => {
         
         <!-- Intro Section Title -->
         <SectionTitle
-          badge="Cakupan Layanan Unggulan"
-          title="Rekayasa Konstruksi Terpadu Berstandar Mutu Nasional"
-          description="Didukung oleh tenaga ahli bersertifikat dan alat berat modern untuk menjamin efisiensi serta mutu pengerjaan."
+          badge="Program & Layanan Unggulan"
+          title="Penyelenggaraan Ibadah Terpadu Berizin Resmi Kemenag"
+          description="Didukung oleh asatidz pembimbing bersertifikat, muthawwif mukim berpengalaman, dan fasilitas akomodasi hotel pelataran bintang 5."
           align="center"
         />
 
@@ -89,7 +91,7 @@ const getServiceIcon = (iconName) => {
                 <span class="w-8 h-8 rounded-lg bg-slate-900 text-amber-400 font-heading font-black text-xs flex items-center justify-center">
                   0{{ index + 1 }}
                 </span>
-                <span class="text-xs font-bold uppercase tracking-wider text-amber-600">Layanan Spesialis</span>
+                <span class="text-xs font-bold uppercase tracking-wider text-amber-600">Program Pilihan</span>
               </div>
 
               <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 leading-tight">
@@ -103,7 +105,7 @@ const getServiceIcon = (iconName) => {
               <!-- Scope of Work Bullet Points -->
               <div class="pt-2">
                 <h3 class="text-xs font-bold uppercase tracking-wider text-slate-800 mb-3">
-                  Ruang Lingkup Pekerjaan:
+                  Fasilitas & Keunggulan Program:
                 </h3>
                 <div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
                   <div
@@ -120,10 +122,10 @@ const getServiceIcon = (iconName) => {
               <!-- Action Link -->
               <div class="pt-4">
                 <RouterLink
-                  to="/kontak"
+                  :to="agencyLink('/kontak')"
                   class="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-amber-500 hover:bg-amber-600 text-slate-950 font-bold text-sm shadow hover:shadow-md transition-all"
                 >
-                  <span>Konsultasikan {{ service.title }}</span>
+                  <span>Daftar / Konsultasi {{ service.title }}</span>
                   <ArrowRight class="w-4 h-4" />
                 </RouterLink>
               </div>

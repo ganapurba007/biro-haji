@@ -20,12 +20,12 @@ describe('ProjectsView Page (FR-5.1, FR-5.2)', () => {
 
   it('filters projects when category button is clicked', async () => {
     const wrapper = mount(ProjectsView, { global: globalMocks })
-    const gedungBtn = wrapper.findAll('button[role="tab"]').find(b => b.text().includes('Gedung'))
+    const umrohBtn = wrapper.findAll('button[role="tab"]').find(b => b.text().includes('Umroh Reguler'))
     
-    expect(gedungBtn).toBeDefined()
-    await gedungBtn.trigger('click')
+    expect(umrohBtn).toBeDefined()
+    await umrohBtn.trigger('click')
 
-    const gedungProjects = projectsData.filter(p => p.category === 'Gedung')
-    expect(wrapper.text()).toContain(`Menampilkan ${gedungProjects.length} dari ${projectsData.length}`)
+    const umrohProjects = projectsData.filter(p => p.category === 'Umroh Reguler')
+    expect(wrapper.text()).toContain(`Menampilkan ${umrohProjects.length} dari ${projectsData.length}`)
   })
 })

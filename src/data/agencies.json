@@ -1,0 +1,81 @@
+{
+  "default": "default-biro",
+  "agencies": {
+    "default-biro": {
+      "name": "Demo Biro Umroh dan Haji",
+      "shortName": "DEMO",
+      "subName": "Biro Umroh & Haji",
+      "tagline": "Melayani Tamu Allah Sepenuh Hati Menuju Ibadah yang Mabrur",
+      "about": "Demo Biro Umroh dan Haji adalah penyelenggara perjalanan ibadah umroh dan haji khusus resmi berizin Kementerian Agama Republik Indonesia (Izin PPIU No. 812/2020 & PIHK No. 245/2022). Kami berkomitmen memberikan kepastian jadwal keberangkatan, fasilitas hotel pelataran bintang 5, serta bimbingan ibadah intensif yang sesuai dengan Al-Qur'an dan As-Sunnah.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#064e3b",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "+62 21 5550 8899",
+        "tollFree": "0800-1-HARAMAIN (427262)",
+        "email": "kontak@demobiro.com",
+        "whatsapp": "6281234567890",
+        "address": "Gedung Menara Haji Lt. 12, Jl. H.R. Rasuna Said Blok X-5 No. 8, Jakarta Selatan 12950"
+      }
+    },
+    "surya-biro": {
+      "name": "Surya Biro Umroh & Haji",
+      "shortName": "SURYA",
+      "subName": "Haramain Travel",
+      "tagline": "Pasti Berangkat, Amanah, dan Bimbingan Sesuai Sunnah",
+      "about": "Surya Biro Umroh & Haji adalah biro perjalanan ibadah resmi terpercaya, menghadirkan kemudahan ibadah ke Tanah Suci dengan fasilitas VIP, penerbangan direct flight, dan bimbingan asatidz berkompeten.",
+      "logo": "/images/logos/surya-biro.svg",
+      "colors": {
+        "brand": "#1e3a8a",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "+62 31 8765 4321",
+        "tollFree": "0800-1-SURYABIRO (78792)",
+        "email": "kontak@suryabiro.com",
+        "whatsapp": "628112345678",
+        "address": "Jl. Raya Darmo No. 45, Wonokromo, Surabaya, Jawa Timur 60241"
+      }
+    },
+    "al-madinah-travel": {
+      "name": "Al Madinah Tour & Travel",
+      "shortName": "AL MADINAH",
+      "subName": "Biro Haji & Umroh",
+      "tagline": "Teman Setia Menuju Baitullah dengan Pelayanan Terbaik",
+      "about": "Al Madinah Tour & Travel melayani jamaah umroh dan haji khusus dengan fasilitas hotel ring 1 pelataran Masjidil Haram dan Nabawi serta kepastian jadwal keberangkatan terpercaya.",
+      "logo": "/images/logos/al-madinah.svg",
+      "colors": {
+        "brand": "#0f766e",
+        "accent": "#e11d48"
+      },
+      "contact": {
+        "phone": "+62 22 7201 988",
+        "tollFree": "0800-1-ALMADINAH",
+        "email": "info@almadinahtravel.co.id",
+        "whatsapp": "6281398765432",
+        "address": "Jl. Riau No. 88, Citarum, Bandung, Jawa Barat 40115"
+      }
+    },
+    "an-nur-mandiri": {
+      "name": "An-Nur Mandiri Travel",
+      "shortName": "AN-NUR",
+      "subName": "Biro Umroh Khusus",
+      "tagline": "Khidmah Sepenuh Hati, Menggapai Umroh Maqbul",
+      "about": "Penyelenggara paket ibadah umroh reguler, umroh plus, dan tour halal mancanegara dengan pembimbing ibadah berpengalaman lulusan Universitas Islam Madinah.",
+      "logo": "/images/logos/an-nur.svg",
+      "colors": {
+        "brand": "#312e81",
+        "accent": "#10b981"
+      },
+      "contact": {
+        "phone": "+62 274 5567 89",
+        "tollFree": "0800-1-ANNUR",
+        "email": "salam@annur-travel.com",
+        "whatsapp": "628122334455",
+        "address": "Jl. Kaliurang KM 6.5 No. 20, Sleman, D.I. Yogyakarta 55281"
+      }
+    }
+  }
+}

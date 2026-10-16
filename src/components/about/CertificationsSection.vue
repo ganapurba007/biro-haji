@@ -12,9 +12,9 @@ const certifications = companyData.certifications
       
       <!-- Section Header -->
       <SectionTitle
-        badge="Legalitas & Sertifikasi Resmi"
-        title="Standar Kepatuhan Regulasi & Manajemen Mutu"
-        description="Seluruh operasional rekayasa dan eksekusi konstruksi kami telah terakreditasi dan memiliki izin resmi berskala nasional."
+        badge="Legalitas & Izin Resmi Kemenag"
+        title="Standar Kepatuhan Regulasi & Akreditasi PPIU/PIHK"
+        description="Seluruh operasional penyelenggaraan ibadah haji khusus dan umroh kami telah terakreditasi A dan berizin resmi dari Kementerian Agama Republik Indonesia."
         align="center"
       />
 

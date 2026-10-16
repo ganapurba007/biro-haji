@@ -13,8 +13,8 @@ vi.mock('vue-router', () => ({
 describe('Navbar Component (FR-1.2, FR-1.3)', () => {
   it('renders logo and company name', () => {
     const wrapper = mount(Navbar)
-    expect(wrapper.text()).toContain('ADHIRAJASA')
-    expect(wrapper.text()).toContain('Karya Mandiri Kontraktor')
+    expect(wrapper.text()).toContain('DEMO')
+    expect(wrapper.text()).toContain('Biro Umroh & Haji')
   })
 
   it('renders all 5 main navigation links and CTA button', () => {

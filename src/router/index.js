@@ -1,66 +1,81 @@
 import { createRouter, createWebHistory } from 'vue-router'
+import { useAgency } from '../composables/useAgency'
+
+const basePageRoutes = [
+  {
+    path: '',
+    nameSuffix: 'home',
+    component: () => import('../views/HomeView.vue'),
+    title: 'Beranda | Biro Perjalanan Haji Khusus & Umroh Resmi',
+    description: 'Penyelenggara perjalanan ibadah umroh dan haji khusus resmi terpercaya dengan kepastian 5 Pasti Umroh, hotel pelataran bintang 5, dan bimbingan ibadah sesuai sunnah.'
+  },
+  {
+    path: 'tentang',
+    nameSuffix: 'about',
+    component: () => import('../views/AboutView.vue'),
+    title: 'Tentang Kami | Profil, Visi, Misi & Legalitas Resmi',
+    description: 'Mengenal profil amanah, visi misi khidmah jamaah, legalitas izin Kemenag RI, serta jajaran dewan pembimbing ibadah asatidz.'
+  },
+  {
+    path: 'layanan',
+    nameSuffix: 'services',
+    component: () => import('../views/ServicesView.vue'),
+    title: 'Layanan Ibadah | Umroh Reguler, Umroh Plus & Haji Khusus',
+    description: 'Layanan ibadah komprehensif mulai dari Umroh Reguler, Umroh Plus Mancanegara, Haji Khusus Kuota Kemenag, Haji Furoda, hingga Badal Umroh & Haji.'
+  },
+  {
+    path: 'proyek',
+    nameSuffix: 'projects',
+    component: () => import('../views/ProjectsView.vue'),
+    title: 'Katalog Paket Ibadah | Jadwal & Fasilitas Keberangkatan',
+    description: 'Eksplorasi pilihan paket perjalanan ibadah umroh dan haji khusus dengan fasilitas hotel pelataran dan maskapai penerbangan langsung tanpa transit.'
+  },
+  {
+    path: 'proyek/:slug',
+    nameSuffix: 'project-detail',
+    component: () => import('../views/ProjectDetailView.vue'),
+    title: 'Detail Paket Ibadah | Itinerary & Fasilitas Hotel',
+    description: 'Informasi lengkap spesifikasi kamar, maskapai penerbangan, hotel Makkah-Madinah, dan jadwal keberangkatan.'
+  },
+  {
+    path: 'kontak',
+    nameSuffix: 'contact',
+    component: () => import('../views/ContactView.vue'),
+    title: 'Pendaftaran & Konsultasi Jamaah | Hubungi Kami',
+    description: 'Konsultasikan rencana ibadah suci Anda bersama konsultan ibadah berpengalaman kami.'
+  }
+]
 
 const routes = [
-  {
-    path: '/',
-    name: 'home',
-    component: () => import('../views/HomeView.vue'),
+  // 1. Standard Root Routes (Default Demo Biro)
+  ...basePageRoutes.map((r) => ({
+    path: r.path ? `/${r.path}` : '/',
+    name: r.nameSuffix,
+    component: r.component,
     meta: {
-      title: 'Beranda | PT Adhirajasa Karya Mandiri',
-      description: 'Kontraktor umum terpercaya untuk pembangunan gedung, infrastruktur, renovasi, dan interior berkualitas tinggi di Indonesia.'
+      title: r.title,
+      description: r.description
     }
-  },
-  {
-    path: '/tentang',
-    name: 'about',
-    component: () => import('../views/AboutView.vue'),
+  })),
+
+  // 2. Dynamic Client Mockup Subpath Routes (e.g. /:agencySlug/...)
+  ...basePageRoutes.map((r) => ({
+    path: r.path ? `/:agencySlug/${r.path}` : '/:agencySlug',
+    name: `agency-${r.nameSuffix}`,
+    component: r.component,
     meta: {
-      title: 'Tentang Kami | PT Adhirajasa Karya Mandiri',
-      description: 'Mengenal profil, visi, misi, legalitas resmi, dan jajaran tim manajemen PT Adhirajasa Karya Mandiri.'
+      title: r.title,
+      description: r.description
     }
-  },
-  {
-    path: '/layanan',
-    name: 'services',
-    component: () => import('../views/ServicesView.vue'),
-    meta: {
-      title: 'Layanan Konstruksi | PT Adhirajasa Karya Mandiri',
-      description: 'Layanan konstruksi komprehensif mulai dari pembangunan gedung, jalan & infrastruktur, renovasi, interior, hingga pengawasan proyek.'
-    }
-  },
-  {
-    path: '/proyek',
-    name: 'projects',
-    component: () => import('../views/ProjectsView.vue'),
-    meta: {
-      title: 'Portfolio Proyek | PT Adhirajasa Karya Mandiri',
-      description: 'Eksplorasi rekam jejak proyek konstruksi prestisius yang telah berhasil diselesaikan oleh PT Adhirajasa Karya Mandiri.'
-    }
-  },
-  {
-    path: '/proyek/:slug',
-    name: 'project-detail',
-    component: () => import('../views/ProjectDetailView.vue'),
-    meta: {
-      title: 'Detail Proyek | PT Adhirajasa Karya Mandiri',
-      description: 'Informasi detail spesifikasi, ruang lingkup, dan galeri dokumentasi proyek konstruksi.'
-    }
-  },
-  {
-    path: '/kontak',
-    name: 'contact',
-    component: () => import('../views/ContactView.vue'),
-    meta: {
-      title: 'Hubungi Kami | PT Adhirajasa Karya Mandiri',
-      description: 'Konsultasikan kebutuhan proyek konstruksi Anda bersama tim ahli PT Adhirajasa Karya Mandiri.'
-    }
-  },
+  })),
+
+  // 3. Catch-all 404 Route
   {
     path: '/:pathMatch(.*)*',
     name: 'not-found',
     component: () => import('../views/NotFoundView.vue'),
     meta: {
-      title: '404 - Halaman Tidak Ditemukan | PT Adhirajasa Karya Mandiri',
+      title: '404 - Halaman Tidak Ditemukan',
       description: 'Halaman yang Anda tuju tidak ditemukan.'
     }
   }
@@ -80,15 +95,37 @@ const router = createRouter({
   }
 })
 
-// Update title and meta description dynamically
+// Navigation Guard: Synchronize active agency state on route navigation
 router.beforeEach((to, from, next) => {
-  if (to.meta && to.meta.title) {
-    document.title = to.meta.title
+  const { setAgency, agency } = useAgency()
+
+  // 1. Extract from route param
+  let slug = to.params.agencySlug
+
+  // 2. Fallback to query param (?biro=... or ?client=... or ?mockup=...)
+  if (!slug && (to.query.biro || to.query.client || to.query.mockup)) {
+    slug = to.query.biro || to.query.client || to.query.mockup
   }
+
+  if (slug) {
+    setAgency(slug)
+  } else {
+    setAgency('default-biro')
+  }
+
+  // Update document title and meta description
+  const activeAgencyName = agency.value?.name || 'Demo Biro Umroh dan Haji'
+  if (to.meta && to.meta.title) {
+    document.title = `${to.meta.title} — ${activeAgencyName}`
+  } else {
+    document.title = activeAgencyName
+  }
+
   const metaDescription = document.querySelector('meta[name="description"]')
   if (metaDescription && to.meta && to.meta.description) {
     metaDescription.setAttribute('content', to.meta.description)
   }
+
   next()
 })
 

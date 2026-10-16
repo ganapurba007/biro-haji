@@ -1,17 +1,46 @@
 @import "tailwindcss";
 
 @theme {
-  --color-brand-navy: #0B192C;
-  --color-brand-dark: #1E201E;
-  --color-brand-slate: #1E293B;
-  --color-brand-muted: #64748B;
-  --color-brand-accent: #FF6500;
-  --color-brand-accent-hover: #E05600;
-  --color-brand-amber: #F59E0B;
-  --color-brand-light: #F8FAFC;
+  --color-brand-50: rgb(var(--color-brand-50, 240 253 250));
+  --color-brand-100: rgb(var(--color-brand-100, 204 251 241));
+  --color-brand-200: rgb(var(--color-brand-200, 153 246 228));
+  --color-brand-300: rgb(var(--color-brand-300, 94 234 212));
+  --color-brand-400: rgb(var(--color-brand-400, 45 212 191));
+  --color-brand-500: rgb(var(--color-brand-500, 6 78 59));
+  --color-brand-600: rgb(var(--color-brand-600, 4 120 87));
+  --color-brand-700: rgb(var(--color-brand-700, 4 90 66));
+  --color-brand-800: rgb(var(--color-brand-800, 6 78 59));
+  --color-brand-900: rgb(var(--color-brand-900, 2 44 34));
+  --color-brand-950: rgb(var(--color-brand-950, 2 30 23));
+
+  --color-amber-50: rgb(var(--color-amber-50, 255 251 235));
+  --color-amber-100: rgb(var(--color-amber-100, 254 243 199));
+  --color-amber-200: rgb(var(--color-amber-200, 253 230 138));
+  --color-amber-300: rgb(var(--color-amber-300, 252 211 77));
+  --color-amber-400: rgb(var(--color-amber-400, 251 191 36));
+  --color-amber-500: rgb(var(--color-amber-500, 217 119 6));
+  --color-amber-600: rgb(var(--color-amber-600, 180 83 9));
+  --color-amber-700: rgb(var(--color-amber-700, 146 64 14));
+  --color-amber-800: rgb(var(--color-amber-800, 120 53 15));
+  --color-amber-900: rgb(var(--color-amber-900, 90 40 10));
+  --color-amber-950: rgb(var(--color-amber-950, 60 25 8));
 
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --font-heading: 'Outfit', 'Inter', sans-serif;
+}
+
+:root {
+  --color-brand-50: 240 253 250;
+  --color-brand-500: 6 78 59;
+  --color-brand-600: 4 120 87;
+  --color-brand-700: 4 90 66;
+  --color-brand-900: 2 44 34;
+
+  --color-amber-50: 255 251 235;
+  --color-amber-400: 251 191 36;
+  --color-amber-500: 217 119 6;
+  --color-amber-600: 180 83 9;
+  --color-amber-700: 146 64 14;
 }
 
 @layer base {

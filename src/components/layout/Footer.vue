@@ -1,7 +1,6 @@
 <script setup>
 import { RouterLink } from 'vue-router'
 import { 
-  HardHat, 
   MapPin, 
   Phone, 
   Mail, 
@@ -13,24 +12,18 @@ import {
   ShieldCheck,
   ChevronRight
 } from 'lucide-vue-next'
+import { useAgency } from '@/composables/useAgency'
 import companyData from '@/data/company.json'
 
+const { agency, agencyLink } = useAgency()
 const currentYear = new Date().getFullYear()
 
 const quickLinks = [
   { name: 'Beranda', path: '/' },
   { name: 'Tentang Kami', path: '/tentang' },
-  { name: 'Layanan Konstruksi', path: '/layanan' },
-  { name: 'Portfolio Proyek', path: '/proyek' },
-  { name: 'Hubungi Kami', path: '/kontak' }
-]
-
-const servicesList = [
-  { name: 'Pembangunan Gedung', path: '/layanan' },
-  { name: 'Infrastruktur & Jalan', path: '/layanan' },
-  { name: 'Renovasi & Restorasi', path: '/layanan' },
-  { name: 'Interior & Finishing', path: '/layanan' },
-  { name: 'Manajemen Proyek', path: '/layanan' }
+  { name: 'Layanan Ibadah', path: '/layanan' },
+  { name: 'Katalog Paket', path: '/proyek' },
+  { name: 'Pendaftaran & Kontak', path: '/kontak' }
 ]
 
 const getSocialIcon = (name) => {
@@ -39,7 +32,7 @@ const getSocialIcon = (name) => {
     case 'instagram': return Instagram
     case 'facebook': return Facebook
     case 'youtube': return Youtube
-    default: return Linkedin
+    default: return Instagram
   }
 }
 </script>
@@ -51,27 +44,30 @@ const getSocialIcon = (name) => {
         
         <!-- Kolom 1: Profil Singkat & Sosial (lg:col-span-5) -->
         <div class="lg:col-span-5 space-y-5">
-          <RouterLink to="/" class="flex items-center gap-3 group inline-flex" aria-label="PT Adhirajasa Karya Mandiri">
-            <div class="w-10 h-10 rounded-xl bg-amber-500 flex items-center justify-center text-slate-950 font-bold shadow">
-              <HardHat class="w-6 h-6" />
+          <RouterLink :to="agencyLink('/')" class="flex items-center gap-3 group inline-flex" :aria-label="agency.name">
+            <div v-if="agency.logo" class="w-10 h-10 rounded-xl overflow-hidden bg-white shadow flex items-center justify-center p-1">
+              <img :src="agency.logo" :alt="agency.name" class="w-full h-full object-contain" />
+            </div>
+            <div v-else class="w-10 h-10 rounded-xl bg-amber-500 flex items-center justify-center text-slate-950 font-bold shadow text-sm">
+              <span>{{ agency.initials || 'DB' }}</span>
             </div>
             <div>
               <div class="text-xl font-extrabold text-white tracking-tight">
-                ADHIRAJASA
+                {{ agency.shortName }}
               </div>
               <div class="text-[10px] tracking-widest text-amber-400 font-bold uppercase -mt-0.5">
-                Karya Mandiri Kontraktor
+                {{ agency.subName }}
               </div>
             </div>
           </RouterLink>
 
           <p class="text-sm text-slate-400 leading-relaxed pr-4">
-            {{ companyData.about }}
+            {{ agency.about }}
           </p>
 
           <div class="flex items-center gap-2 text-xs text-amber-400 bg-slate-900/80 px-3.5 py-2 rounded-lg border border-slate-800 w-fit">
             <ShieldCheck class="w-4 h-4 text-amber-400 shrink-0" />
-            <span>Sertifikasi Resmi ISO 9001, 14001 & 45001</span>
+            <span>Izin Resmi Kemenag RI (PPIU & PIHK) • Akreditasi A</span>
           </div>
 
           <!-- Social Media Links -->
@@ -101,7 +97,7 @@ const getSocialIcon = (name) => {
           <ul class="space-y-2.5 text-sm">
             <li v-for="link in quickLinks" :key="link.name">
               <RouterLink 
-                :to="link.path" 
+                :to="agencyLink(link.path)" 
                 class="hover:text-amber-400 transition-colors flex items-center gap-1.5 group"
               >
                 <ChevronRight class="w-3.5 h-3.5 text-slate-600 group-hover:text-amber-400 transition-colors" />
@@ -119,23 +115,23 @@ const getSocialIcon = (name) => {
           <ul class="space-y-3.5 text-sm">
             <li class="flex items-start gap-3">
               <MapPin class="w-5 h-5 text-amber-500 shrink-0 mt-0.5" />
-              <span>{{ companyData.contact.address }}</span>
+              <span>{{ agency.contact.address }}</span>
             </li>
             <li class="flex items-center gap-3">
               <Phone class="w-4 h-4 text-amber-500 shrink-0" />
-              <a :href="`tel:${companyData.contact.phone.replace(/[^0-9+]/g, '')}`" class="hover:text-amber-400 transition-colors">
-                {{ companyData.contact.phone }}
+              <a :href="`tel:${agency.contact.phone.replace(/[^0-9+]/g, '')}`" class="hover:text-amber-400 transition-colors">
+                {{ agency.contact.phone }}
               </a>
             </li>
             <li class="flex items-center gap-3">
               <Mail class="w-4 h-4 text-amber-500 shrink-0" />
-              <a :href="`mailto:${companyData.contact.email}`" class="hover:text-amber-400 transition-colors">
-                {{ companyData.contact.email }}
+              <a :href="`mailto:${agency.contact.email}`" class="hover:text-amber-400 transition-colors">
+                {{ agency.contact.email }}
               </a>
             </li>
             <li class="flex items-start gap-3">
               <Clock class="w-4 h-4 text-amber-500 shrink-0 mt-0.5" />
-              <span>{{ companyData.workingHours }}</span>
+              <span>{{ agency.workingHours || companyData.workingHours }}</span>
             </li>
           </ul>
         </div>
@@ -145,10 +141,10 @@ const getSocialIcon = (name) => {
       <!-- Copyright Bar -->
       <div class="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-4">
         <p>
-          &copy; {{ currentYear }} <span class="text-slate-400 font-semibold">{{ companyData.name }}</span>. All rights reserved.
+          &copy; {{ currentYear }} <span class="text-slate-400 font-semibold">{{ agency.name }}</span>. All rights reserved.
         </p>
         <div class="flex items-center text-slate-500">
-          <span class="text-amber-500 font-medium">Standar Mutu K3 & ISO Certified</span>
+          <span class="text-amber-500 font-medium">Biro Perjalanan Haji & Umroh Resmi Berizin Kemenag RI</span>
         </div>
       </div>
     </div>
