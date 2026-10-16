@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="tsabitaGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#047857" />
+      <stop offset="100%" stop-color="#064e3b" />
+    </linearGradient>
+    <linearGradient id="tsabitaGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#d97706" />
+    </linearGradient>
+  </defs>
+
+  <!-- Islamic Emerald Circular Background with Gold Ring -->
+  <circle cx="50" cy="50" r="46" fill="url(#tsabitaGreen)" stroke="url(#tsabitaGold)" stroke-width="3" />
+  
+  <!-- Subtle Inner Geometry Ring -->
+  <circle cx="50" cy="46" r="28" stroke="url(#tsabitaGold)" stroke-width="1.5" stroke-dasharray="3 3" opacity="0.65" />
+
+  <!-- Stylized Ka'bah / Mihrab Sanctuary -->
+  <g transform="translate(32, 28)">
+    <!-- Base Structure -->
+    <rect x="4" y="10" width="28" height="26" rx="2" fill="#0B132B" stroke="url(#tsabitaGold)" stroke-width="2" />
+    <!-- Kiswah Gold Band -->
+    <rect x="4" y="16" width="28" height="4" fill="url(#tsabitaGold)" />
+    <!-- Golden Door -->
+    <rect x="22" y="22" width="6" height="14" rx="1" fill="url(#tsabitaGold)" />
+    <!-- Crescent & Star on Top -->
+    <path d="M18 2 C19.2 2 20.2 2.6 20.8 3.6 C19.2 4 18 5.6 18 7.6 C18 9.6 19.2 11.2 20.8 11.6 C20.2 12.6 19.2 13.2 18 13.2 C14.9 13.2 12.4 10.7 12.4 7.6 C12.4 4.5 14.9 2 18 2 Z" fill="#FDE68A" />
+    <polygon points="21,5 21.8,6.6 23.4,6.6 22.1,7.6 22.6,9.2 21.3,8.2 20.1,9.2 20.6,7.6 19.3,6.6 20.9,6.6" fill="#FBBF24" />
+  </g>
+
+  <!-- Flowing Ribbon Arch -->
+  <path d="M22 72 C36 65 64 65 78 72" stroke="url(#tsabitaGold)" stroke-width="3" stroke-linecap="round" />
+  <circle cx="50" cy="68" r="3.5" fill="#FBBF24" />
+</svg>

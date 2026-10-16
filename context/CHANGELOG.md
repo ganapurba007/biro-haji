@@ -14,6 +14,20 @@ Format tiap entri:
 **Docs updated:** [PRD §9 / SCHEMA.md / tidak ada perubahan scope]
 -->
 
+## Fix & Asset — Penambahan Logo Tsabita Pratama Tour & Sinkronisasi Path Logo (2026-10-16)
+**FR terkait:** FR-8.1, FR-8.2
+**Yang dikerjakan:**
+- **Pembuatan Aset Logo Tsabita Pratama Tour:**
+  - Membuat logo SVG Islami kustom (`tsabita-pratama-tour.svg` dan alias `tsabita-pratama.svg`) dengan palet warna hijau zamrud (`#047857`) dan aksen emas (`#f59e0b`) berhias ornamen geometris Ka'bah & kubah masjid
+  - Memverifikasi tampilan logo pada rute `http://localhost:5176/tsabita-pratama-tour` baik pada header/navbar maupun footer
+- **Sinkronisasi Path Aset Logo:**
+  - Menyediakan file alias `al-madinah.svg` dan `an-nur.svg` di `public/images/logos/` untuk memastikan path referensi pada `src/data/agencies.json` selalu ter-resolve sempurna
+- **Verifikasi Kualitas:**
+  - Seluruh 58 unit tests lolos (23 test files)
+**File yang berubah:** `public/images/logos/tsabita-pratama-tour.svg`, `public/images/logos/tsabita-pratama.svg`, `public/images/logos/al-madinah.svg`, `public/images/logos/an-nur.svg`, `context/CHANGELOG.md`, `AGENTS.md`
+**Test:** 58 passed / 58 total (23 test files)
+**Docs updated:** CHANGELOG.md, AGENTS.md
+
 ## Feature — Penambahan Mockup 9 Biro Umroh & Haji Jogja & Magelang (2026-10-16)
 **FR terkait:** FR-8.1, FR-8.2
 **Yang dikerjakan:**
