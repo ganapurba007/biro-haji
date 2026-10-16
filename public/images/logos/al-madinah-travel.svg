@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="madinahGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#047857" />
+      <stop offset="100%" stop-color="#064E3B" />
+    </linearGradient>
+    <linearGradient id="madinahGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FCD34D" />
+      <stop offset="100%" stop-color="#F59E0B" />
+    </linearGradient>
+  </defs>
+
+  <circle cx="50" cy="50" r="46" fill="url(#madinahGreen)" stroke="url(#madinahGold)" stroke-width="3" />
+
+  <!-- Green Dome of Nabawi Motif -->
+  <path d="M50 24 C50 24 34 35 34 50 C34 55 36 58 38 60 L62 60 C64 58 66 55 66 50 C66 35 50 24 50 24 Z" fill="#10B981" stroke="url(#madinahGold)" stroke-width="2" />
+  <!-- Crescent Finial -->
+  <circle cx="50" cy="20" r="3" fill="url(#madinahGold)" />
+
+  <!-- Base Platform -->
+  <rect x="28" y="60" width="44" height="6" rx="2" fill="url(#madinahGold)" />
+  <rect x="24" y="66" width="52" height="4" rx="1.5" fill="#D97706" />
+</svg>

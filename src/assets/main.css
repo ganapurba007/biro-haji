@@ -1,46 +1,39 @@
 @import "tailwindcss";
 
 @theme {
-  --color-brand-50: rgb(var(--color-brand-50, 240 253 250));
-  --color-brand-100: rgb(var(--color-brand-100, 204 251 241));
-  --color-brand-200: rgb(var(--color-brand-200, 153 246 228));
-  --color-brand-300: rgb(var(--color-brand-300, 94 234 212));
-  --color-brand-400: rgb(var(--color-brand-400, 45 212 191));
-  --color-brand-500: rgb(var(--color-brand-500, 6 78 59));
-  --color-brand-600: rgb(var(--color-brand-600, 4 120 87));
-  --color-brand-700: rgb(var(--color-brand-700, 4 90 66));
-  --color-brand-800: rgb(var(--color-brand-800, 6 78 59));
-  --color-brand-900: rgb(var(--color-brand-900, 2 44 34));
-  --color-brand-950: rgb(var(--color-brand-950, 2 30 23));
+  --color-brand-50: var(--app-brand-50, #f0fdfa);
+  --color-brand-100: var(--app-brand-100, #ccfbf1);
+  --color-brand-200: var(--app-brand-200, #99f6e4);
+  --color-brand-300: var(--app-brand-300, #5eead4);
+  --color-brand-400: var(--app-brand-400, #2dd4bf);
+  --color-brand-500: var(--app-brand-500, #064e3b);
+  --color-brand-600: var(--app-brand-600, #047857);
+  --color-brand-700: var(--app-brand-700, #045a42);
+  --color-brand-800: var(--app-brand-800, #064e3b);
+  --color-brand-900: var(--app-brand-900, #022c22);
+  --color-brand-950: var(--app-brand-950, #021e17);
 
-  --color-amber-50: rgb(var(--color-amber-50, 255 251 235));
-  --color-amber-100: rgb(var(--color-amber-100, 254 243 199));
-  --color-amber-200: rgb(var(--color-amber-200, 253 230 138));
-  --color-amber-300: rgb(var(--color-amber-300, 252 211 77));
-  --color-amber-400: rgb(var(--color-amber-400, 251 191 36));
-  --color-amber-500: rgb(var(--color-amber-500, 217 119 6));
-  --color-amber-600: rgb(var(--color-amber-600, 180 83 9));
-  --color-amber-700: rgb(var(--color-amber-700, 146 64 14));
-  --color-amber-800: rgb(var(--color-amber-800, 120 53 15));
-  --color-amber-900: rgb(var(--color-amber-900, 90 40 10));
-  --color-amber-950: rgb(var(--color-amber-950, 60 25 8));
+  --color-amber-50: var(--app-amber-50, #fffbeb);
+  --color-amber-100: var(--app-amber-100, #fef3c7);
+  --color-amber-200: var(--app-amber-200, #fde68a);
+  --color-amber-300: var(--app-amber-300, #fcd34d);
+  --color-amber-400: var(--app-amber-400, #fbbf24);
+  --color-amber-500: var(--app-amber-500, #d97706);
+  --color-amber-600: var(--app-amber-600, #b45309);
+  --color-amber-700: var(--app-amber-700, #92400e);
+  --color-amber-800: var(--app-amber-800, #78350f);
+  --color-amber-900: var(--app-amber-900, #5a280a);
+  --color-amber-950: var(--app-amber-950, #3c1905);
 
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --font-heading: 'Outfit', 'Inter', sans-serif;
 }
 
 :root {
-  --color-brand-50: 240 253 250;
-  --color-brand-500: 6 78 59;
-  --color-brand-600: 4 120 87;
-  --color-brand-700: 4 90 66;
-  --color-brand-900: 2 44 34;
-
-  --color-amber-50: 255 251 235;
-  --color-amber-400: 251 191 36;
-  --color-amber-500: 217 119 6;
-  --color-amber-600: 180 83 9;
-  --color-amber-700: 146 64 14;
+  --app-brand-500: #064e3b;
+  --app-amber-400: #fbbf24;
+  --app-amber-500: #d97706;
+  --app-amber-600: #b45309;
 }
 
 @layer base {

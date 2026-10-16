@@ -58,7 +58,7 @@ onUnmounted(() => {
 
 <template>
   <section 
-    class="relative w-full h-[580px] sm:h-[640px] lg:h-[720px] bg-slate-950 overflow-hidden select-none"
+    class="relative w-full min-h-[640px] sm:min-h-[700px] lg:min-h-[760px] h-[80vh] bg-slate-950 overflow-hidden select-none"
     @mouseenter="handleMouseEnter"
     @mouseleave="handleMouseLeave"
     @focusin="handleMouseEnter"
@@ -82,41 +82,43 @@ onUnmounted(() => {
         :loading="index === 0 ? 'eager' : 'lazy'"
       />
       <!-- Overlays for Contrast and Rich Aesthetics -->
-      <div class="absolute inset-0 bg-gradient-to-r from-slate-950/95 via-slate-950/80 to-slate-900/40" />
+      <div class="absolute inset-0 bg-gradient-to-r from-slate-950/95 via-slate-950/85 to-slate-900/50" />
       <div class="absolute inset-0 bg-radial-at-c from-transparent via-slate-950/40 to-slate-950/80" />
 
       <!-- Slide Content -->
-      <div class="relative max-w-7xl mx-auto h-full px-4 sm:px-6 lg:px-8 flex flex-col justify-center">
+      <div class="relative max-w-7xl mx-auto h-full px-4 sm:px-6 lg:px-8 flex flex-col justify-center pb-24 sm:pb-32 lg:pb-36">
         <div class="max-w-3xl space-y-6">
-          <!-- Top Eyebrow -->
-          <div class="text-amber-400 text-xs sm:text-sm font-extrabold uppercase tracking-widest flex items-center gap-2">
-            <span class="w-2 h-2 rounded-full bg-amber-400 inline-block" />
-            <span>{{ agency.tagline }}</span>
+          <!-- Top Eyebrow Pill -->
+          <div class="inline-flex items-center gap-2.5 px-4 py-2 rounded-full bg-slate-900/80 border border-amber-400/40 backdrop-blur-md w-fit shadow-md">
+            <span class="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse" />
+            <span class="text-amber-400 text-xs sm:text-sm font-black tracking-widest uppercase">
+              {{ agency.tagline }}
+            </span>
           </div>
 
           <!-- Headline -->
-          <h1 class="text-3xl sm:text-5xl lg:text-6xl font-extrabold text-white tracking-tight leading-[1.15]">
+          <h1 class="text-3xl sm:text-5xl lg:text-6xl font-extrabold text-white tracking-tight leading-[1.15] drop-shadow-md">
             {{ slide.headline }}
           </h1>
 
           <!-- Subheadline -->
-          <p class="text-base sm:text-lg lg:text-xl text-slate-300 font-normal leading-relaxed max-w-2xl">
+          <p class="text-base sm:text-lg lg:text-xl text-slate-200 font-normal leading-relaxed max-w-2xl drop-shadow">
             {{ slide.subheadline }}
           </p>
 
           <!-- Action Buttons -->
-          <div class="pt-2 flex flex-wrap items-center gap-4">
+          <div class="pt-3 flex flex-wrap items-center gap-4">
             <RouterLink
               :to="agencyLink(slide.ctaLink)"
-              class="inline-flex items-center gap-2 px-6 sm:px-8 py-3.5 rounded-xl bg-amber-500 hover:bg-amber-600 text-slate-950 font-bold text-sm sm:text-base shadow-lg hover:shadow-amber-500/20 hover:-translate-y-0.5 transition-all duration-200"
+              class="inline-flex items-center gap-2.5 px-7 sm:px-8 py-4 rounded-xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-black text-sm sm:text-base shadow-xl hover:shadow-amber-500/30 hover:-translate-y-0.5 transition-all duration-200"
             >
               <span>{{ slide.ctaLabel }}</span>
-              <ArrowRight class="w-5 h-5" />
+              <ArrowRight class="w-5 h-5 text-slate-950" />
             </RouterLink>
 
             <RouterLink
               :to="agencyLink('/tentang')"
-              class="inline-flex items-center gap-2 px-6 sm:px-8 py-3.5 rounded-xl bg-white/10 hover:bg-white/20 text-white font-semibold text-sm sm:text-base backdrop-blur-md border border-white/20 hover:border-white/40 transition-all duration-200"
+              class="inline-flex items-center gap-2 px-7 sm:px-8 py-4 rounded-xl bg-slate-900/70 hover:bg-slate-900/90 text-white font-bold text-sm sm:text-base backdrop-blur-md border border-white/30 hover:border-white/60 transition-all duration-200 shadow-lg"
             >
               <span>Tentang Biro</span>
             </RouterLink>

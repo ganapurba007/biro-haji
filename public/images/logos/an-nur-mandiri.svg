@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="nurNavy" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1E293B" />
+    </linearGradient>
+    <linearGradient id="nurGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBBF24" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+  </defs>
+
+  <circle cx="50" cy="50" r="46" fill="url(#nurNavy)" stroke="url(#nurGold)" stroke-width="3" />
+
+  <!-- Lantern (Fanous) Motif -->
+  <path d="M44 32 H56 L54 44 H46 Z" fill="url(#nurGold)" />
+  <path d="M46 44 L40 56 H60 L54 44 Z" fill="#FDE68A" opacity="0.9" />
+  <path d="M42 56 L46 64 H54 L58 56 Z" fill="url(#nurGold)" />
+  <circle cx="50" cy="27" r="4" stroke="url(#nurGold)" stroke-width="2" />
+  
+  <path d="M30 72 C42 67 58 67 70 72" stroke="url(#nurGold)" stroke-width="2.5" stroke-linecap="round" />
+</svg>

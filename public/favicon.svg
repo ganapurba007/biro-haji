@@ -1,31 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
-  <!-- Dark Slate Background with Rounded Corners -->
-  <rect width="64" height="64" rx="14" fill="#0B132B" />
+  <!-- Background Hijau Zamrud dengan Sudut Membulat -->
+  <rect width="64" height="64" rx="16" fill="#064E3B" />
   
-  <!-- Subtle Amber Border Glow -->
-  <rect x="1" y="1" width="62" height="62" rx="13" stroke="#F59E0B" stroke-width="2" stroke-opacity="0.4" fill="none" />
+  <!-- Border Emas Mewah -->
+  <rect x="2" y="2" width="60" height="60" rx="14" stroke="#F59E0B" stroke-width="2" stroke-opacity="0.8" fill="none" />
 
-  <!-- Construction Hard Hat & Structural Peak Icon -->
-  <g transform="translate(10, 12)">
-    <!-- Helmet Dome -->
+  <!-- Kubah Masjid & Bulan Bintang Emas -->
+  <g transform="translate(12, 10)">
+    <!-- Bulan Sabit & Bintang di Puncak -->
     <path 
-      d="M22 6C13.163 6 6 13.163 6 22H38C38 13.163 30.837 6 22 6Z" 
+      d="M20 2 C21.5 2 22.8 2.8 23.5 4 C21.5 4.5 20 6.5 20 9 C20 11.5 21.5 13.5 23.5 14 C22.8 15.2 21.5 16 20 16 C16.1 16 13 12.9 13 9 C13 5.1 16.1 2 20 2 Z" 
+      fill="#FBBF24" 
+    />
+    <polygon points="23,7 24,9 26,9 24.5,10.2 25,12 23.5,11 22,12 22.5,10.2 21,9 23,9" fill="#FDE68A" />
+
+    <!-- Kubah Utama -->
+    <path 
+      d="M20 12 C20 12 10 18 10 27 C10 30 11 32 12 33 L28 33 C29 32 30 30 30 27 C30 18 20 12 20 12 Z" 
       fill="#F59E0B" 
     />
     
-    <!-- Helmet Top Ridge / Crest -->
-    <rect x="19.5" y="2" width="5" height="12" rx="2" fill="#FDE68A" />
-    
-    <!-- Helmet Brim -->
+    <!-- Lengkungan Pintu Mihrab -->
     <path 
-      d="M2 22C2 21.4477 2.44772 21 3 21H41C41.5523 21 42 21.4477 42 22C42 24.2091 40.2091 26 38 26H6C3.79086 26 2 24.2091 2 22Z" 
-      fill="#D97706" 
+      d="M16 33 V26 C16 23.8 17.8 22 20 22 C22.2 22 24 23.8 24 26 V33 Z" 
+      fill="#064E3B" 
     />
 
-    <!-- Foundation / Architectural Pillars Underneath -->
-    <path d="M10 29L14 36H11L7 29H10Z" fill="#FBBF24" opacity="0.9" />
-    <path d="M20.5 29H23.5V36H20.5V29Z" fill="#FBBF24" opacity="0.9" />
-    <path d="M34 29L30 36H33L37 29H34Z" fill="#FBBF24" opacity="0.9" />
-    <rect x="6" y="36.5" width="32" height="2.5" rx="1" fill="#F59E0B" />
+    <!-- Pilar & Pondasi Dasar -->
+    <rect x="6" y="33" width="28" height="4" rx="1.5" fill="#FBBF24" />
+    <rect x="4" y="37" width="32" height="3" rx="1" fill="#D97706" />
+    
+    <!-- Menara Kiri & Kanan Kecil -->
+    <rect x="6" y="24" width="3" height="9" fill="#FDE68A" />
+    <polygon points="6,24 7.5,20 9,24" fill="#FBBF24" />
+    <rect x="31" y="24" width="3" height="9" fill="#FDE68A" />
+    <polygon points="31,24 32.5,20 34,24" fill="#FBBF24" />
   </g>
 </svg>

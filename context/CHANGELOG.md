@@ -14,6 +14,21 @@ Format tiap entri:
 **Docs updated:** [PRD §9 / SCHEMA.md / tidak ada perubahan scope]
 -->
 
+## Fix — Favicon Islami, Logo Biro Preset, dan Visibilitas Hero Slider (2026-10-16)
+**FR terkait:** FR-1.2, FR-2.1, FR-7.2
+**Yang dikerjakan:**
+- **Favicon & Logo Aplikasi:**
+  - Membuat `public/favicon.svg` bertema Kubah Masjid & Bulan Sabit Emas berlatar hijau zamrud (menggantikan helm proyek)
+  - Membuat aset SVG logo biro resmi di `public/images/logos/`: `default-biro.svg`, `surya-biro.svg`, `al-madinah-travel.svg`, dan `an-nur-mandiri.svg` sehingga logo pada navbar & footer tampil sempurna tanpa error 404
+- **Perbaikan Visibilitas Teks & Tombol Hero Section:**
+  - Mengatasi circular dependency pada CSS variables `@theme` dan `:root` di `src/assets/main.css` yang sebelumnya membuat nilai `--color-amber-400` dan `--color-amber-500` menjadi invalid/transparan di browser
+  - Menyuntikkan token `--app-brand-*` dan `--app-amber-*` via `src/lib/theme.js` dengan fallback hex solid
+  - Memperbarui `HeroSlider.vue` dengan menambahkan eyebrow badge pill berlatar blur kontras untuk tagline *"Melayani Tamu Allah Sepenuh Hati..."*, menambah tinggi hero slider (`min-h-[640px] sm:min-h-[700px] h-[80vh]`), dan memberikan padding bawah lapang (`pb-24 sm:pb-32`) agar tombol CTA tidak tertutup kartu `ScoreCards`
+- **Testing:** Seluruh 58 unit tests lolos (100% green) dan build produksi Vite sukses
+**File yang berubah:** `public/favicon.svg`, `public/images/logos/*.svg`, `src/assets/main.css`, `src/lib/theme.js`, `src/components/sections/HeroSlider.vue`, `context/CHANGELOG.md`
+**Test:** 58 passed / 58 total (23 test files)
+**Docs updated:** CHANGELOG.md
+
 ## Polish — Penyelarasan Menyeluruh Teks, Menu Navigasi, dan Gambar Haji & Umroh (2026-10-16)
 **FR terkait:** FR-1.1 s/d FR-6.6
 **Yang dikerjakan:**

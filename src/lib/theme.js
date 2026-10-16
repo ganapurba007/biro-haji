@@ -97,8 +97,10 @@ export function generateColorShades(baseHex) {
 export function shadesToCssVariables(shades, prefix = 'brand') {
   const vars = {}
   for (const [key, rgb] of Object.entries(shades)) {
+    const hex = rgbToHex(rgb.r, rgb.g, rgb.b)
     vars[`--color-${prefix}-${key}`] = `${rgb.r} ${rgb.g} ${rgb.b}`
-    vars[`--hex-${prefix}-${key}`] = `#${((1 << 24) + (rgb.r << 16) + (rgb.g << 8) + rgb.b).toString(16).slice(1)}`
+    vars[`--hex-${prefix}-${key}`] = hex
+    vars[`--app-${prefix}-${key}`] = hex
   }
   return vars
 }
