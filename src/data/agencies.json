@@ -76,6 +76,196 @@
         "whatsapp": "628122334455",
         "address": "Jl. Kaliurang KM 6.5 No. 20, Sleman, D.I. Yogyakarta 55281"
       }
+    },
+    "tsabita-pratama-tour": {
+      "slug": "tsabita-pratama-tour",
+      "name": "Tsabita Pratama Tour",
+      "shortName": "TSABITA",
+      "subName": "Umroh & Haji Jogja",
+      "tagline": "Biro Perjalanan Umroh & Haji Terpercaya di Jogja — Amanah, Nyaman, dan Sesuai Sunnah",
+      "about": "Tsabita Pratama Tour melayani perjalanan ibadah umroh dan haji di wilayah Kota Yogyakarta dan sekitarnya. Dengan rating bintang 5 di Google Maps, kami berkomitmen memberikan kepastian jadwal keberangkatan, fasilitas hotel nyaman, serta bimbingan ibadah intensif.",
+      "logo": "/images/logos/tsabita-pratama-tour.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "082138125177",
+        "whatsapp": "6282138125177",
+        "email": "info@tsabitapratamatour.com",
+        "address": "Jl. Babaran No.12.B, Pandeyan, Kec. Umbulharjo, Kota Yogyakarta, D.I. Yogyakarta 55165"
+      }
+    },
+    "ardhian-umrah-haji": {
+      "slug": "ardhian-umrah-haji",
+      "name": "Ardhian Umrah & Haji Plus",
+      "shortName": "ARDHIAN",
+      "subName": "Umroh & Haji Plus",
+      "tagline": "Solusi Ibadah Umroh 5 Pasti — Amanah, Berizin Resmi, dan Berpengalaman",
+      "about": "Ardhian Umrah & Haji Plus hadir melayani calon jemaah umroh dan haji plus dengan standar 5 Pasti Kemenag. Menghadirkan fasilitas maskapai terbaik, hotel dekat masjid, serta muthawif berpengalaman untuk kenyamanan ibadah Anda.",
+      "logo": "/images/logos/ardhian-umrah-haji.svg",
+      "colors": {
+        "brand": "#0f766e",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "085161614600",
+        "whatsapp": "6285161614600",
+        "email": "info@ardhianumrah.com",
+        "address": "Jl. Kopen II No.41, Bantul, D.I. Yogyakarta 55198"
+      }
+    },
+    "azka-tour": {
+      "slug": "azka-tour",
+      "name": "Azka Tour (Azka Mitra Amanah)",
+      "shortName": "AZKA TOUR",
+      "subName": "Biro Haji & Umroh",
+      "tagline": "Mitra Amanah Ibadah ke Tanah Suci — Layanan Prima dan Berkah",
+      "about": "Azka Tour (Azka Mitra Amanah) menyediakan paket perjalanan ibadah umroh reguler, umroh plus, dan haji khusus berlokasi di Ring Road Utara Sleman. Melayani jemaah dengan sepenuh hati, fasilitas terjamin, dan pendampingan terpercaya.",
+      "logo": "/images/logos/azka-tour.svg",
+      "colors": {
+        "brand": "#1e3a8a",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "087812466899",
+        "whatsapp": "6287812466899",
+        "email": "info@azkatour.com",
+        "address": "Jl. Ring Road Utara No.27c, Condongcatur, Kec. Depok, Kabupaten Sleman, D.I. Yogyakarta 55281"
+      }
+    },
+    "arkhana-tour-jogja": {
+      "slug": "arkhana-tour-jogja",
+      "name": "Arkhana Tour Cabang Yogyakarta",
+      "shortName": "ARKHANA",
+      "subName": "Travel Umroh & Haji",
+      "tagline": "Penyelenggara Umroh & Wisata Halal — Fasilitas Terpilih, Bimbingan Tulus",
+      "about": "Arkhana Tour Cabang Yogyakarta melayani pendaftaran dan bimbingan umroh serta wisata halal untuk area D.I. Yogyakarta dan Jawa Tengah. Menawarkan kepastian jadwal, tiket penerbangan langsung, dan hotel pelataran yang memudahkan ibadah.",
+      "logo": "/images/logos/arkhana-tour-jogja.svg",
+      "colors": {
+        "brand": "#065f46",
+        "accent": "#eab308"
+      },
+      "contact": {
+        "phone": "081315266950",
+        "whatsapp": "6281315266950",
+        "email": "jogja@arkhanatour.com",
+        "address": "Jl. Perumnas No.29, Condongcatur, Kec. Depok, Kabupaten Sleman, D.I. Yogyakarta 55281"
+      }
+    },
+    "el-umroh-jogja": {
+      "slug": "el-umroh-jogja",
+      "name": "eL-umroh (PT Lantabur Berkah Wisatapedia)",
+      "shortName": "eL-UMROH",
+      "subName": "Biro Perjalanan Umroh",
+      "tagline": "Perjalanan Berkah ke Baitullah — Pelayanan Ramah, Fasilitas Bintang 5",
+      "about": "eL-umroh (PT Lantabur Berkah Wisatapedia) adalah biro perjalanan umroh resmi yang berkantor di Ruko Kirana, Lowanu, Kota Yogyakarta. Kami menghadirkan program umroh berkualitas dengan akomodasi terbaik dan pembimbing ibadah yang berdedikasi.",
+      "logo": "/images/logos/el-umroh-jogja.svg",
+      "colors": {
+        "brand": "#15803d",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "081222815544",
+        "whatsapp": "6281222815544",
+        "email": "info@el-umroh.com",
+        "address": "Ruko Kirana, Jl. Lowanu No.35 B.13, Sorosutan, Kec. Mergangsan, Kota Yogyakarta, D.I. Yogyakarta 55162"
+      }
+    },
+    "dewangga-umroh-magelang": {
+      "slug": "dewangga-umroh-magelang",
+      "name": "Dewangga Haji & Umroh Magelang",
+      "shortName": "DEWANGGA",
+      "subName": "Biro Haji & Umroh",
+      "tagline": "Biro Umroh Terpercaya Magelang — Fasilitas VIP, Pasti Berangkat",
+      "about": "Dewangga Haji & Umroh Magelang melayani pendaftaran paket umroh dan haji plus masyarakat Kota Magelang dan sekitarnya. Terletak strategis di Jl. Jend. Sudirman dengan reputasi bintang 5 serta kepuasan jemaah yang tinggi.",
+      "logo": "/images/logos/dewangga-umroh-magelang.svg",
+      "colors": {
+        "brand": "#1e40af",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "0816650805",
+        "whatsapp": "62816650805",
+        "email": "magelang@dewanggatour.com",
+        "address": "Jl. Jend. Sudirman No.153, Tidar Selatan, Kec. Magelang Selatan, Kota Magelang, Jawa Tengah 56125"
+      }
+    },
+    "firdaus-tour-magelang": {
+      "slug": "firdaus-tour-magelang",
+      "name": "Firdaus Tour Biro Umroh & Haji Magelang",
+      "shortName": "FIRDAUS",
+      "subName": "Biro Umroh & Haji",
+      "tagline": "Menuju Ridho Ilahi — Layanan Umroh Khusyuk, Nyaman, dan Terjangkau",
+      "about": "Firdaus Tour melayani perjalanan ibadah haji dan umroh di area Mertoyudan, Magelang. Berkomitmen mendampingi jemaah mulai manasik hingga kepulangan dengan layanan profesional dan pembimbing ramah.",
+      "logo": "/images/logos/firdaus-tour-magelang.svg",
+      "colors": {
+        "brand": "#115e59",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "085134555995",
+        "whatsapp": "6285134555995",
+        "email": "info@firdaustourmagelang.com",
+        "address": "Jl. Pangeran Diponegoro No.92, Mertoyudan, Kabupaten Magelang, Jawa Tengah 56172"
+      }
+    },
+    "diva-wisata-magelang": {
+      "slug": "diva-wisata-magelang",
+      "name": "Diva Wisata Umrah & Haji Plus Magelang",
+      "shortName": "DIVA WISATA",
+      "subName": "Umrah & Haji Plus",
+      "tagline": "Perjalanan Ibadah Penuh Makna — Fasilitas Lengkap dan Pendampingan Maksimal",
+      "about": "Diva Wisata Umrah & Haji Plus melayani masyarakat Kabupaten Magelang dan sekitarnya di Jl. Mayor Kusen, Mungkid. Menghadirkan paket umroh hemat hingga VIP dengan kepastian maskapai dan hotel prima.",
+      "logo": "/images/logos/diva-wisata-magelang.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#b45309"
+      },
+      "contact": {
+        "phone": "081330332323",
+        "whatsapp": "6281330332323",
+        "email": "info@divawisatamagelang.com",
+        "address": "Jl. Mayor Kusen, Mendut, Mungkid, Kabupaten Magelang, Jawa Tengah 56512"
+      }
+    },
+    "smart-umroh-magelang": {
+      "slug": "smart-umroh-magelang",
+      "name": "Smart Umroh Magelang",
+      "shortName": "SMART UMROH",
+      "subName": "Travel Umroh Cerdas",
+      "tagline": "Umroh Mudah, Cepat, dan Barokah — Pilihan Cerdas Calon Jemaah",
+      "about": "Smart Umroh Magelang menyediakan kemudahan pendaftaran dan konsultasi umroh bagi keluarga di Magelang. Pelayanan transparan, sistematis, dan pendampingan ibadah intensif dari tanah air hingga Tanah Suci.",
+      "logo": "/images/logos/smart-umroh-magelang.svg",
+      "colors": {
+        "brand": "#0369a1",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "08122848820",
+        "whatsapp": "628122848820",
+        "email": "info@smartumrohmagelang.com",
+        "address": "Perum Marisland Edelweis No.B1, Mertoyudan, Kabupaten Magelang, Jawa Tengah 56172"
+      }
+    },
+    "arminareka-magelang": {
+      "slug": "arminareka-magelang",
+      "name": "Arminareka Perdana Magelang",
+      "shortName": "ARMINAREKA",
+      "subName": "Biro Haji & Umroh",
+      "tagline": "Penyelenggara Umroh & Haji Terbesar — Bersama Menjemput Panggilan Baitullah",
+      "about": "Arminareka Perdana Kantor Layanan Magelang melayani pembinaan calon jemaah umroh dan haji plus dengan jaringan luas dan pengalaman puluhan tahun mendampingi jutaan jemaah ke Tanah Suci.",
+      "logo": "/images/logos/arminareka-magelang.svg",
+      "colors": {
+        "brand": "#064e3b",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "085171080805",
+        "whatsapp": "6285171080805",
+        "email": "magelang@arminarekaperdana.com",
+        "address": "Punduhsari RT.5/RW.2, Tempuran, Kabupaten Magelang, Jawa Tengah 56161"
+      }
     }
   }
 }

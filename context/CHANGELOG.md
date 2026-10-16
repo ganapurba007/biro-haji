@@ -14,6 +14,29 @@ Format tiap entri:
 **Docs updated:** [PRD §9 / SCHEMA.md / tidak ada perubahan scope]
 -->
 
+## Feature — Penambahan Mockup 9 Biro Umroh & Haji Jogja & Magelang (2026-10-16)
+**FR terkait:** FR-8.1, FR-8.2
+**Yang dikerjakan:**
+- **Penambahan Data Biro Umroh & Haji:**
+  - Menambahkan profil dan konfigurasi tema untuk 9 biro umroh & haji area Yogyakarta dan Magelang pada [agencies.json](file:///d:/Projects/umroh/src/data/agencies.json):
+    1. Ardhian Umrah & Haji Plus (`/b/ardhian-umrah-haji`)
+    2. Azka Tour (`/b/azka-tour`)
+    3. Arkhana Tour Cabang Yogyakarta (`/b/arkhana-tour-jogja`)
+    4. eL-umroh PT Lantabur Berkah Wisatapedia (`/b/el-umroh-jogja`)
+    5. Dewangga Haji & Umroh Magelang (`/b/dewangga-umroh-magelang`)
+    6. Firdaus Tour Magelang (`/b/firdaus-tour-magelang`)
+    7. Diva Wisata Magelang (`/b/diva-wisata-magelang`)
+    8. Smart Umroh Magelang (`/b/smart-umroh-magelang`)
+    9. Arminareka Perdana Magelang (`/b/arminareka-magelang`)
+- **Penyediaan Aset Logo SVG:**
+  - Menyediakan 9 logo SVG Islami di `public/images/logos/` sesuai kode warna dan identitas masing-masing biro
+- **Verifikasi Kualitas:**
+  - 58/58 unit tests lulus (23 test files)
+  - Production build (`vite build`) berhasil 100%
+**File yang berubah:** `src/data/agencies.json`, `public/images/logos/*.svg`, `context/CHANGELOG.md`
+**Test:** 58 passed / 58 total (23 test files)
+**Docs updated:** CHANGELOG.md
+
 ## Chore — Pembersihan File & Boilerplate yang Tidak Digunakan (2026-10-16)
 **FR terkait:** Pemeliharaan Kodebase & Kebersihan Proyek
 **Yang dikerjakan:**

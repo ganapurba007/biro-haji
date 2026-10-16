@@ -10,7 +10,7 @@
 ## Status Saat Ini
 - **Fase aktif:** Selesai (Fase 8 — Transformasi Scope Rebranding & Dynamic Client Mockup Subpath Selesai)
 - **Test:** 58 passed / 58 total (23 test files)
-- **Sedang dikerjakan:** Pembersihan file & boilerplate tidak terpakai selesai (BaseCard, counter store, base.css, logo.svg, temp-profile), 58/58 unit test lulus, build produksi sukses
+- **Sedang dikerjakan:** Mockup 9 biro umroh & haji Yogyakarta & Magelang ditambahkan lengkap dengan logo SVG, 58/58 unit test lulus, build produksi sukses
 - **Update terakhir:** 2026-10-16
 
 > Update 3 baris di atas setiap kali fase/task berubah. Jangan biarkan basi.
