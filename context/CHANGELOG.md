@@ -14,6 +14,22 @@ Format tiap entri:
 **Docs updated:** [PRD §9 / SCHEMA.md / tidak ada perubahan scope]
 -->
 
+## Chore — Pembersihan File & Boilerplate yang Tidak Digunakan (2026-10-16)
+**FR terkait:** Pemeliharaan Kodebase & Kebersihan Proyek
+**Yang dikerjakan:**
+- **Pembersihan Komponen & Boilerplate yang Tidak Digunakan:**
+  - Menghapus komponen mati `src/components/ui/BaseCard.vue` (0 pemakaian di seluruh codebase)
+  - Menghapus store template bawaan `src/stores/counter.js` dan membersihkan folder `src/stores/`
+  - Menghapus stylesheet boilerplate `src/assets/base.css` (seluruh styling terpusat di `main.css` & Tailwind v4)
+  - Menghapus file logo template Vue `src/assets/logo.svg`
+  - Menghapus direktori temporary kosong `temp-profile/` pada root workspace
+- **Verifikasi Kualitas & Regresi:**
+  - Menjalankan unit test: seluruh 58 unit tests lulus 100% (23 test files)
+  - Menjalankan production build: `vite build` selesai dengan sukses tanpa error/warning module
+**File yang berubah:** Dihapus: `src/components/ui/BaseCard.vue`, `src/stores/counter.js`, `src/assets/base.css`, `src/assets/logo.svg`, `temp-profile/`; Diperbarui: `context/CHANGELOG.md`, `AGENTS.md`
+**Test:** 58 passed / 58 total (23 test files)
+**Docs updated:** CHANGELOG.md, AGENTS.md
+
 ## UI Refinement — Penghapusan Breadcrumbs di Seluruh Halaman (2026-10-16)
 **FR terkait:** FR-1.1, Desain & Layout Halaman
 **Yang dikerjakan:**
