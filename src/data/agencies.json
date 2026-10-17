@@ -380,6 +380,196 @@
         "email": "info@goldenjannahklaten.com",
         "address": "Jl. Cawas-Weru, Klaten, Jawa Tengah"
       }
+    },
+    "alfajr-umroh-salatiga": {
+      "name": "ALFAJR Umroh & Haji Salatiga",
+      "shortName": "ALFAJR",
+      "subName": "Salatiga Travel",
+      "tagline": "Biro Umroh Resmi Salatiga — Ibadah Khusyuk Sesuai Sunnah",
+      "about": "ALFAJR Umroh & Haji Salatiga berkomitmen memberikan kenyamanan dan kepastian keberangkatan bagi jamaah dari Salatiga dan sekitarnya dengan bimbingan ibadah berpengalaman serta fasilitas hotel terbaik.",
+      "logo": "/images/logos/alfajr-umroh-salatiga.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "+62 813-9394-4337",
+        "tollFree": "0800-1-ALFAJR",
+        "email": "kontak@alfajr-salatiga.com",
+        "whatsapp": "6281393944337",
+        "address": "Jl. Osamaliki 34, Barat RSUD Salatiga, Ruko Pasar Andong No.8, Kota Salatiga"
+      }
+    },
+    "almiswar-umroh-salatiga": {
+      "name": "Al-Miswar Umroh & Visa Salatiga",
+      "shortName": "AL-MISWAR",
+      "subName": "Umroh & Visa Service",
+      "tagline": "Penyelenggara Umroh Terpercaya & Layanan Visa Lengkap Salatiga",
+      "about": "Al-Miswar Tour & Visa Salatiga melayani jamaah umroh dengan transparansi, fasilitas prima, pendampingan muthawif bersertifikasi, dan kepastian pengurusan visa resmi Arab Saudi.",
+      "logo": "/images/logos/almiswar-umroh-salatiga.svg",
+      "colors": {
+        "brand": "#1e3a8a",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "+62 889-8111-8111",
+        "tollFree": "0800-1-ALMISWAR",
+        "email": "kontak@almiswar-tour.com",
+        "whatsapp": "6288981118111",
+        "address": "Purwosari, Tingkir, Kota Salatiga, Jawa Tengah"
+      }
+    },
+    "shu-baitullah-temanggung": {
+      "name": "SHU Baitullah Temanggung",
+      "shortName": "SHU BAITULLAH",
+      "subName": "Sekolah Haji & Umroh",
+      "tagline": "Pusat Edukasi & Perjalanan Ibadah Baitullah Temanggung",
+      "about": "SHU Baitullah Temanggung membekali jamaah dengan manasik intensif dan mendalam sebelum mendampingi langsung di Tanah Suci untuk mewujudkan ibadah umroh dan haji yang mabrur.",
+      "logo": "/images/logos/shu-baitullah-temanggung.svg",
+      "colors": {
+        "brand": "#0f766e",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "+62 812-2512-0571",
+        "tollFree": "0800-1-SHUBAITULLAH",
+        "email": "info@shubaitullah.com",
+        "whatsapp": "6281225120571",
+        "address": "Kavling Sawahan RT 04/RW 08, Mojotengah, Temanggung, Jawa Tengah"
+      }
+    },
+    "hijrah-haramain-temanggung": {
+      "name": "PT Hijrah Haramain Temanggung",
+      "shortName": "HIJRAH HARAMAIN",
+      "subName": "Biro Umroh Temanggung",
+      "tagline": "Mitra Hijrah Menuju Baitullah yang Amanah & Nyaman",
+      "about": "PT Hijrah Haramain Temanggung adalah biro penyelenggara umroh resmi terkemuka di Temanggung dengan standar pelayanan hotel berbintang dekat Masjidil Haram dan bimbingan ibadah ramah jamaah.",
+      "logo": "/images/logos/hijrah-haramain-temanggung.svg",
+      "colors": {
+        "brand": "#15803d",
+        "accent": "#eab308"
+      },
+      "contact": {
+        "phone": "+62 812-2692-6492",
+        "tollFree": "0800-1-HIJRAHHARAMAIN",
+        "email": "kontak@hijrah-haramain.com",
+        "whatsapp": "6281226926492",
+        "address": "Jl. Medono - Secang, Temanggung, Jawa Tengah"
+      }
+    },
+    "ebitour-purworejo": {
+      "name": "Travel Umrah Ebitour Purworejo",
+      "shortName": "EBITOUR",
+      "subName": "Biro Umrah Purworejo",
+      "tagline": "Layanan Umroh Penuh Berkah & Dedikasi untuk Jamaah Purworejo",
+      "about": "Travel Umrah Ebitour Purworejo mendampingi keluarga muslim Purworejo dan sekitarnya menunaikan ibadah umroh dengan paket terjangkau, fasilitas eksklusif, dan jadwal pasti.",
+      "logo": "/images/logos/ebitour-purworejo.svg",
+      "colors": {
+        "brand": "#1e40af",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "+62 857-1876-6606",
+        "tollFree": "0800-1-EBITOUR",
+        "email": "layanan@ebitour.com",
+        "whatsapp": "6285718766606",
+        "address": "Jl. Mayjen Sutoyo No.05, Purworejo, Jawa Tengah"
+      }
+    },
+    "sultanah-nafisah-purworejo": {
+      "name": "PT Sultanah Nafisah Mandiri Purworejo",
+      "shortName": "SULTANAH NAFISAH",
+      "subName": "Travel Umroh Purworejo",
+      "tagline": "Kenyamanan Ibadah dengan Keikhlasan Pelayanan",
+      "about": "PT Sultanah Nafisah Mandiri Purworejo menghadirkan program umroh reguler dan plus dengan manajemen profesional, akomodasi nyaman dekat masjid, dan kepastian visa.",
+      "logo": "/images/logos/sultanah-nafisah-purworejo.svg",
+      "colors": {
+        "brand": "#065f46",
+        "accent": "#fbbf24"
+      },
+      "contact": {
+        "phone": "+62 823-2642-1114",
+        "tollFree": "0800-1-SULTANAH",
+        "email": "kontak@sultanah-nafisah.com",
+        "whatsapp": "6282326421114",
+        "address": "Jl. Brigjen Katamso, Purworejo, Jawa Tengah"
+      }
+    },
+    "madinah-iman-boyolali": {
+      "name": "Madinah Iman Wisata Boyolali",
+      "shortName": "MIW BOYOLALI",
+      "subName": "Biro Umroh & Haji",
+      "tagline": "Pilihan Terbaik Ibadah Umroh & Haji Khusus Jamaah Boyolali",
+      "about": "Madinah Iman Wisata Cabang Boyolali memberikan pengalaman perjalanan spiritual yang menenangkan dengan penerbangan berjadwal dan bimbingan ibadah terpadu.",
+      "logo": "/images/logos/madinah-iman-boyolali.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "+62 858-7603-1831",
+        "tollFree": "0800-1-MIWBOYOLALI",
+        "email": "kontak@miw-boyolali.com",
+        "whatsapp": "6285876031831",
+        "address": "Griya Madinah, Boyolali, Jawa Tengah"
+      }
+    },
+    "biro-haji-boyolali": {
+      "name": "Biro Haji & Umroh Boyolali",
+      "shortName": "BHU BOYOLALI",
+      "subName": "Layanan Haji & Umroh",
+      "tagline": "Dekat, Terpercaya, dan Mengutamakan Ibadah Jamaah Boyolali",
+      "about": "Biro Haji & Umroh Boyolali adalah penyedia layanan perjalanan ibadah umroh terpercaya yang melayani konsultasi pendaftaran, manasik komprehensif, dan pendampingan penuh.",
+      "logo": "/images/logos/biro-haji-boyolali.svg",
+      "colors": {
+        "brand": "#1e3a8a",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "+62 822-4133-1058",
+        "tollFree": "0800-1-BHUBOYOLALI",
+        "email": "info@bhuboyolali.com",
+        "whatsapp": "6282241331058",
+        "address": "Jl. Boyolali - Musuk, Boyolali, Jawa Tengah"
+      }
+    },
+    "zamzam-karanganyar": {
+      "name": "PT Zam-Zam Tour & Travel Karanganyar",
+      "shortName": "ZAM-ZAM",
+      "subName": "Biro Umroh Karanganyar",
+      "tagline": "Solusi Umroh Nyaman, Amanah, dan Berizin Resmi di Karanganyar",
+      "about": "PT Zam-Zam Tour & Travel Karanganyar menyediakan paket ibadah umroh dengan harga terjangkau tanpa mengurangi mutu fasilitas dan kenyamanan jamaah selama di Tanah Suci.",
+      "logo": "/images/logos/zamzam-karanganyar.svg",
+      "colors": {
+        "brand": "#0f766e",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "+62 812-2618-705",
+        "tollFree": "0800-1-ZAMZAMKRA",
+        "email": "kontak@zamzam-tour.com",
+        "whatsapp": "628122618705",
+        "address": "RT.3/RW.3, Kabupaten Karanganyar, Jawa Tengah"
+      }
+    },
+    "amanu-umroh-karanganyar": {
+      "name": "Amanu Biro Umroh dan Haji Karanganyar",
+      "shortName": "AMANU",
+      "subName": "Mitra Ibadah Anda",
+      "tagline": "Pelayanan Ramah Jamaah — Dari Manasik hingga Kembali ke Tanah Air",
+      "about": "Amanu Biro Umroh Karanganyar mengedepankan kekeluargaan dan kesiapan bimbingan ibadah syar'i untuk mengantar jamaah menggapai umroh yang mabrur.",
+      "logo": "/images/logos/amanu-umroh-karanganyar.svg",
+      "colors": {
+        "brand": "#065f46",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "+62 813-2936-8424",
+        "tollFree": "0800-1-AMANUKRA",
+        "email": "info@amanuumroh.com",
+        "whatsapp": "6281329368424",
+        "address": "Glagah 03/07, Kabupaten Karanganyar, Jawa Tengah"
+      }
     }
   }
 }

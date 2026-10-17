@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="g_biro-" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="20" fill="url(#g_biro-)" />
+  <path d="M50 18 L68 34 L68 76 L32 76 L32 34 Z" fill="#ffffff" fill-opacity="0.15" />
+  <circle cx="50" cy="40" r="14" fill="#ffffff" fill-opacity="0.25" />
+  <path d="M44 40 L50 34 L56 40 L50 46 Z" fill="#ffffff" />
+  <text x="50" y="65" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1">BHU</text>
+  <text x="50" y="77" font-family="system-ui, -apple-system, sans-serif" font-size="8" font-weight="600" fill="#ffffff" fill-opacity="0.9" text-anchor="middle" letter-spacing="0.5">BOYOLALI</text>
+</svg>
