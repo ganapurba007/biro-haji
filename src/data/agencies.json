@@ -646,6 +646,101 @@
         "whatsapp": "628176965339",
         "address": "Ruko Nur Square No. 15, Jl. Wahidin Sudiro Husodo, Kaligelang, Taman, Kabupaten Pemalang, Jawa Tengah"
       }
+    },
+    "shoja-tour-international": {
+      "name": "PT. Shoja Tour International",
+      "shortName": "Shoja Tour",
+      "subName": "Shoja Umroh & Haji Khusus Surakarta",
+      "tagline": "Perjalanan Ibadah Penuh Khidmah, Nyaman, dan Sesuai Sunnah",
+      "about": "PT. Shoja Tour International adalah penyelenggara resmi perjalanan ibadah umroh dan haji khusus berizin Kementerian Agama RI (NIB 24102300987850005) yang berpusat di Kota Surakarta (Solo). Kami menghadirkan standar layanan prima, bimbingan manasik intensif sesuai sunnah, penerbangan nyaman, serta kepastian fasilitas di Tanah Suci untuk kekhusyukan jamaah.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#0f766e",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "+62 851-2499-3936",
+        "tollFree": "0851-2499-3936",
+        "email": "shoja.tourinter@gmail.com",
+        "whatsapp": "6285124993936",
+        "address": "Jalan Bone Barat 2 Nomor 2, Kelurahan Banyuanyar, Kecamatan Banjarsari, Kota Surakarta, Jawa Tengah"
+      }
+    },
+    "rayhaan-syafiq-muslih": {
+      "name": "PT. Rayhaan Syafiq Muslih",
+      "shortName": "Rayhaan Tour",
+      "subName": "Rayhaan Umroh & Haji Khusus Kudus",
+      "tagline": "Amanah, Pembimbing Berpengalaman, dan Nyaman Menuju Baitullah",
+      "about": "PT. Rayhaan Syafiq Muslih adalah biro umroh resmi berizin Kementerian Agama RI (NIB 16122200647910003) berkantor pusat di Kudus, Jawa Tengah. Berkomitmen melayani jamaah dengan ketulusan, kepastian jadwal penerbangan, hotel dekat Masjidil Haram dan Nabawi, serta muthawif bersertifikasi.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#1e3a8a",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "+62 819-0553-3889",
+        "tollFree": "0819-0553-3889",
+        "email": "rayhaanumrohhaji@gmail.com",
+        "whatsapp": "6281905533889",
+        "address": "Jalan Nitisemito Nomor 41 RT 004 RW 005, Kelurahan Purwosari, Kecamatan Kota Kudus, Kabupaten Kudus, Jawa Tengah"
+      }
+    },
+    "habbasya-barokah-syarifain": {
+      "name": "PT. Habbasya Barokah Syarifain",
+      "shortName": "Habbasya Tour",
+      "subName": "Habbasya Umroh & Haji Purwodadi Grobogan",
+      "tagline": "Ibadah Nyaman, Meraih Berkah, dan Layanan Sepenuh Hati",
+      "about": "PT. Habbasya Barokah Syarifain adalah biro travel umroh terpercaya berizin resmi Kementerian Agama RI (NIB 29122300936310002) yang berpusat di Purwodadi, Kabupaten Grobogan (Komplek Ponpes Nurul Qur’an). Mengedepankan bimbingan ibadah terpadu, fasilitas hotel pilihan bintang 4 & 5, serta transparansi tanpa biaya tersembunyi.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#065f46",
+        "accent": "#eab308"
+      },
+      "contact": {
+        "phone": "+62 822-2562-9871",
+        "tollFree": "0822-2562-9871",
+        "email": "habbasyabarokahsyarifain@gmail.com",
+        "whatsapp": "6282225629871",
+        "address": "Komplek Pondok Pesantren Nurul Qur’an Lingkungan Gading RT/RW : 005/017, Kelurahan Kuripan, Kecamatan Purwodadi, Kabupaten Grobogan, Jawa Tengah"
+      }
+    },
+    "java-tour-haromain": {
+      "name": "PT. Java Tour Haromain",
+      "shortName": "Java Tour",
+      "subName": "Java Tour Umroh & Haji Khusus Wonosobo",
+      "tagline": "Biro Asli Wonosobo, Fasilitas Terjamin, Pelayanan Istimewa",
+      "about": "PT. Java Tour Haromain adalah biro resmi perjalanan umroh dan haji khusus berizin Kementerian Agama RI (NIB 19022400825930003) berkantor pusat di Selomerto, Kabupaten Wonosobo. Didukung puluhan ulasan kepuasan jamaah bintang 5, mengutamakan kenyamanan akomodasi, muthawif sabar dan ramah, serta jadwal pasti.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#115e59",
+        "accent": "#f97316"
+      },
+      "contact": {
+        "phone": "+62 813-8762-4925",
+        "tollFree": "0813-8762-4925",
+        "email": "javatour.haromain@gmail.com",
+        "whatsapp": "6281387624925",
+        "address": "Jalan Lingkar Selatan Kilometer 5 Dusun Kresek RT/RW : 004/001, Desa Sinduagung, Kecamatan Selomerto, Kabupaten Wonosobo, Jawa Tengah"
+      }
+    },
+    "lintas-nusantara-travelindo": {
+      "name": "PT. Lintas Nusantara Travelindo",
+      "shortName": "Lintas Nusantara",
+      "subName": "Lintas Nusantara Umroh & Wisata Religi Solo",
+      "tagline": "Mitra Perjalanan Ibadah Terpercaya dan Profesional",
+      "about": "PT. Lintas Nusantara Travelindo adalah penyelenggara perjalanan umroh berizin resmi Kementerian Agama RI (NIB 23082301176560003) yang berkantor di Banyuanyar, Kota Surakarta. Melayani jamaah umroh reguler, VIP, dan paket keluarga dengan komitmen legalitas pasti dan kenyamanan maksimal.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#1e40af",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "+62 857-9929-5255",
+        "tollFree": "0857-9929-5255",
+        "email": "nusantaratravelindolintas@gmail.com",
+        "whatsapp": "6285799295255",
+        "address": "Ruko Bintang Jalan Pakel Nomor 11, Kelurahan Banyuanyar, Kecamatan Banjarsari, Kota Surakarta, Jawa Tengah"
+      }
     }
   }
 }
