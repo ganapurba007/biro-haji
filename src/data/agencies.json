@@ -942,6 +942,96 @@
         "rating": "4.9/5",
         "experience": "Resmi Kemenag"
       }
+    },
+    "safa-ziarah-alharamain": {
+      "slug": "safa-ziarah-alharamain",
+      "name": "PT. Safa Ziarah Alharamain",
+      "shortName": "Safa Ziarah",
+      "subName": "Biro Umroh & Ziarah Haramain Semarang",
+      "tagline": "Ibadah Khusyuk, Nyaman, dan Terbimbing Sesuai Sunnah ke Tanah Suci",
+      "about": "PT. Safa Ziarah Alharamain adalah Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kemenag RI (NIB 91206018738060001) yang berpusat di Semarang. Kami berkomitmen memberikan bimbingan ibadah intensif dan fasilitas terbaik bagi para tamu Allah.",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "0818-287-396",
+        "whatsapp": "62818287396",
+        "email": "elfachry89@gmail.com",
+        "address": "Jl. Althaea III Blok AA 16 No. 2 RT 08/RW 06, Kedungpane, Kec. Mijen, Kota Semarang, Jawa Tengah"
+      }
+    },
+    "grand-hassania-indonesia": {
+      "slug": "grand-hassania-indonesia",
+      "name": "PT. Grand Hassania Indonesia",
+      "shortName": "Grand Hassania",
+      "subName": "Biro Perjalanan Umroh & Haji Purworejo",
+      "tagline": "Pelayanan Sepenuh Hati, Mengantar Jamaah Menuju Umroh Mabrur",
+      "about": "PT. Grand Hassania Indonesia merupakan biro perjalanan umroh resmi Kemenag RI (NIB 13102300669190004) di Purworejo. Kami mengutamakan kepastian jadwal keberangkatan, akomodasi hotel nyaman dekat masjid, dan pembimbing ibadah berpengalaman.",
+      "colors": {
+        "brand": "#065f46",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "0819-0473-8156",
+        "whatsapp": "6281904738156",
+        "email": "grandhassaniaindonesia@gmail.com",
+        "address": "Jl. Nasional III Dusun Dua, Desa Bandungrejo, Kec. Bayan, Kab. Purworejo, Jawa Tengah"
+      }
+    },
+    "penata-wisata-haromain": {
+      "slug": "penata-wisata-haromain",
+      "name": "PT. Penata Wisata Haromain",
+      "shortName": "Penata Wisata",
+      "subName": "Biro Perjalanan Umroh & Wisata Halal Pekalongan",
+      "tagline": "Menata Perjalanan Ibadah Anda dengan Amanah, Aman, dan Nyaman",
+      "about": "PT. Penata Wisata Haromain adalah penyelenggara resmi perjalanan ibadah umroh berizin Kemenag RI (NIB 91203112012170002) di Wiradesa, Kab. Pekalongan. Didukung tim muthawif berpengalaman dan standar pelayanan prima untuk kenyamanan ibadah Anda.",
+      "colors": {
+        "brand": "#1e3a8a",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "0822-2153-1116",
+        "whatsapp": "6282221531116",
+        "email": "pt.penatawisataharomain@gmail.com",
+        "address": "Jl. Yos Sudarso No. 12 RT 11/RW 06, Kemplong, Kec. Wiradesa, Kab. Pekalongan, Jawa Tengah"
+      }
+    },
+    "babussalam-mubarak-internasional": {
+      "slug": "babussalam-mubarak-internasional",
+      "name": "PT. Babussalam Mubarak Internasional",
+      "shortName": "Babussalam Mubarak",
+      "subName": "Biro Umroh & Wisata Religi Kebumen",
+      "tagline": "Pintu Menuju Baitullah — Ibadah Tenang, Fasilitas Terjamin",
+      "about": "PT. Babussalam Mubarak Internasional adalah biro perjalanan umroh resmi Kemenag RI (NIB 15062300983160003) di Kebumen. Kami siap mendampingi perjalanan ibadah umroh Anda dengan pelayanan ramah, transparan, dan penuh kekeluargaan.",
+      "colors": {
+        "brand": "#0f766e",
+        "accent": "#eab308"
+      },
+      "contact": {
+        "phone": "0822-2820-0297",
+        "whatsapp": "6282228200297",
+        "email": "babussalammubarakinternasional@gmail.com",
+        "address": "Jl. Mangkusari No. 101 RT 05/RW 05, Kel. Kutosari, Kec. Kebumen, Kab. Kebumen, Jawa Tengah"
+      }
+    },
+    "assyura-tour-indonesia": {
+      "slug": "assyura-tour-indonesia",
+      "name": "PT. Assyura Tour Indonesia",
+      "shortName": "Assyura Tour",
+      "subName": "Biro Umroh & Haji Khusus Kebumen",
+      "tagline": "Teman Setia Perjalanan Spiritual Anda ke Tanah Suci",
+      "about": "PT. Assyura Tour Indonesia adalah Penyelenggara Perjalanan Ibadah Umrah berizin resmi Kemenag RI (NIB 07022300454590003) di Kebumen. Berkomitmen menghadirkan bimbingan ibadah komprehensif dari manasik hingga kepulangan jamaah ke tanah air.",
+      "colors": {
+        "brand": "#115e59",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "0822-2127-6965",
+        "whatsapp": "6282221276965",
+        "email": "assyura.tour@gmail.com",
+        "address": "Jl. Mayjend Panjaitan No. 26 RT 01/RW 03, Kel. Bumirejo, Kec. Kebumen, Kab. Kebumen, Jawa Tengah"
+      }
     }
   }
 }
