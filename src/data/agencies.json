@@ -741,6 +741,101 @@
         "whatsapp": "6285799295255",
         "address": "Ruko Bintang Jalan Pakel Nomor 11, Kelurahan Banyuanyar, Kecamatan Banjarsari, Kota Surakarta, Jawa Tengah"
       }
+    },
+    "jabal-rahmah-azzahra": {
+      "name": "PT. Jabal Rahmah Azzahra",
+      "shortName": "Jabal Rahmah",
+      "subName": "Jabal Rahmah Umroh & Haji Khusus Sukoharjo",
+      "tagline": "Menuju Puncak Ibadah dengan Khusyuk, Nyaman, dan Berkah",
+      "about": "PT. Jabal Rahmah Azzahra adalah penyelenggara perjalanan ibadah umroh dan haji khusus resmi terdaftar di Kementerian Agama RI (NIB 07122200457990002) di Mojolaban, Kabupaten Sukoharjo. Dipimpin oleh praktisi pembimbing berpengalaman, kami berkomitmen memberikan kepastian jadwal, akomodasi dekat pelataran masjid suci, serta pelayanan hangat kekeluargaan.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#065f46",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "+62 821-3886-1229",
+        "tollFree": "0821-3886-1229",
+        "email": "hariesfuady@gmail.com",
+        "whatsapp": "6282138861229",
+        "address": "Ngasemrejo RT 003 RW 004, Desa Triyagan, Kecamatan Mojolaban, Kabupaten Sukoharjo, Jawa Tengah"
+      }
+    },
+    "safara-ilal-madinah": {
+      "name": "PT. Safara Ilal Madinah",
+      "shortName": "Safara",
+      "subName": "Safara Umroh & Haji Khusus Laweyan Surakarta",
+      "tagline": "Teman Perjalanan Suci Penuh Kedamaian dan Berkah",
+      "about": "PT. Safara Ilal Madinah adalah biro umroh resmi berizin Kementerian Agama RI (NIB 22082302230560005) berkantor di kawasan bersejarah Laweyan, Kota Surakarta. Kami berfokus pada ketenangan ibadah jamaah melalui muthawif tersertifikasi, fasilitas hotel berbintang, dan kepastian tiket penerbangan langsung.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#0f766e",
+        "accent": "#eab308"
+      },
+      "contact": {
+        "phone": "+62 812-2653-727",
+        "tollFree": "0812-2653-727",
+        "email": "safarailalmadina01@gmail.com",
+        "whatsapp": "628122653727",
+        "address": "Jalan Gondosuli Nomor 125 RT 001 RW 001, Kelurahan Laweyan, Kecamatan Laweyan, Kota Surakarta, Jawa Tengah"
+      }
+    },
+    "ashabul-afnan-nusantara": {
+      "name": "PT. Ashabul Afnan Nusantara",
+      "shortName": "Ashabul Afnan",
+      "subName": "Ashabul Afnan Umroh & Haji Khusus Pati",
+      "tagline": "Layanan Ibadah Amanah, Bimbingan Tuntas Sesuai Sunnah",
+      "about": "PT. Ashabul Afnan Nusantara adalah biro resmi perjalanan ibadah umroh berizin Kementerian Agama RI (NIB 11112200602550003) di Tayu, Kabupaten Pati. Mengutamakan kenyamanan jamaah daerah Pantura dengan pendampingan manasik intensif, muthawif sabar, serta transparansi biaya ibadah.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#1e3a8a",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "+62 812-2892-8800",
+        "tollFree": "0812-2892-8800",
+        "email": "pt.ashabulafnannusantara@gmail.com",
+        "whatsapp": "6281228928800",
+        "address": "Kedungsari RT 004 RW 001, Desa Kedungsari, Kecamatan Tayu, Kabupaten Pati, Jawa Tengah"
+      }
+    },
+    "zahra-nezza-utama": {
+      "name": "PT. Zahra Nezza Utama",
+      "shortName": "Alifa Tour Kudus",
+      "subName": "Alifa Tour Umroh & Haji Khusus Kudus",
+      "tagline": "Pilihan Terpercaya Jamaah Kudus, Ulasan Bintang 5 Sempurna",
+      "about": "PT. Zahra Nezza Utama (Alifa Tour) adalah biro perjalanan ibadah umroh resmi berizin Kementerian Agama RI (NIB 16042200030940002) yang berpusat di Gebog, Kudus. Dikenal reputasinya yang sangat amanah dan memuaskan dengan puluhan ulasan bintang 5 dari jamaah Kudus dan sekitarnya.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#115e59",
+        "accent": "#f97316"
+      },
+      "contact": {
+        "phone": "+62 813-2958-7996",
+        "tollFree": "0813-2958-7996",
+        "email": "zahranezzautama@gmail.com",
+        "whatsapp": "6281329587996",
+        "address": "Desa Gondosari RT 006 RW 003, Kecamatan Gebog, Kabupaten Kudus, Jawa Tengah"
+      }
+    },
+    "dhiffa-nurrizqi-utama": {
+      "name": "PT. Dhiffa Nurrizqi Utama",
+      "shortName": "Dhiffa Tour",
+      "subName": "Dhiffa Umroh & Wisata Muslim Semarang",
+      "tagline": "Kemudahan Ibadah ke Baitullah, Berkah dan Terjamin",
+      "about": "PT. Dhiffa Nurrizqi Utama adalah biro umroh resmi berizin Kementerian Agama RI (NIB 15022400480710001) berkantor di Bergas, Kabupaten Semarang. Menyediakan layanan all-in one service mulai dari pembuatan paspor, manasik, hingga fasilitas hotel terbaik di Makkah dan Madinah.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "+62 821-2222-9815",
+        "tollFree": "0821-2222-9815",
+        "email": "nurislamicofficial@gmail.com",
+        "whatsapp": "6282122229815",
+        "address": "Jalan Lili II RT 001 RW 007 Dusun Silowah, Desa Pagersari, Kecamatan Bergas, Kabupaten Semarang, Jawa Tengah"
+      }
     }
   }
 }
