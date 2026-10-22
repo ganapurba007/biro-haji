@@ -1222,6 +1222,136 @@
           "desc": "Muthowif sabar membimbing khususnya jamaah lanjut usia."
         }
       ]
+    },
+    "sakinah-tour-travel": {
+      "name": "PT. Sakinah Tour & Travel",
+      "tagline": "Biro Perjalanan Umroh Terpercaya & Khusyuk di Sambas",
+      "description": "PT. Sakinah Tour & Travel melayani masyarakat Sambas dan sekitarnya dalam menunaikan ibadah umroh dengan kenyamanan hotel terbaik dan pendampingan ibadah intensif.",
+      "phone": "0822-4548-0608",
+      "email": "syechmubdi@yahoo.co.id",
+      "address": "Jl. Sultan Mahmud Tsafiuddin II, No. 23 RT 001 RW 001 Desa Dalam Kaum, Kec. Sambas, Kalimantan Barat",
+      "primaryColor": "#047857",
+      "secondaryColor": "#b45309",
+      "heroTitle": "Raih Kemabruran Ibadah Umroh Bersama Sakinah Tour Sambas",
+      "heroSubtitle": "Biro umroh resmi PPIU Kemenag RI SK No. 673 Th 2019 memberikan layanan amanah dan transparan.",
+      "features": [
+        {
+          "title": "Resmi Kemenag RI",
+          "desc": "Izin PPIU No. 673 Th 2019 menjamin keamanan dan kepastian jadwal ibadah."
+        },
+        {
+          "title": "Hotel Pilihan Strategis",
+          "desc": "Akomodasi nyaman dan dekat masjid memudahkan ibadah harian."
+        },
+        {
+          "title": "Pembimbing Berpengalaman",
+          "desc": "Dibimbing langsung oleh asatidz yang sabar dan kompeten."
+        }
+      ]
+    },
+    "permata-bakkah": {
+      "name": "PT. Permata Bakkah Mukarromah",
+      "tagline": "Mitra Perjalanan Umroh Nyaman & Berkah di Pontianak",
+      "description": "PT. Permata Bakkah Mukarromah menyediakan layanan umroh berkualitas dengan akomodasi strategis dekat Masjidil Haram dan pendampingan ibadah ramah jamaah.",
+      "phone": "0812-1928-2635",
+      "email": "yentiry67@gmail.com",
+      "address": "Komp. Suwignyo Permai I Perumahan Arcadia No. 5A RT 009 RW 010, Sungai Bangkong, Pontianak Kota",
+      "primaryColor": "#1e3a8a",
+      "secondaryColor": "#d97706",
+      "heroTitle": "Menuju Baitullah Nyaman Bersama Permata Bakkah Pontianak",
+      "heroSubtitle": "PPIU resmi Kemenag RI SK No. 1964 Th 2019 mengutamakan kekhusyukan dan kepuasan jamaah.",
+      "features": [
+        {
+          "title": "Legalitas Terdaftar",
+          "desc": "Terdaftar resmi PPIU Kemenag RI SK No. 1964 Th 2019."
+        },
+        {
+          "title": "Pelayanan Profesional",
+          "desc": "Handling bandara dan akomodasi teratur tanpa rasa khawatir."
+        },
+        {
+          "title": "Manasik Komprehensif",
+          "desc": "Pembekalan manasik tatap muka lengkap sebelum berangkat."
+        }
+      ]
+    },
+    "ahsanta-tour": {
+      "name": "PT. Ahsanta Tour & Travel",
+      "tagline": "Penyelenggara Umroh Amanah & Profesional Pontianak Timur",
+      "description": "PT. Ahsanta Tour & Travel hadir memberikan kepastian jadwal keberangkatan, tiket terkonfirmasi, dan fasilitas prima untuk jamaah Kalimantan Barat.",
+      "phone": "0812-5704-4551",
+      "email": "herbasydromashagroup@gmail.com",
+      "address": "Jl. Tekam No. 1 RT 001 RW 005 Kel. Saigon, Kec. Pontianak Timur, Kota Pontianak",
+      "primaryColor": "#0f766e",
+      "secondaryColor": "#f59e0b",
+      "heroTitle": "Beribadah Umroh Lebih Tenang Bersama Ahsanta Tour",
+      "heroSubtitle": "Biro umroh berizin resmi Kemenag SK No. 1958 Th 2019 dengan pelayanan ramah dan bimbingan sunnah.",
+      "features": [
+        {
+          "title": "Izin PPIU Resmi",
+          "desc": "SK Kemenag RI No. 1958 Th 2019 menjamin kepatuhan regulasi."
+        },
+        {
+          "title": "Transparansi Biaya",
+          "desc": "Harga paket all-in tanpa ada biaya tersembunyi selama perjalanan."
+        },
+        {
+          "title": "Pendampingan Penuh",
+          "desc": "Tour leader dan muthowif mendampingi 24 jam selama di Tanah Suci."
+        }
+      ]
+    },
+    "shabilla-eraldo": {
+      "name": "PT. Shabilla Eraldo Utama",
+      "tagline": "Layanan Umroh Berkualitas & Terpercaya di Pontianak",
+      "description": "PT. Shabilla Eraldo Utama mendampingi jamaah melaksanakan ibadah ke Tanah Suci dengan manasik komprehensif dan muthowif berpengalaman.",
+      "phone": "0812-9520-2609",
+      "email": "Imem.alqadrie@yahoo.com",
+      "address": "Jl. Tanjung Raya II Gg. Suka Mulya No. 06 A, Parit Mayor, Pontianak Timur, Kota Pontianak",
+      "primaryColor": "#166534",
+      "secondaryColor": "#ca8a04",
+      "heroTitle": "Wujudkan Niat Suci ke Baitullah Bersama Shabilla Eraldo",
+      "heroSubtitle": "PPIU resmi Kemenag RI SK No. 1962 Th 2019 siap melayani perjalanan ibadah keluarga Anda.",
+      "features": [
+        {
+          "title": "Penyelenggara Resmi",
+          "desc": "SK Kemenag RI No. 1962 Th 2019 memberi garansi kenyamanan."
+        },
+        {
+          "title": "Fasilitas Berkualitas",
+          "desc": "Penerbangan direct/transit nyaman dengan hotel berkualitas."
+        },
+        {
+          "title": "Bimbingan Sesuai Sunnah",
+          "desc": "Tata cara ibadah diajarkan runtut sesuai sunnah Rasulullah SAW."
+        }
+      ]
+    },
+    "alindra-mutiara-hati": {
+      "name": "PT. Alindra Mutiara Hati",
+      "tagline": "Biro Umroh Amanah dengan Bimbingan Ibadah Penuh Khidmat di Pontianak",
+      "description": "PT. Alindra Mutiara Hati melayani perjalanan ibadah umroh masyarakat Kalimantan Barat dengan paket hemat dan fasilitas terjamin.",
+      "phone": "0812-8899-9101",
+      "email": "ptalindramutiarahati.ptk@gmail.com",
+      "address": "Jl. HM. Suwignyo No. 7A, Kec. Pontianak Kota, Kota Pontianak",
+      "primaryColor": "#0e7490",
+      "secondaryColor": "#eab308",
+      "heroTitle": "Ibadah Nyaman dan Khusyuk Bersama Alindra Mutiara Hati",
+      "heroSubtitle": "PPIU resmi Kemenag RI SK No. 195 Th 2019 dengan komitmen pelayanan terbaik untuk tamu Allah.",
+      "features": [
+        {
+          "title": "Berizin Kemenag",
+          "desc": "PPIU Kemenag RI No. 195 Th 2019 terverifikasi dan amanah."
+        },
+        {
+          "title": "Pelayanan Ramah",
+          "desc": "Pendampingan tulus dan responsif sejak pendaftaran."
+        },
+        {
+          "title": "Jadwal Terjadwal Pasti",
+          "desc": "Kepastian tanggal keberangkatan dengan maskapai terpercaya."
+        }
+      ]
     }
   }
 }
