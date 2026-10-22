@@ -1014,6 +1014,136 @@
         "email": "assyura.tour@gmail.com",
         "address": "Jl. Mayjend Panjaitan No. 26 RT 01/RW 03, Kel. Bumirejo, Kec. Kebumen, Kab. Kebumen, Jawa Tengah"
       }
+    },
+    "sendang-mubarok": {
+      "name": "Sendang Mubarok Tour & Travel",
+      "tagline": "Biro Perjalanan Umroh & Haji Khusus Terpercaya Jepara",
+      "description": "PT. Sendang Mubarok Tour and Travel adalah penyelenggara perjalanan ibadah umroh resmi Kemenag RI di Kabupaten Jepara yang mengutamakan kenyamanan, kepastian jadwal, dan bimbingan ibadah sesuai sunnah.",
+      "phone": "0852-1953-5667",
+      "email": "sendangmubarokumroh@gmail.com",
+      "address": "Jl. Pemuda No. 15 RT 003 RW 004, Potroyudan, Kec. Jepara, Kab. Jepara, Jawa Tengah",
+      "primaryColor": "#15803d",
+      "secondaryColor": "#ca8a04",
+      "heroTitle": "Wujudkan Ibadah Umroh Nyaman & Mabrur Bersama Sendang Mubarok",
+      "heroSubtitle": "Biro resmi PPIU Kemenag RI di Jepara. Fasilitas hotel nyaman, maskapai terbaik, dan bimbingan ibadah intensif.",
+      "features": [
+        {
+          "title": "Resmi Berizin Kemenag",
+          "desc": "NIB 21092300755720004 terdaftar resmi sebagai PPIU Kemenag RI."
+        },
+        {
+          "title": "Kepastian Jadwal & Visa",
+          "desc": "Tiket pesawat, visa, dan hotel dipastikan sebelum keberangkatan."
+        },
+        {
+          "title": "Pembimbing Berpengalaman",
+          "desc": "Didampingi muthowif profesional dan amanah selama di Tanah Suci."
+        }
+      ]
+    },
+    "amany-travelindo-indonesia": {
+      "name": "Amany Travelindo Indonesia",
+      "tagline": "Sahabat Terbaik Perjalanan Ibadah Umroh Anda di Kendal",
+      "description": "PT. Amany Travelindo Indonesia melayani jamaah umroh dan haji dengan penuh dedikasi dari Kabupaten Kendal, menghadirkan paket ibadah terjangkau dengan pelayanan hotel dekat masjid.",
+      "phone": "0812-6626-488",
+      "email": "amanytravelindoindonesia@gmail.com",
+      "address": "Jl. Soekarno Hatta No. 227 RT 015 RW 004, Ketapang, Kec. Kendal, Kab. Kendal, Jawa Tengah",
+      "primaryColor": "#0f766e",
+      "secondaryColor": "#d97706",
+      "heroTitle": "Ibadah Tenang, Fasilitas Terjamin Bersama Amany Travelindo",
+      "heroSubtitle": "Penyelenggara umroh berizin resmi Kemenag RI di Kendal dengan layanan ramah dan transparan.",
+      "features": [
+        {
+          "title": "Izin Resmi PPIU",
+          "desc": "NIB 05022200214020005 Kemenag RI menjamin legalitas aman dan amanah."
+        },
+        {
+          "title": "Akomodasi Nyaman",
+          "desc": "Pilihan hotel representatif di Makkah & Madinah dengan jarak terjangkau."
+        },
+        {
+          "title": "Bimbingan Manasik Lengkap",
+          "desc": "Manasik teori dan praktik intensif agar jamaah siap lahir batin."
+        }
+      ]
+    },
+    "queen-khadijah-idarah": {
+      "name": "Queen Khadijah Tour & Travel",
+      "tagline": "Layanan Umroh Eksklusif & Berkah dari Wonosobo",
+      "description": "PT. Queen Khadijah Idarah hadir untuk masyarakat Wonosobo dan sekitarnya dengan program umroh berkualitas tinggi, hotel representatif, dan pembimbingan ibadah yang bersahabat.",
+      "phone": "0852-2888-8898",
+      "email": "queenkhadijah.wsb@gmail.com",
+      "address": "Jl. Brengkok Banjarnegara No. 27 RT 001 RW 001, Bojasari, Kec. Kertek, Kab. Wonosobo, Jawa Tengah",
+      "primaryColor": "#7c2d12",
+      "secondaryColor": "#b45309",
+      "heroTitle": "Menuju Baitullah Bersama Queen Khadijah Idarah Wonosobo",
+      "heroSubtitle": "Biro resmi PPIU Kemenag RI dengan komitmen pelayanan prima untuk kenyamanan ibadah Anda sekeluarga.",
+      "features": [
+        {
+          "title": "Legalitas Resmi Kemenag",
+          "desc": "NIB 29102200244470002 memastikan keberangkatan aman dan terpercaya."
+        },
+        {
+          "title": "Kenyamanan Jamaah Utama",
+          "desc": "Fasilitas transportasi bus AC terbaru dan menu makanan ramah jamaah."
+        },
+        {
+          "title": "Pendampingan Penuh",
+          "desc": "Tour leader dan muthowif mendampingi sejak dari bandara hingga pulang."
+        }
+      ]
+    },
+    "haas-berkah-internasional": {
+      "name": "Haas Berkah Internasional",
+      "tagline": "Biro Umroh Amanah, Melayani Sepenuh Hati dari Wonosobo",
+      "description": "PT. Haas Berkah Internasional menyelenggarakan ibadah umroh profesional dengan fokus pada kemudahan jamaah dalam beribadah khusyuk di Masjidil Haram dan Masjid Nabawi.",
+      "phone": "0852-9311-5458",
+      "email": "haasberkahinternasional@gmail.com",
+      "address": "Jl. R. Sumendro No. 255A RT 002 RW 008, Jaraksari, Kec. Wonosobo, Kab. Wonosobo, Jawa Tengah",
+      "primaryColor": "#1e3a8a",
+      "secondaryColor": "#eab308",
+      "heroTitle": "Wujudkan Niat Suci ke Tanah Suci Bersama Haas Berkah",
+      "heroSubtitle": "Resmi PPIU Kemenag RI Wonosobo. Pilihan paket fleksibel, transparan tanpa biaya tersembunyi.",
+      "features": [
+        {
+          "title": "Izin PPIU Kemenag RI",
+          "desc": "NIB 02202043202560003 memberikan jaminan keamanan ibadah Anda."
+        },
+        {
+          "title": "Paket Transparan",
+          "desc": "Harga jujur mencakup tiket pesawat PP, visa, hotel, dan konsumsi."
+        },
+        {
+          "title": "Bimbingan Ibadah Sunnah",
+          "desc": "Muthowif berpengalaman membimbing ibadah sesuai tuntunan syariat."
+        }
+      ]
+    },
+    "olayan-berkah-manasek": {
+      "name": "Olayan Berkah Manasek",
+      "tagline": "Mitra Khidmat Menuju Tanah Suci dari Pekalongan",
+      "description": "PT. Olayan Berkah Manasek adalah PPIU resmi Kemenag RI berbasis di Kota Pekalongan, berfokus pada ketenangan beribadah dengan standar layanan prima dan muthowif berkompeten.",
+      "phone": "0813-9013-4354",
+      "email": "olayanberkahmanasek@outlook.com",
+      "address": "Jl. Gajah Mada No. 24 RT 004 RW 011, Bendan Kergon, Kec. Pekalongan Barat, Kota Pekalongan, Jawa Tengah",
+      "primaryColor": "#065f46",
+      "secondaryColor": "#f59e0b",
+      "heroTitle": "Meraih Umroh Mabrur Bersama Olayan Berkah Manasek",
+      "heroSubtitle": "Biro umroh resmi PPIU Pekalongan. Penerbangan nyaman, hotel dekat masjid, dan bimbingan manasik intensif.",
+      "features": [
+        {
+          "title": "Terdaftar Resmi PPIU",
+          "desc": "NIB 17042300711930002 terdaftar di Kemenag RI untuk keamanan jamaah."
+        },
+        {
+          "title": "Hotel Nyaman Dekat Masjid",
+          "desc": "Memudahkan jamaah untuk shalat berjamaah 5 waktu di masjid suci."
+        },
+        {
+          "title": "Pelayanan Ramah & Amanah",
+          "desc": "Staf profesional siap membantu seluruh kebutuhan berkas dan visa."
+        }
+      ]
     }
   }
 }
