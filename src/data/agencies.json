@@ -1170,58 +1170,6 @@
           "desc": "Transportasi full AC dan akomodasi hotel representatif di Makkah dan Madinah."
         }
       ]
-    },
-    "khairo-mulya-wisata": {
-      "name": "PT. Khairo Mulya Wisata",
-      "tagline": "Layanan Umroh Khusyuk & Terpercaya di Pontianak",
-      "description": "PT. Khairo Mulya Wisata siap mengantarkan Anda meraih umroh mabrur dengan fasilitas lengkap, kepastian jadwal, dan pendampingan ibadah maksimal.",
-      "phone": "0812-5833-0964",
-      "email": "syaiful64@yahoo.com",
-      "address": "Jl. Imam Bonjol Gg. H. Mursyid No. 24A, Kel. Benua Melayu Laut, Pontianak Kota, Kalimantan Barat",
-      "primaryColor": "#15803d",
-      "secondaryColor": "#b45309",
-      "heroTitle": "Raih Umroh Mabrur Bersama Khairo Mulya Wisata",
-      "heroSubtitle": "Biro perjalanan umroh berizin resmi Kemenag RI (SK No. 669 Th 2017) anggota HIMPUH.",
-      "features": [
-        {
-          "title": "Izin Resmi PPIU Kemenag",
-          "desc": "Legalitas terjamin SK No. 669 Th 2017 & anggota asosiasi HIMPUH."
-        },
-        {
-          "title": "Paket Fleksibel & Terjangkau",
-          "desc": "Pilihan paket umroh reguler dan hemat dengan fasilitas bintang berkualitas."
-        },
-        {
-          "title": "Mutawwif Berilmu",
-          "desc": "Bimbingan tata cara umroh sesuai tuntunan Rasulullah SAW."
-        }
-      ]
-    },
-    "namira-amalia-utama": {
-      "name": "PT. Namira Amalia Utama",
-      "tagline": "Penyelenggara Perjalanan Umroh Terpercaya di Sampit & Kotim",
-      "description": "PT. Namira Amalia Utama mendampingi masyarakat Kotawaringin Timur dan Kalimantan Tengah dalam menunaikan ibadah umroh dengan kenyamanan dan keamanan terjamin.",
-      "phone": "0821-5401-5960",
-      "email": "namiraamalia.sampit@gmail.com",
-      "address": "Jl. Pelita Timur No. 39 A, Sampit, Kec. Mentawa Baru Ketapang, Kab. Kotawaringin Timur, Kalimantan Tengah",
-      "primaryColor": "#312e81",
-      "secondaryColor": "#d97706",
-      "heroTitle": "Beribadah Tenang Bersama Namira Amalia Utama Sampit",
-      "heroSubtitle": "Penyelenggara Perjalanan Ibadah Umroh (PPIU) resmi Kemenag RI kantor pusat Sampit Kotawaringin Timur.",
-      "features": [
-        {
-          "title": "Legalitas Kantor Pusat Resmi",
-          "desc": "Izin resmi PPIU Kemenag RI berpusat di Sampit Kotawaringin Timur."
-        },
-        {
-          "title": "Pendampingan Sepenuh Hati",
-          "desc": "Pelayanan hangat dan bimbingan ibadah ramah jamaah lansia."
-        },
-        {
-          "title": "Akomodasi Terstandar",
-          "desc": "Hotel dan catering menu Indonesia demi kenyamanan jamaah selama di tanah suci."
-        }
-      ]
     }
   }
 }
