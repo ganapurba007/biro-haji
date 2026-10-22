@@ -513,6 +513,139 @@
         "whatsapp": "628122618705",
         "address": "RT.3/RW.3, Kabupaten Karanganyar, Jawa Tengah"
       }
+    },
+    "salam-berkah-mandiri": {
+      "slug": "salam-berkah-mandiri",
+      "name": "PT. Salam Berkah Mandiri",
+      "shortName": "SALAM BERKAH",
+      "subName": "Biro Umroh & Haji Solo",
+      "tagline": "Ibadah Nyaman, Tenang, dan Penuh Berkah Bersama Kami",
+      "about": "PT. Salam Berkah Mandiri adalah penyelenggara perjalanan ibadah umroh resmi (SK Kemenag RI) berpusat di Pasar Kliwon, Surakarta. Kami berkomitmen memberikan bimbingan ibadah terpercaya, jadwal pasti, serta fasilitas terbaik untuk kenyamanan para jemaah.",
+      "logo": null,
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "082223472443",
+        "whatsapp": "6282223472443",
+        "email": "salamberkahm@gmail.com",
+        "address": "Jl. Untung Suropati No. 25 C RT 01/RW 04, Kedunglumbu, Kec. Pasar Kliwon, Kota Surakarta, Jawa Tengah"
+      }
+    },
+    "kunafa-berkah-indonesia": {
+      "slug": "kunafa-berkah-indonesia",
+      "name": "PT. Kunafa Berkah Indonesia",
+      "shortName": "KUNAFA",
+      "subName": "Biro Umroh & Haji Solo",
+      "tagline": "Sahabat Perjalanan Ibadah ke Baitullah Sesuai Sunnah",
+      "about": "PT. Kunafa Berkah Indonesia melayani jamaah umroh dan haji dengan mengutamakan kepuasan, kenyamanan, serta kemurnian ibadah. Legalitas resmi berizin Kemenag RI.",
+      "logo": null,
+      "colors": {
+        "brand": "#1e3a8a",
+        "accent": "#10b981"
+      },
+      "contact": {
+        "phone": "081399999170",
+        "whatsapp": "6281399999170",
+        "email": "kunafaberkahindonesia@gmail.com",
+        "address": "Jl. Kerinci No. 21 Sekip RT 04/RW 03, Banjarsari, Kec. Banjarsari, Kota Surakarta, Jawa Tengah"
+      }
+    },
+    "rahma-safar-mulia": {
+      "slug": "rahma-safar-mulia",
+      "name": "PT. Rahma Safar Mulia",
+      "shortName": "RAHMA SAFAR",
+      "subName": "Biro Umroh & Haji Klaten",
+      "tagline": "Amanah Membimbing Jamaah Menggapai Umroh Mabrur",
+      "about": "PT. Rahma Safar Mulia melayani calon tamu Allah di Klaten dan sekitarnya dengan dedikasi penuh, kepastian tiket & hotel, serta pembimbing ibadah berpengalaman.",
+      "logo": null,
+      "colors": {
+        "brand": "#065f46",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "082137546474",
+        "whatsapp": "6282137546474",
+        "email": "rahmasafarmulia@gmail.com",
+        "address": "Jl. Delanggu-Cokro KM 4 Sembungan RT 01/RW 01, Desa Kebonharjo, Polanharjo, Klaten, Jawa Tengah"
+      }
+    },
+    "shahnaz-amanah-tour": {
+      "slug": "shahnaz-amanah-tour",
+      "name": "PT. Shahnaz Amanah Tour",
+      "shortName": "SHAHNAZ TOUR",
+      "subName": "Biro Umroh & Haji Sukoharjo",
+      "tagline": "Layanan Perjalanan Umroh Terpercaya, Amanah, dan Berizin Resmi",
+      "about": "PT. Shahnaz Amanah Tour mendampingi jamaah menuju Tanah Suci dengan kenyamanan fasilitas, transparan, dan profesional. Izin resmi PPIU Kementerian Agama.",
+      "logo": null,
+      "colors": {
+        "brand": "#0f766e",
+        "accent": "#fbbf24"
+      },
+      "contact": {
+        "phone": "08179455540",
+        "whatsapp": "628179455540",
+        "email": "shahnazamanahtour@gmail.com",
+        "address": "Jl. Keleng Karanganyar Pondok 4 RT 03/RW 04, Desa Pondok, Grogol, Kab. Sukoharjo, Jawa Tengah"
+      }
+    },
+    "farzana-makmur-aza": {
+      "slug": "farzana-makmur-aza",
+      "name": "PT. Farzana Makmur Aza",
+      "shortName": "FARZANA",
+      "subName": "Biro Umroh & Haji Wonosobo",
+      "tagline": "Melayani Perjalanan Ibadah Umroh dengan Hati dan Dedikasi",
+      "about": "PT. Farzana Makmur Aza adalah biro penyelenggara umroh resmi berizin Kemenag RI di Wonosobo, siap melayani pendaftaran paket ibadah hemat hingga VIP dengan pembimbing berpengalaman.",
+      "logo": null,
+      "colors": {
+        "brand": "#1e40af",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "085786186610",
+        "whatsapp": "6285786186610",
+        "email": "farzanamakmuraza01@gmail.com",
+        "address": "Jl. Sirandu RT 02/RW 03, Pagerkukuh, Wonosobo, Kab. Wonosobo, Jawa Tengah"
+      }
+    },
+    "siyaha-eiman-nusantara": {
+      "slug": "siyaha-eiman-nusantara",
+      "name": "PT. Siyaha Eiman Nusantara",
+      "shortName": "SIYAHA EIMAN",
+      "subName": "Biro Umroh & Haji Magelang",
+      "tagline": "Layanan Umroh & Perjalanan Wisata Religi Berkah Terpercaya",
+      "about": "PT. Siyaha Eiman Nusantara berkantor pusat di Kota Magelang, melayani jamaah umroh dan haji dengan standar layanan terunggul, kepastian jadwal, serta bimbingan ibadah komprehensif.",
+      "logo": null,
+      "colors": {
+        "brand": "#047857",
+        "accent": "#e11d48"
+      },
+      "contact": {
+        "phone": "08112012050",
+        "whatsapp": "628112012050",
+        "email": "siyahaeiman@gmail.com",
+        "address": "Jl. Urip Sumoharjo No. 37C RT 03/RW 03, Kel. Wates, Kec. Magelang Utara, Kota Magelang, Jawa Tengah"
+      }
+    },
+    "sendang-mubarok-tour": {
+      "slug": "sendang-mubarok-tour",
+      "name": "PT. Sendang Mubarok Tour & Travel",
+      "shortName": "SENDANG MUBAROK",
+      "subName": "Biro Umroh Jepara",
+      "tagline": "Hadirkan Layanan Umrah dan Wisata Religi Penuh Berkah",
+      "about": "PT. Sendang Mubarok Tour and Travel adalah biro perjalanan resmi berizin Kemenag di Jepara. Kami melayani konsultasi, pendaftaran, dan pendampingan ibadah jemaah ke Tanah Suci dengan amanah.",
+      "logo": null,
+      "colors": {
+        "brand": "#0f766e",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "085219535667",
+        "whatsapp": "6285219535667",
+        "email": "sendangmubarokumroh@gmail.com",
+        "address": "Jl. Pemuda No. 15 RT 03/RW 04, Potroyudan, Kec. Jepara, Kab. Jepara, Jawa Tengah"
+      }
     }
   }
 }
