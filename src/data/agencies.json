@@ -836,6 +836,101 @@
         "whatsapp": "6282122229815",
         "address": "Jalan Lili II RT 001 RW 007 Dusun Silowah, Desa Pagersari, Kecamatan Bergas, Kabupaten Semarang, Jawa Tengah"
       }
+    },
+    "muslim-safar-project": {
+      "name": "PT. Muslim Safar Project",
+      "shortName": "Muslim Safar",
+      "subName": "Muslim Safar Project Umroh & Haji Khusus Solo",
+      "tagline": "Perjalanan Suci Lebih Berarti, Fasilitas Nyaman dan Bimbingan Sesuai Sunnah",
+      "about": "PT. Muslim Safar Project adalah biro perjalanan ibadah umroh resmi terdaftar di Kementerian Agama RI (NIB 08062301043370002) yang berpusat di Sriwedari, Laweyan, Kota Surakarta. Mengusung konsep perjalanan ibadah yang hangat, bersahabat, dan profesional, kami memastikan setiap jamaah mendapatkan pendampingan ibadah maksimal serta akomodasi hotel terbaik dekat Masjidil Haram dan Masjid Nabawi.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "+62 821-3316-2255",
+        "tollFree": "0821-3316-2255",
+        "email": "muslimsafarproject@gmail.com",
+        "whatsapp": "6282133162255",
+        "address": "Jalan Profesor Doktor Supomo Nomor 11 RT 000 RW 000, Kelurahan Sriwedari, Kecamatan Laweyan, Kota Surakarta, Jawa Tengah"
+      }
+    },
+    "ribath-rindu-baitullah": {
+      "name": "PT. Ribath Rindu Baitullah",
+      "shortName": "Ribath Tour",
+      "subName": "Ribath Rindu Baitullah Umroh & Haji Khusus Surakarta",
+      "tagline": "Menuntaskan Rindu ke Baitullah dengan Khusyuk dan Penuh Berkah",
+      "about": "PT. Ribath Rindu Baitullah adalah penyelenggara ibadah umroh berizin resmi Kementerian Agama RI (NIB 22052300027180002) berkantor di Semanggi, Pasar Kliwon, Kota Surakarta. Kami hadir untuk melayani tamu-tamu Allah dengan dedikasi tinggi, mengutamakan kenyamanan jamaah sepuh, bimbingan manasik intensif, dan kepastian tiket penerbangan langsung.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#1e3a8a",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "+62 857-9942-6128",
+        "tollFree": "0857-9942-6128",
+        "email": "ribath.official@gmail.com",
+        "whatsapp": "6285799426128",
+        "address": "Jalan Kyai Mojo Nomor 25 Semanggi RT 002 RW 005, Kelurahan Semanggi, Kecamatan Pasar Kliwon, Kota Surakarta, Jawa Tengah"
+      }
+    },
+    "surya-amanah-wisata": {
+      "name": "PT. Surya Amanah Wisata",
+      "shortName": "Samtour Banyumas",
+      "subName": "Samtour Umroh & Haji Khusus PDM Banyumas Purwokerto",
+      "tagline": "Amanah, Resmi, dan Terpercaya Melayani Ibadah Jamaah Banyumas Raya",
+      "about": "PT. Surya Amanah Wisata (Samtour) adalah biro umroh resmi berizin Kementerian Agama RI (NIB 09102300454490002) yang berkantor pusat di Gedung Pimpinan Daerah Muhammadiyah Banyumas, Purwokerto Timur. Berlandaskan prinsip kejujuran, keterbukaan, dan pelayanan prima, Samtour siap mendampingi perjalanan spiritual jamaah menuju tanah suci secara aman dan mabrur.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#065f46",
+        "accent": "#eab308"
+      },
+      "contact": {
+        "phone": "+62 813-2737-3032",
+        "tollFree": "0813-2737-3032",
+        "email": "pt.samtour23@gmail.com",
+        "whatsapp": "6281327373032",
+        "address": "Gedung Pimpinan Daerah Muhammadiyah Banyumas, Jalan Dokter Angka Nomor 1, Sokanegara, Purwokerto Timur, Kabupaten Banyumas, Jawa Tengah"
+      }
+    },
+    "azzahroni-syifa-tour": {
+      "name": "PT. Azzahroni Syifa Tour",
+      "shortName": "Azzahroni Tour",
+      "subName": "Azzahroni Syifa Tour Umroh & Religi Demak",
+      "tagline": "Pelayanan Ramah, Amanah, dan Penuh Sentuhan Kekeluargaan",
+      "about": "PT. Azzahroni Syifa Tour adalah penyelenggara perjalanan ibadah umroh resmi Kementerian Agama RI (NIB 11042300507330002) di Dempet, Kabupaten Demak. Didirikan oleh praktisi berpengalaman di tanah suci, Azzahroni Syifa Tour dipercaya ribuan jamaah Demak, Grobogan, dan sekitarnya berkat komitmen transparansi biaya serta bimbingan ibadah yang telaten.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#0f766e",
+        "accent": "#f97316"
+      },
+      "contact": {
+        "phone": "+62 813-9302-8934",
+        "tollFree": "0813-9302-8934",
+        "email": "azzahronisyifatour.info@gmail.com",
+        "whatsapp": "6281393028934",
+        "address": "Jalan Demak - Purwodadi KM 10 RT 002 RW 004, Kelurahan Dempet, Kecamatan Dempet, Kabupaten Demak, Jawa Tengah"
+      }
+    },
+    "dua-naga-travelindo": {
+      "name": "PT. Dua Naga Travelindo",
+      "shortName": "Dua Naga Travel",
+      "subName": "Dua Naga Travelindo Umroh & Wisata Halal Sukoharjo",
+      "tagline": "Layanan Premium Ibadah Umroh dengan Standar Profesional Terpadu",
+      "about": "PT. Dua Naga Travelindo adalah biro perjalanan ibadah umroh resmi terdaftar di Kementerian Agama RI (NIB 15062300416950002) di Gentan, Baki, Kabupaten Sukoharjo. Sebagai bagian dari ekosistem bisnis Dua Naga Corporation, kami menawarkan kenyamanan perjalanan ibadah kelas utama, manajemen jadwal profesional, dan fasilitas hotel bintang lima.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#115e59",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "+62 895-1928-0808",
+        "tollFree": "0895-1928-0808",
+        "email": "travelindoduanaga@gmail.com",
+        "whatsapp": "6289519280808",
+        "address": "Jalan Empu Kanwa Nomor 1 RT 000 RW 000, Kelurahan Gentan, Kecamatan Baki, Kabupaten Sukoharjo, Jawa Tengah"
+      }
     }
   }
 }
