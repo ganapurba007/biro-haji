@@ -1326,6 +1326,136 @@
           "desc": "Kepastian tanggal keberangkatan dengan maskapai terpercaya."
         }
       ]
+    },
+    "habbasya-barokah": {
+      "name": "PT. Habbasya Barokah Syarifain",
+      "tagline": "Biro Umroh Terpercaya, Nyaman, dan Penuh Berkah di Grobogan",
+      "description": "PT. Habbasya Barokah Syarifain melayani ibadah umroh & haji dengan bimbingan ibadah profesional, hotel dekat pelataran Ka bah, dan kepastian jadwal.",
+      "phone": "0812-7117-3010",
+      "email": "habbasyabarokahsyarifain@gmail.com",
+      "address": "Lingkungan Gading RT 005 RW 017, Kuripan, Kec. Purwodadi, Kab. Grobogan, Jawa Tengah",
+      "primaryColor": "#0f766e",
+      "secondaryColor": "#f59e0b",
+      "heroTitle": "Wujudkan Umroh Berkah dan Nyaman Bersama Habbasya Tour",
+      "heroSubtitle": "PPIU resmi Kemenag RI SK 12-06-2025 dengan pembimbing profesional dan fasilitas terbaik untuk tamu Allah.",
+      "features": [
+        {
+          "title": "Berizin Resmi Kemenag",
+          "desc": "PPIU Kemenag RI SK 12-06-2025 (NIB 19022400825930003) terdaftar resmi dan amanah."
+        },
+        {
+          "title": "Hotel Ring 1",
+          "desc": "Akomodasi hotel nyaman dekat pelataran Ka bah dan Masjid Nabawi."
+        },
+        {
+          "title": "Bimbingan Profesional",
+          "desc": "Pembimbing ibadah bersertifikat mendampingi secara khidmat."
+        }
+      ]
+    },
+    "shoja-tour": {
+      "name": "PT. Shoja Tour International",
+      "tagline": "Layanan Ibadah Umroh Eksklusif & Amanah Kota Surakarta",
+      "description": "PT. Shoja Tour International menyediakan paket umroh berkualitas dengan penerbangan terpercaya dan akomodasi hotel berbintang.",
+      "phone": "0851-2499-3936",
+      "email": "shoja.tourinter@gmail.com",
+      "address": "Jl. Nitisemito No. 41 RT 004 RW 005, Purwosari, Banjarsari, Kota Surakarta, Jawa Tengah",
+      "primaryColor": "#1e3a8a",
+      "secondaryColor": "#eab308",
+      "heroTitle": "Perjalanan Umroh Khusyuk & Berkesan Bersama Shoja Tour",
+      "heroSubtitle": "PPIU resmi Kemenag RI SK 01-07-2025 siap mendampingi ibadah suci Anda dengan dedikasi penuh.",
+      "features": [
+        {
+          "title": "Legalitas Terverifikasi",
+          "desc": "PPIU Kemenag RI SK 01-07-2025 (NIB 16122200647910003) resmi dan terpercaya."
+        },
+        {
+          "title": "Bimbingan Sesuai Sunnah",
+          "desc": "Pendampingan ibadah intensif dari muthawwif berpengalaman."
+        },
+        {
+          "title": "Paket Lengkap & Pasti",
+          "desc": "Transparansi fasilitas, tiket pesawat, dan akomodasi terbaik."
+        }
+      ]
+    },
+    "assalaam-syariah": {
+      "name": "PT. Assalaam Syariah Haromain",
+      "tagline": "Bimbingan Ibadah Umroh Sesuai Sunnah Berbasis Nilai Pesantren",
+      "description": "PT. Assalaam Syariah Haromain menghadirkan layanan umroh terpercaya dengan pendampingan asatidz berpengalaman dari Surakarta.",
+      "phone": "0851-7676-5405",
+      "email": "contact.assalaam.travel@gmail.com",
+      "address": "Jl. Kerinci No. 21 Sekip RT 004 RW 003, Gonilan, Kartasura, Kab. Sukoharjo, Jawa Tengah",
+      "primaryColor": "#047857",
+      "secondaryColor": "#d97706",
+      "heroTitle": "Meraih Umroh Mabrur Bersama Assalaam Syariah Haromain",
+      "heroSubtitle": "PPIU resmi Kemenag RI SK 12-06-2025 dengan tradisi bimbingan ibadah mendalam dan fasilitas prima.",
+      "features": [
+        {
+          "title": "Berizin Resmi Kemenag",
+          "desc": "PPIU Kemenag RI SK 12-06-2025 (NIB 12102300693370002) terdaftar dan terpercaya."
+        },
+        {
+          "title": "Bimbingan Asatidz",
+          "desc": "Pendampingan manasik dan ibadah mendalam dari para asatidz berpengalaman."
+        },
+        {
+          "title": "Kenyamanan Jamaah",
+          "desc": "Fasilitas hotel dekat masjid dan maskapai penerbangan ternama."
+        }
+      ]
+    },
+    "lintas-nusantara": {
+      "name": "PT. Lintas Nusantara Travelindo",
+      "tagline": "Sahabat Perjalanan Ibadah Umroh Aman, Nyaman, dan Pasti Berangkat",
+      "description": "PT. Lintas Nusantara Travelindo melayani jamaah umroh dengan komitmen kepastian tiket, visa resmi, dan akomodasi terjamin.",
+      "phone": "0857-9929-5255",
+      "email": "nusantaratravelindolintas@gmail.com",
+      "address": "Jl. Samudra Pasai RT 003 RW 007, Kadipiro, Kec. Banjarsari, Kota Surakarta, Jawa Tengah",
+      "primaryColor": "#1e40af",
+      "secondaryColor": "#f59e0b",
+      "heroTitle": "Ibadah Umroh Tenang dan Terfasilitasi Bersama Lintas Nusantara",
+      "heroSubtitle": "PPIU resmi Kemenag RI SK 26-05-2025 mengutamakan kenyamanan, transparansi, dan kekhusyukan jamaah.",
+      "features": [
+        {
+          "title": "PPIU Resmi Kemenag",
+          "desc": "SK Kemenag RI 26-05-2025 (NIB 01122300398960002) terjamin legalitasnya."
+        },
+        {
+          "title": "Kepastian Berangkat",
+          "desc": "Jadwal fixed dengan visa resmi dan maskapai penerbangan direct."
+        },
+        {
+          "title": "Layanan Responsif",
+          "desc": "Tim siap mendampingi kebutuhan jamaah sebelum dan selama di Tanah Suci."
+        }
+      ]
+    },
+    "sendang-mubarok": {
+      "name": "PT. Sendang Mubarok Tour and Travel",
+      "tagline": "Biro Umroh Amanah Pilihan Warga Jepara & Sekitarnya",
+      "description": "PT. Sendang Mubarok Tour and Travel menghadirkan paket perjalanan umroh ramah jamaah dengan pelayanan tulus dan kekeluargaan.",
+      "phone": "0852-1953-5667",
+      "email": "sendangmubarokumroh@gmail.com",
+      "address": "Jl. Keleng Karanganyar Pondok 4 RT 003 RW 004, Desa Pondok, Kec. Jepara, Kab. Jepara, Jawa Tengah",
+      "primaryColor": "#15803d",
+      "secondaryColor": "#ca8a04",
+      "heroTitle": "Raih Keberkahan Baitullah Bersama Sendang Mubarok Tour",
+      "heroSubtitle": "PPIU resmi Kemenag RI SK 22-05-2025 dengan komitmen pendampingan ibadah dari pendaftaran hingga kepulangan.",
+      "features": [
+        {
+          "title": "Izin Kemenag 2025",
+          "desc": "SK Kemenag RI 22-05-2025 (NIB 25012400728540002) resmi beroperasi di Jepara."
+        },
+        {
+          "title": "Pendampingan Khidmat",
+          "desc": "Bimbingan ibadah ramah, sabar, dan penuh kehangatan keluarga."
+        },
+        {
+          "title": "Paket Transparan",
+          "desc": "Fasilitas jelas tanpa biaya tersembunyi demi ketenangan jamaah."
+        }
+      ]
     }
   }
 }
