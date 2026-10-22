@@ -1015,58 +1015,6 @@
         "address": "Jl. Mayjend Panjaitan No. 26 RT 01/RW 03, Kel. Bumirejo, Kec. Kebumen, Kab. Kebumen, Jawa Tengah"
       }
     },
-    "sendang-mubarok": {
-      "name": "Sendang Mubarok Tour & Travel",
-      "tagline": "Biro Perjalanan Umroh & Haji Khusus Terpercaya Jepara",
-      "description": "PT. Sendang Mubarok Tour and Travel adalah penyelenggara perjalanan ibadah umroh resmi Kemenag RI di Kabupaten Jepara yang mengutamakan kenyamanan, kepastian jadwal, dan bimbingan ibadah sesuai sunnah.",
-      "phone": "0852-1953-5667",
-      "email": "sendangmubarokumroh@gmail.com",
-      "address": "Jl. Pemuda No. 15 RT 003 RW 004, Potroyudan, Kec. Jepara, Kab. Jepara, Jawa Tengah",
-      "primaryColor": "#15803d",
-      "secondaryColor": "#ca8a04",
-      "heroTitle": "Wujudkan Ibadah Umroh Nyaman & Mabrur Bersama Sendang Mubarok",
-      "heroSubtitle": "Biro resmi PPIU Kemenag RI di Jepara. Fasilitas hotel nyaman, maskapai terbaik, dan bimbingan ibadah intensif.",
-      "features": [
-        {
-          "title": "Resmi Berizin Kemenag",
-          "desc": "NIB 21092300755720004 terdaftar resmi sebagai PPIU Kemenag RI."
-        },
-        {
-          "title": "Kepastian Jadwal & Visa",
-          "desc": "Tiket pesawat, visa, dan hotel dipastikan sebelum keberangkatan."
-        },
-        {
-          "title": "Pembimbing Berpengalaman",
-          "desc": "Didampingi muthowif profesional dan amanah selama di Tanah Suci."
-        }
-      ]
-    },
-    "amany-travelindo-indonesia": {
-      "name": "Amany Travelindo Indonesia",
-      "tagline": "Sahabat Terbaik Perjalanan Ibadah Umroh Anda di Kendal",
-      "description": "PT. Amany Travelindo Indonesia melayani jamaah umroh dan haji dengan penuh dedikasi dari Kabupaten Kendal, menghadirkan paket ibadah terjangkau dengan pelayanan hotel dekat masjid.",
-      "phone": "0812-6626-488",
-      "email": "amanytravelindoindonesia@gmail.com",
-      "address": "Jl. Soekarno Hatta No. 227 RT 015 RW 004, Ketapang, Kec. Kendal, Kab. Kendal, Jawa Tengah",
-      "primaryColor": "#0f766e",
-      "secondaryColor": "#d97706",
-      "heroTitle": "Ibadah Tenang, Fasilitas Terjamin Bersama Amany Travelindo",
-      "heroSubtitle": "Penyelenggara umroh berizin resmi Kemenag RI di Kendal dengan layanan ramah dan transparan.",
-      "features": [
-        {
-          "title": "Izin Resmi PPIU",
-          "desc": "NIB 05022200214020005 Kemenag RI menjamin legalitas aman dan amanah."
-        },
-        {
-          "title": "Akomodasi Nyaman",
-          "desc": "Pilihan hotel representatif di Makkah & Madinah dengan jarak terjangkau."
-        },
-        {
-          "title": "Bimbingan Manasik Lengkap",
-          "desc": "Manasik teori dan praktik intensif agar jamaah siap lahir batin."
-        }
-      ]
-    },
     "queen-khadijah-idarah": {
       "name": "Queen Khadijah Tour & Travel",
       "tagline": "Layanan Umroh Eksklusif & Berkah dari Wonosobo",
@@ -1142,6 +1090,136 @@
         {
           "title": "Pelayanan Ramah & Amanah",
           "desc": "Staf profesional siap membantu seluruh kebutuhan berkas dan visa."
+        }
+      ]
+    },
+    "al-mahdar-tour": {
+      "name": "PT. Al Mahdar Tour & Travel",
+      "tagline": "Penyelenggara Haji Khusus & Umroh Resmi Amanah Kalbar",
+      "description": "PT. Al Mahdar Tour & Travel melayani jamaah umroh dan haji khusus dari Pontianak dan Kalimantan Barat dengan bimbingan ibadah terpercaya dan fasilitas hotel nyaman.",
+      "phone": "0853-9124-2222",
+      "email": "almahdar_travel@yahoo.co.id",
+      "address": "Jl. RE Martadinata Kompl. Ruko Blok B No. 5, Pontianak, Kalimantan Barat",
+      "primaryColor": "#047857",
+      "secondaryColor": "#d97706",
+      "heroTitle": "Wujudkan Umroh Mabrur Bersama Al Mahdar Tour Pontianak",
+      "heroSubtitle": "Biro resmi PPIU & PIHK Kemenag RI (SK U.568 Th 2020) melayani ibadah ke Tanah Suci dengan tenang dan khusyuk.",
+      "features": [
+        {
+          "title": "Izin Resmi PPIU & PIHK",
+          "desc": "Terdaftar resmi di Kemenag RI dengan legalitas lengkap dan terpercaya."
+        },
+        {
+          "title": "Akomodasi Hotel Nyaman",
+          "desc": "Pilihan hotel dekat Masjidil Haram dan Masjid Nabawi untuk kenyamanan jamaah."
+        },
+        {
+          "title": "Pembimbing Berpengalaman",
+          "desc": "Muthowif dan tour leader mendampingi ibadah sesuai sunnah sejak keberangkatan."
+        }
+      ]
+    },
+    "menara-tanjung-tour": {
+      "name": "PT. Menara Tanjung Tour & Travel",
+      "tagline": "Perjalanan Umroh Nyaman & Berkah dari Pontianak",
+      "description": "PT. Menara Tanjung Tour & Travel mendampingi perjalanan ibadah umroh masyarakat Pontianak dan sekitarnya dengan pelayanan ramah, transparan, dan profesional.",
+      "phone": "0812-1384-1336",
+      "email": "ptmenaratanjung@gmail.com",
+      "address": "Jl. Parit H. Husin 2 Komplek Griya Caraka I Blok B No. 19B, Pontianak, Kalimantan Barat",
+      "primaryColor": "#1e3a8a",
+      "secondaryColor": "#d97706",
+      "heroTitle": "Ibadah Umroh Nyaman Bersama Menara Tanjung Tour",
+      "heroSubtitle": "Penyelenggara umroh resmi berizin Kemenag RI (SK No. 558 Th 2017) siap melayani perjalanan suci Anda sekeluarga.",
+      "features": [
+        {
+          "title": "Legalitas PPIU Resmi",
+          "desc": "Izin resmi Kemenag No. 558 Th 2017 memberikan jaminan keamanan beribadah."
+        },
+        {
+          "title": "Jadwal & Tiket Pasti",
+          "desc": "Kepastian maskapai dan tanggal keberangkatan tanpa rasa khawatir."
+        },
+        {
+          "title": "Layanan Ramah & Amanah",
+          "desc": "Didampingi muthowif bersertifikat dari Pontianak hingga kembali ke tanah air."
+        }
+      ]
+    },
+    "sanabil-madinah-barakah": {
+      "name": "PT. Sanabil Madinah Barakah",
+      "tagline": "Sahabat Perjalanan Ibadah Umroh Masyarakat Sambas",
+      "description": "PT. Sanabil Madinah Barakah hadir memberikan kemudahan pendaftaran dan bimbingan umroh bagi masyarakat Sambas dan sekitarnya menuju Baitullah.",
+      "phone": "0813-4566-4518",
+      "email": "darulilmi591@gmail.com",
+      "address": "Dusun Kokban RT 12/RW 06 Desa Bentunai, Kec. Selakau, Kab. Sambas, Kalimantan Barat",
+      "primaryColor": "#0f766e",
+      "secondaryColor": "#ca8a04",
+      "heroTitle": "Menuju Baitullah Bersama Sanabil Madinah Barakah Sambas",
+      "heroSubtitle": "Biro umroh resmi Kemenag RI (SK No. 483 Th 2019) mengutamakan kekhusyukan dan kemudahan ibadah jamaah.",
+      "features": [
+        {
+          "title": "PPIU Berizin Resmi",
+          "desc": "Resmi terdaftar di Kemenag RI SK No. 483 Th 2019."
+        },
+        {
+          "title": "Bimbingan Manasik Intensif",
+          "desc": "Persiapan manasik detail dan pendampingan ustadz berpengalaman."
+        },
+        {
+          "title": "Fasilitas Terbaik",
+          "desc": "Transportasi full AC dan akomodasi hotel representatif di Makkah dan Madinah."
+        }
+      ]
+    },
+    "khairo-mulya-wisata": {
+      "name": "PT. Khairo Mulya Wisata",
+      "tagline": "Layanan Umroh Khusyuk & Terpercaya di Pontianak",
+      "description": "PT. Khairo Mulya Wisata siap mengantarkan Anda meraih umroh mabrur dengan fasilitas lengkap, kepastian jadwal, dan pendampingan ibadah maksimal.",
+      "phone": "0812-5833-0964",
+      "email": "syaiful64@yahoo.com",
+      "address": "Jl. Imam Bonjol Gg. H. Mursyid No. 24A, Kel. Benua Melayu Laut, Pontianak Kota, Kalimantan Barat",
+      "primaryColor": "#15803d",
+      "secondaryColor": "#b45309",
+      "heroTitle": "Raih Umroh Mabrur Bersama Khairo Mulya Wisata",
+      "heroSubtitle": "Biro perjalanan umroh berizin resmi Kemenag RI (SK No. 669 Th 2017) anggota HIMPUH.",
+      "features": [
+        {
+          "title": "Izin Resmi PPIU Kemenag",
+          "desc": "Legalitas terjamin SK No. 669 Th 2017 & anggota asosiasi HIMPUH."
+        },
+        {
+          "title": "Paket Fleksibel & Terjangkau",
+          "desc": "Pilihan paket umroh reguler dan hemat dengan fasilitas bintang berkualitas."
+        },
+        {
+          "title": "Mutawwif Berilmu",
+          "desc": "Bimbingan tata cara umroh sesuai tuntunan Rasulullah SAW."
+        }
+      ]
+    },
+    "namira-amalia-utama": {
+      "name": "PT. Namira Amalia Utama",
+      "tagline": "Penyelenggara Perjalanan Umroh Terpercaya di Sampit & Kotim",
+      "description": "PT. Namira Amalia Utama mendampingi masyarakat Kotawaringin Timur dan Kalimantan Tengah dalam menunaikan ibadah umroh dengan kenyamanan dan keamanan terjamin.",
+      "phone": "0821-5401-5960",
+      "email": "namiraamalia.sampit@gmail.com",
+      "address": "Jl. Pelita Timur No. 39 A, Sampit, Kec. Mentawa Baru Ketapang, Kab. Kotawaringin Timur, Kalimantan Tengah",
+      "primaryColor": "#312e81",
+      "secondaryColor": "#d97706",
+      "heroTitle": "Beribadah Tenang Bersama Namira Amalia Utama Sampit",
+      "heroSubtitle": "Penyelenggara Perjalanan Ibadah Umroh (PPIU) resmi Kemenag RI kantor pusat Sampit Kotawaringin Timur.",
+      "features": [
+        {
+          "title": "Legalitas Kantor Pusat Resmi",
+          "desc": "Izin resmi PPIU Kemenag RI berpusat di Sampit Kotawaringin Timur."
+        },
+        {
+          "title": "Pendampingan Sepenuh Hati",
+          "desc": "Pelayanan hangat dan bimbingan ibadah ramah jamaah lansia."
+        },
+        {
+          "title": "Akomodasi Terstandar",
+          "desc": "Hotel dan catering menu Indonesia demi kenyamanan jamaah selama di tanah suci."
         }
       ]
     }
