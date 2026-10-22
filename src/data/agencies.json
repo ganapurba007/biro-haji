@@ -628,23 +628,23 @@
         "address": "Jl. Urip Sumoharjo No. 37C RT 03/RW 03, Kel. Wates, Kec. Magelang Utara, Kota Magelang, Jawa Tengah"
       }
     },
-    "sendang-mubarok-tour": {
-      "slug": "sendang-mubarok-tour",
-      "name": "PT. Sendang Mubarok Tour & Travel",
-      "shortName": "SENDANG MUBAROK",
-      "subName": "Biro Umroh Jepara",
-      "tagline": "Hadirkan Layanan Umrah dan Wisata Religi Penuh Berkah",
-      "about": "PT. Sendang Mubarok Tour and Travel adalah biro perjalanan resmi berizin Kemenag di Jepara. Kami melayani konsultasi, pendaftaran, dan pendampingan ibadah jemaah ke Tanah Suci dengan amanah.",
-      "logo": null,
+    "arroyan-cahaya-harromain": {
+      "name": "PT. Arroyan Cahaya Harromain",
+      "shortName": "ACH",
+      "subName": "ACH Umroh & Haji Khusus",
+      "tagline": "Melayani Tamu Allah Sesuai Sunnah dengan Sepenuh Hati",
+      "about": "PT. Arroyan Cahaya Harromain (ACH) adalah biro perjalanan umroh dan haji khusus resmi berizin Kementerian Agama RI (NIB 12072300710550003) berkantor pusat di Pemalang, Jawa Tengah. Berdiri sejak 2018 dan memiliki puluhan cabang di Jawa Tengah, kami mengutamakan kepastian jadwal, kenyamanan penerbangan langsung, hotel dekat pelataran, dan pendampingan ibadah intensif.",
+      "logo": "/images/logos/default-biro.svg",
       "colors": {
-        "brand": "#0f766e",
+        "brand": "#047857",
         "accent": "#f59e0b"
       },
       "contact": {
-        "phone": "085219535667",
-        "whatsapp": "6285219535667",
-        "email": "sendangmubarokumroh@gmail.com",
-        "address": "Jl. Pemuda No. 15 RT 03/RW 04, Potroyudan, Kec. Jepara, Kab. Jepara, Jawa Tengah"
+        "phone": "+62 817-6965-339",
+        "tollFree": "0817-6965-339",
+        "email": "arroyyancahayaharomain@gmail.com",
+        "whatsapp": "628176965339",
+        "address": "Ruko Nur Square No. 15, Jl. Wahidin Sudiro Husodo, Kaligelang, Taman, Kabupaten Pemalang, Jawa Tengah"
       }
     }
   }
