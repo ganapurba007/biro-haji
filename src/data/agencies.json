@@ -1170,6 +1170,136 @@
           "desc": "Transportasi full AC dan akomodasi hotel representatif di Makkah dan Madinah."
         }
       ]
+    },
+    "muzdalifah-tour": {
+      "name": "PT. Muzdalifah Tour & Travel",
+      "tagline": "Penyelenggara Umroh Berizin Resmi & Amanah di Pontianak",
+      "description": "PT. Muzdalifah Tour & Travel melayani masyarakat Pontianak dan Kalimantan Barat dalam menunaikan ibadah umroh dengan kenyamanan hotel representatif dan bimbingan ibadah terpercaya.",
+      "phone": "0812-5741-668",
+      "email": "pt_muzdalifah@yahoo.com",
+      "address": "Jl. RE Martadinata No. 391, Pontianak, Kalimantan Barat",
+      "primaryColor": "#065f46",
+      "secondaryColor": "#d97706",
+      "heroTitle": "Raih Umroh Mabrur Bersama Muzdalifah Tour Pontianak",
+      "heroSubtitle": "Biro umroh resmi PPIU Kemenag RI (SK No. 450 Th 2018) mengedepankan kekhusyukan dan kenyamanan ibadah jamaah.",
+      "features": [
+        {
+          "title": "Izin Resmi PPIU Kemenag",
+          "desc": "Legalitas resmi Kemenag RI SK No. 450 Th 2018 terdaftar dan terpercaya."
+        },
+        {
+          "title": "Akomodasi Nyaman",
+          "desc": "Pilihan hotel strategis di Makkah dan Madinah memudahkan mobilitas jamaah."
+        },
+        {
+          "title": "Bimbingan Ibadah Sesuai Sunnah",
+          "desc": "Didampingi muthowif berpengalaman sejak manasik hingga kembali ke tanah air."
+        }
+      ]
+    },
+    "siddiq-amanah-wisata": {
+      "name": "PT. Siddiq Amanah Wisata",
+      "tagline": "Sahabat Perjalanan Ibadah Umroh Amanah di Sambas & Jawai",
+      "description": "PT. Siddiq Amanah Wisata hadir memberikan kemudahan pendaftaran serta pendampingan ibadah umroh bagi masyarakat Sambas, Jawai, dan sekitarnya.",
+      "phone": "0812-5710-2321",
+      "email": "mulyasiddiqamanah@gmail.com",
+      "address": "Dusun Ma'liau RT 019/RW 010 Desa Sarang Burung Usrat, Kec. Jawai, Kab. Sambas, Kalimantan Barat",
+      "primaryColor": "#1e3a8a",
+      "secondaryColor": "#d97706",
+      "heroTitle": "Ibadah Tenang & Nyaman Bersama Siddiq Amanah Wisata",
+      "heroSubtitle": "Penyelenggara Perjalanan Ibadah Umroh (PPIU) resmi Kemenag RI SK No. 482 Th 2019 siap mengantar Anda ke Baitullah.",
+      "features": [
+        {
+          "title": "Legalitas PPIU Resmi",
+          "desc": "Terdaftar resmi di Kemenag RI SK No. 482 Th 2019 jaminan amanah."
+        },
+        {
+          "title": "Manasik & Pelayanan Intensif",
+          "desc": "Pembimbingan manasik teliti dan pendampingan penuh bagi jamaah."
+        },
+        {
+          "title": "Penerbangan & Paket Nyaman",
+          "desc": "Jadwal pasti dan fasilitas hotel representatif untuk ketenangan ibadah."
+        }
+      ]
+    },
+    "tisaga-nurkhotimah": {
+      "name": "PT. Tisaga Nurkhotimah",
+      "tagline": "Layanan Umroh Terpercaya & Nyaman dari Kubu Raya",
+      "description": "PT. Tisaga Nurkhotimah mendampingi jamaah dari Kubu Raya dan sekitarnya menunaikan ibadah umroh dengan pelayanan sepenuh hati dan tata cara sesuai sunnah.",
+      "phone": "0852-4626-2637",
+      "email": "tnk.kuburaya@gmail.com",
+      "address": "Jl. Perintis RT 79 RW 17, Pal IX, Kec. Sungai Kakap, Kab. Kubu Raya, Kalimantan Barat",
+      "primaryColor": "#0f766e",
+      "secondaryColor": "#b45309",
+      "heroTitle": "Menuju Tanah Suci Bersama Tisaga Nurkhotimah",
+      "heroSubtitle": "Biro perjalanan umroh resmi Kemenag RI SK No. 568 Th 2019 memberikan kenyamanan ibadah sekeluarga.",
+      "features": [
+        {
+          "title": "Izin PPIU Kemenag Resmi",
+          "desc": "Legalitas terjamin SK No. 568 Th 2019 keberangkatan aman & pasti."
+        },
+        {
+          "title": "Pendampingan Penuh",
+          "desc": "Tour leader dan muthowif mendampingi setiap tahapan ibadah."
+        },
+        {
+          "title": "Katering Selera Nusantara",
+          "desc": "Menu makanan ramah lidah Indonesia demi stamina dan kesehatan jamaah."
+        }
+      ]
+    },
+    "assalam-mulya-alharomain": {
+      "name": "PT. As-Salam Mulya Al-Haromain",
+      "tagline": "Penyelenggara Umroh Berkah & Profesional di Pemangkat Sambas",
+      "description": "PT. As-Salam Mulya Al-Haromain melayani warga Pemangkat dan Kabupaten Sambas dalam mewujudkan impian ziarah ke Baitullah dengan bimbingan terbaik.",
+      "phone": "0812-5837-0000",
+      "email": "f.maghfiroti@gmail.com",
+      "address": "Jl. Pembangunan No. 68 Pemangkat, Kab. Sambas, Kalimantan Barat",
+      "primaryColor": "#15803d",
+      "secondaryColor": "#ca8a04",
+      "heroTitle": "Wujudkan Umroh Berkah Bersama As-Salam Mulya Al-Haromain",
+      "heroSubtitle": "Biro umroh resmi PPIU Kemenag RI SK No. 1540 Th 2019 siap melayani perjalanan ibadah Anda.",
+      "features": [
+        {
+          "title": "Resmi Kemenag RI",
+          "desc": "Izin operasional PPIU No. 1540 Th 2019 menjamin kepastian berangkat."
+        },
+        {
+          "title": "Hotel Dekat Masjid",
+          "desc": "Akomodasi terjangkau dekat Masjidil Haram dan Nabawi."
+        },
+        {
+          "title": "Bimbingan Ramah Jamaah",
+          "desc": "Muthowif sabar membimbing khususnya jamaah lanjut usia."
+        }
+      ]
+    },
+    "alfirdaus-cikara-mas": {
+      "name": "PT. Alfirdaus Cikara Mas Wisata",
+      "tagline": "Pilihan Tepat Perjalanan Umroh Tenang & Bermakna di Pontianak",
+      "description": "PT. Alfirdaus Cikara Mas Wisata berkomitmen memberikan pengalaman ibadah umroh yang khusyuk, amanah, dan terencana bagi jamaah Pontianak dan sekitarnya.",
+      "phone": "0853-9377-0510",
+      "email": "hairulbahriah08@gmail.com",
+      "address": "Jl. HM. Suwignyo Komp. Tata Sari 1, RT 003/RW 07, Kel. Sungai Jawi, Kec. Pontianak Kota, Kalimantan Barat",
+      "primaryColor": "#312e81",
+      "secondaryColor": "#d97706",
+      "heroTitle": "Ibadah Khusyuk Bersama Alfirdaus Cikara Mas Wisata",
+      "heroSubtitle": "Biro resmi PPIU Kemenag RI SK No. 1541 Th 2019 menjamin kemudahan dan ketenangan ibadah umroh.",
+      "features": [
+        {
+          "title": "Izin PPIU Resmi",
+          "desc": "SK Kemenag No. 1541 Th 2019 legalitas aman dan transparan."
+        },
+        {
+          "title": "Jadwal & Tiket Terkonfirmasi",
+          "desc": "Maskapai terpercaya dengan kepastian tanggal keberangkatan."
+        },
+        {
+          "title": "Pelayanan Profesional",
+          "desc": "Staf dan muthowif berpengalaman siap mendampingi kebutuhan jamaah."
+        }
+      ]
     }
   }
 }
