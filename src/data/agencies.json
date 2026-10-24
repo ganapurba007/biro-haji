@@ -2715,6 +2715,98 @@
           ]
         }
       ]
+    },
+    "wahida-tenrisau": {
+      "name": "PT. Wahida Tenrisau Indah",
+      "shortName": "Wahida Tenrisau Indah",
+      "tagline": "Amanah Membimbing Jamaah Menuju Ibadah yang Mabrur",
+      "description": "Biro penyelenggara umroh dan haji berizin resmi Kemenag RI di Tarakan Kalimantan Utara, mengutamakan kepastian jadwal, bimbingan manasik intensif, dan kenyamanan ibadah tamu Allah.",
+      "address": "Jl. Kusuma Bangsa, RT. 14 Kel. Gunung Lingkas, Kec. Tarakan Timur, Kota Tarakan, Kalimantan Utara",
+      "phone": "082158303099",
+      "whatsapp": "082158303099",
+      "email": "wahidatenrisau.travel@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "wahida-tenrisau-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 30.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Garuda / Batik Air Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "wahida-tenrisau-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 37.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
+    },
+    "maratus-barakatul-mustafa": {
+      "name": "PT. Maratus Barakatul Mustafa",
+      "shortName": "MBM Tour",
+      "tagline": "Pelayanan Sepenuh Hati Membimbing Tamu Allah ke Baitullah",
+      "description": "Penyelenggara perjalanan ibadah umroh berizin resmi Kemenag RI di Kota Banjarmasin Kalimantan Selatan. Berkomitmen menghadirkan bimbingan ibadah sesuai sunnah, akomodasi hotel nyaman, dan pendampingan profesional.",
+      "address": "Jl. Pinus Raya No. 7 RT. 19 Kel. Sungai Miai, Kec. Banjarmasin Utara, Kota Banjarmasin, Kalimantan Selatan",
+      "phone": "081347470737",
+      "whatsapp": "081347470737",
+      "email": "500bmustafa@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Sesuai Sunnah",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "mbm-tour-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "mbm-tour-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
     }
   }
 }
