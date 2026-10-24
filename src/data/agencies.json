@@ -1551,6 +1551,196 @@
         "email": "kontak@alsha.id",
         "address": "Jl. Sumba No. 129, Wates, Magelang Utara, Jawa Tengah 56113"
       }
+    },
+    "nur-devi-diva": {
+      "slug": "nur-devi-diva",
+      "name": "PT. Nur Devi Diva Haromain",
+      "shortName": "NUR DEVI DIVA",
+      "subName": "Biro Umroh & Haji Samarinda",
+      "tagline": "Mitra Ibadah Umroh & Haji Terpercaya di Samarinda — Amanah dan Khidmat",
+      "about": "PT. Nur Devi Diva Haromain adalah biro perjalanan ibadah umroh dan haji resmi berizin PPIU Kementerian Agama di Kota Samarinda, Kalimantan Timur. Kami berkomitmen memberikan kenyamanan ibadah, kepastian keberangkatan, dan bimbingan sesuai sunnah.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "0813-4701-7822",
+        "whatsapp": "6281347017822",
+        "email": "nurdevidiva@gmail.com",
+        "address": "Kota Samarinda, Kalimantan Timur"
+      }
+    },
+    "taibah-semesta": {
+      "slug": "taibah-semesta",
+      "name": "PT. Taibah Semesta Wisata",
+      "shortName": "TAIBAH",
+      "subName": "Biro Umroh Samarinda",
+      "tagline": "Perjalanan Ibadah Penuh Berkah Menuju Baitullah Bersama Taibah",
+      "about": "PT. Taibah Semesta Wisata melayani jamaah umroh dan haji wilayah Samarinda dan Kalimantan Timur dengan bimbingan ibadah terpercaya, fasilitas hotel nyaman dekat masjid, serta pelayanan sepenuh hati.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#0f766e",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "0813-4625-0387",
+        "whatsapp": "6281346250387",
+        "email": "taibah.travel@gmail.com",
+        "address": "Kota Samarinda, Kalimantan Timur"
+      }
+    },
+    "buana-paotere": {
+      "slug": "buana-paotere",
+      "name": "Buana Paotere Wisata",
+      "shortName": "BUANA PAOTERE",
+      "subName": "Biro Umroh & Haji Makassar",
+      "tagline": "Melayani Jamaah Umroh & Haji Makassar dengan Sepenuh Hati dan Amanah",
+      "about": "Buana Paotere Wisata adalah penyelenggara perjalanan ibadah umroh dan haji terpercaya di Makassar, Sulawesi Selatan dengan izin resmi Kemenag RI serta komitmen fasilitas terbaik bagi jamaah.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#1e3a8a",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "0811-421-7918",
+        "whatsapp": "628114217918",
+        "email": "buanapaotere@gmail.com",
+        "address": "Kota Makassar, Sulawesi Selatan"
+      }
+    },
+    "wahyu-abadi": {
+      "slug": "wahyu-abadi",
+      "name": "PT. Wahyu Abadi Wisata",
+      "shortName": "WAHYU ABADI",
+      "subName": "Biro Umroh Balikpapan",
+      "tagline": "Pilihan Tepat Ibadah Umroh Nyaman dan Amanah di Balikpapan",
+      "about": "PT. Wahyu Abadi Wisata adalah biro perjalanan umroh berizin resmi Kemenag yang berpusat di Balikpapan, Kalimantan Timur, melayani jamaah dengan paket hemat, fasilitas prima, dan kepastian tiket.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#065f46",
+        "accent": "#fbbf24"
+      },
+      "contact": {
+        "phone": "0811-540-128",
+        "whatsapp": "62811540128",
+        "email": "wahyuabadiwisata@gmail.com",
+        "address": "Kota Balikpapan, Kalimantan Timur"
+      }
+    },
+    "anmar-binawisata": {
+      "slug": "anmar-binawisata",
+      "name": "PT. Anmar Binawisata",
+      "shortName": "ANMAR TOUR",
+      "subName": "Biro Umroh & Haji Makassar",
+      "tagline": "Khidmat Melayani Ibadah Umroh Sesuai Sunnah di Kota Makassar",
+      "about": "PT. Anmar Binawisata hadir sebagai biro travel umroh terpercaya di Sulawesi Selatan yang mengutamakan kenyamanan beribadah serta pendampingan muthawif berpengalaman selama di Tanah Suci.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#1e40af",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "0811-412-212",
+        "whatsapp": "62811412212",
+        "email": "anmarbinawisata@gmail.com",
+        "address": "Kota Makassar, Sulawesi Selatan"
+      }
+    },
+    "al-bis-nusa": {
+      "slug": "al-bis-nusa",
+      "name": "PT. Al-Bis Nusa Wisata",
+      "shortName": "AL-BIS TOUR",
+      "subName": "Biro Umroh Banjarbaru",
+      "tagline": "Amanah, Transparan, dan Membimbing Menuju Umroh Mabrur",
+      "about": "PT. Al-Bis Nusa Wisata melayani warga Banjarbaru dan Kalimantan Selatan dengan izin resmi PPIU Kemenag RI, menghadirkan paket perjalanan umroh berkala dengan harga terjangkau dan pelayanan istimewa.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#0f766e",
+        "accent": "#eab308"
+      },
+      "contact": {
+        "phone": "0811-500-974",
+        "whatsapp": "62811500974",
+        "email": "albisnusawisata@gmail.com",
+        "address": "Kota Banjarbaru, Kalimantan Selatan"
+      }
+    },
+    "meida-wisata": {
+      "slug": "meida-wisata",
+      "name": "PT. Meida Wisata",
+      "shortName": "MEIDA WISATA",
+      "subName": "Biro Umroh & Haji Makassar",
+      "tagline": "Kemudahan dan Kenyamanan Ibadah Jamaah adalah Prioritas Utama Kami",
+      "about": "PT. Meida Wisata adalah biro penyelenggara haji dan umroh di Makassar yang telah berizin resmi Kemenag RI. Berpengalaman mendampingi ribuan jamaah dengan fasilitas hotel terdekat dan jadwal pasti.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#15803d",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "0811-444-884",
+        "whatsapp": "62811444884",
+        "email": "meidawisata@gmail.com",
+        "address": "Kota Makassar, Sulawesi Selatan"
+      }
+    },
+    "arafah-farhana": {
+      "slug": "arafah-farhana",
+      "name": "PT. Arafah Farhana Wisata",
+      "shortName": "ARAFAH FARHANA",
+      "subName": "Biro Umroh Pinrang",
+      "tagline": "Biro Umroh Resmi PPIU Pilihan Utama Jamaah Pinrang & Ajatappareng",
+      "about": "PT. Arafah Farhana Wisata adalah biro travel umroh berizin resmi Kementerian Agama RI di Kabupaten Pinrang, Sulawesi Selatan. Melayani jamaah dengan komitmen kepastian tiket, visa resmi, dan hotel berkelas.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#0369a1",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "0852-4206-9321",
+        "whatsapp": "6285242069321",
+        "email": "arafahfarhana@gmail.com",
+        "address": "Kabupaten Pinrang, Sulawesi Selatan"
+      }
+    },
+    "safari-borneo": {
+      "slug": "safari-borneo",
+      "name": "PT. Safari Borneo Tour & Travel",
+      "shortName": "SAFARI BORNEO",
+      "subName": "Biro Umroh Banjarbaru",
+      "tagline": "Sahabat Terpercaya Perjalanan Ibadah Umroh Anda dari Banua ke Tanah Suci",
+      "about": "PT. Safari Borneo Tour & Travel adalah anggota HIMPUH berizin resmi di Banjarbaru, Kalimantan Selatan, memberikan layanan bimbingan ibadah komprehensif, penerbangan nyaman, dan hotel representatif.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "0811-512-555",
+        "whatsapp": "62811512555",
+        "email": "safariborneo@gmail.com",
+        "address": "Kota Banjarbaru, Kalimantan Selatan"
+      }
+    },
+    "safir-almadina": {
+      "slug": "safir-almadina",
+      "name": "PT. Safir Almadina Internasional",
+      "shortName": "SAFIR ALMADINA",
+      "subName": "Biro Umroh Lampung",
+      "tagline": "Ibadah Nyaman, Tenang, dan Khusyuk Bersama Safir Almadina Lampung",
+      "about": "PT. Safir Almadina Internasional adalah PPIU anggota HIMPUH di Bandar Lampung, melayani jamaah umroh dan haji khusus dengan dedikasi tinggi, kepastian keberangkatan, dan pendampingan ibadah intensif.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#1e3a8a",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "0813-6931-2763",
+        "whatsapp": "6281369312763",
+        "email": "safir.almadina@gmail.com",
+        "address": "Kota Bandar Lampung, Lampung"
+      }
     }
   }
 }
