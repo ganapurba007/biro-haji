@@ -2531,6 +2531,190 @@
           ]
         }
       ]
+    },
+    "amanah-arafah": {
+      "name": "PT. Amanah Arafah Makkah Madinah",
+      "shortName": "Amanah Arafah Travel",
+      "tagline": "Perjalanan Ibadah Khusyuk dan Penuh Berkah",
+      "description": "Penyelenggara umroh dan haji terpercaya di Samarinda dengan bimbingan ibadah intensif dan akomodasi terbaik.",
+      "address": "Jl. Sultan Sulaiman No. 18 RT. 11 Kel. Sambutan, Samarinda, Kaltim",
+      "phone": "082117010732",
+      "whatsapp": "082117010732",
+      "email": "amanaharafah.travel@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "amanah-arafah-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct / Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "amanah-arafah-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
+    },
+    "maali-wisata": {
+      "name": "PT. Ma'ali Wisata",
+      "shortName": "Ma'ali Wisata",
+      "tagline": "Melayani Sepenuh Hati Tamu Allah ke Baitullah",
+      "description": "Biro perjalanan haji dan umroh profesional Samarinda dengan paket hotel berbintang dekat Masjidil Haram.",
+      "address": "Jl. Kadri Oening Ruko 5 RT. 21 Air Hitam, Samarinda, Kaltim",
+      "phone": "08115575051",
+      "whatsapp": "08115575051",
+      "email": "maaliwisata.smr@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "maali-wisata-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct / Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "maali-wisata-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
+    },
+    "jasa-wisata-nusantara": {
+      "name": "PT. Jasa Wisata Nusantara",
+      "shortName": "Jasa Wisata Nusantara",
+      "tagline": "Kenyamanan dan Kepastian Ibadah Anda di Tanah Suci",
+      "description": "Biro umroh resmi Kemenag di Samarinda dengan pendampingan muthawif berpengalaman dan fasilitas lengkap.",
+      "address": "Jl. Wijaya Kusuma 1 No. 89 RT. 19 Kel. Air Putih, Samarinda, Kaltim",
+      "phone": "081250901225",
+      "whatsapp": "081250901225",
+      "email": "jasawisatanusantara@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "jasa-wisata-nusantara-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct / Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "jasa-wisata-nusantara-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
+    },
+    "aliston-buana": {
+      "name": "PT. Aliston Buana Wisata",
+      "shortName": "Aliston Buana Wisata",
+      "tagline": "Sahabat Perjalanan Ibadah Suci Menuju Mabrur",
+      "description": "Penyelenggara umroh dan haji berizin resmi di Samarinda yang mengutamakan kenyamanan dan kepuasan jamaah.",
+      "address": "Jl. Jakarta 2 Perum Samalou Residence Blok F No. 2, Loa Bakung, Samarinda, Kaltim",
+      "phone": "082154088135",
+      "whatsapp": "082154088135",
+      "email": "alistonbuana.travel@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "aliston-buana-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct / Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "aliston-buana-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
     }
   }
 }
