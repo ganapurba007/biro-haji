@@ -1514,25 +1514,6 @@
         "address": "Taman Murni, Jl. RA. Kartini No.3, Sragen, Jawa Tengah 57212"
       }
     },
-    "bumi-nata-wisata": {
-      "slug": "bumi-nata-wisata",
-      "name": "PT. Bumi Nata Wisata (Umroh Bahagia)",
-      "shortName": "BUMI NATA",
-      "subName": "Biro Umroh Ramah Lansia",
-      "tagline": "Biro Perjalanan Umroh & Haji Nyaman, Ramah Lansia, dan Bimbingan Penuh",
-      "about": "PT. Bumi Nata Wisata menghadirkan paket umroh profesional, ramah lansia, penerbangan langsung Solo-Jeddah, dan penginapan dekat pelataran suci.",
-      "logo": "/images/logos/default-biro.svg",
-      "colors": {
-        "brand": "#065f46",
-        "accent": "#d97706"
-      },
-      "contact": {
-        "phone": "085726064923",
-        "whatsapp": "6285726064923",
-        "email": "info@umrohbahagia.my.id",
-        "address": "Jl. Brigjen Katamso No.18 Sragen Kulon / Masaran, Sragen & Karanganyar"
-      }
-    },
     "umroh-rmi-kartasura": {
       "slug": "umroh-rmi-kartasura",
       "name": "Umroh RMI Kartasura",
@@ -1552,44 +1533,6 @@
         "address": "Jl. Amarta No. 7 Ngabeyan, Kartasura, Sukoharjo, Jawa Tengah"
       }
     },
-    "ufuk-umrah-magelang": {
-      "slug": "ufuk-umrah-magelang",
-      "name": "PT. Upaya Fastabiqul Khoirot (UFUK Umrah)",
-      "shortName": "UFUK UMRAH",
-      "subName": "Biro Haji & Umroh Magelang",
-      "tagline": "Travel Umroh & Haji Resmi Kemenag di Magelang — Amanah Menuju Baitullah",
-      "about": "UFUK (PT Upaya Fastabiqul Khoirot) adalah biro umroh resmi berizin PPIU di Magelang, melayani paket umroh reguler, VIP, dan plus dengan kenyamanan maksimal.",
-      "logo": "/images/logos/default-biro.svg",
-      "colors": {
-        "brand": "#0f766e",
-        "accent": "#f59e0b"
-      },
-      "contact": {
-        "phone": "089655500000",
-        "whatsapp": "6289655500000",
-        "email": "kontak@ufukumrah.com",
-        "address": "Bentingan, Paremono, Kec. Mungkid, Kabupaten Magelang, Jawa Tengah 56512"
-      }
-    },
-    "taqwa-tours-magelang": {
-      "slug": "taqwa-tours-magelang",
-      "name": "Taqwa Tours Magelang",
-      "shortName": "TAQWA TOURS",
-      "subName": "Penyelenggara Umroh & Haji",
-      "tagline": "Layanan Ibadah Umroh Berkualitas, Nyaman, dan Penuh Berkah",
-      "about": "Taqwa Tours Magelang adalah penyelenggara resmi perjalanan ibadah umroh dan haji di Magelang yang dipercaya masyarakat untuk membimbing ibadah ke Tanah Suci.",
-      "logo": "/images/logos/default-biro.svg",
-      "colors": {
-        "brand": "#1e3a8a",
-        "accent": "#d97706"
-      },
-      "contact": {
-        "phone": "081139700700",
-        "whatsapp": "6281139700700",
-        "email": "info@bertaqwa.id",
-        "address": "Jl. Urip Sumoharjo No. 37C, Wates, Magelang Utara, Jawa Tengah 56113"
-      }
-    },
     "alsha-tour-magelang": {
       "slug": "alsha-tour-magelang",
       "name": "Alsha Tour Magelang",
@@ -1607,44 +1550,6 @@
         "whatsapp": "6281228832822",
         "email": "kontak@alsha.id",
         "address": "Jl. Sumba No. 129, Wates, Magelang Utara, Jawa Tengah 56113"
-      }
-    },
-    "naja-tours-magelang": {
-      "slug": "naja-tours-magelang",
-      "name": "Naja Tours Magelang",
-      "shortName": "NAJA TOURS",
-      "subName": "Biro Perjalanan Umroh & Haji",
-      "tagline": "Pelayanan Ramah, Harga Terjangkau, dan Bimbingan Ibadah Khusyuk",
-      "about": "Naja Tours Magelang berdedikasi melayani calon jamaah dengan kepastian keberangkatan dan bimbingan muthowif yang sabar dan berpengalaman.",
-      "logo": "/images/logos/default-biro.svg",
-      "colors": {
-        "brand": "#047857",
-        "accent": "#f59e0b"
-      },
-      "contact": {
-        "phone": "081329068466",
-        "whatsapp": "6281329068466",
-        "email": "kontak@najatours.com",
-        "address": "Jl. Kyai Abdan, Tepo, Dlimas, Kec. Tegalrejo, Kab. Magelang 56192"
-      }
-    },
-    "aghits-star-magelang": {
-      "slug": "aghits-star-magelang",
-      "name": "Aghits Star Group Magelang",
-      "shortName": "AGHITS STAR",
-      "subName": "Biro Umroh & Haji Khusus",
-      "tagline": "Pengalaman Terbaik Perjalanan Ibadah ke Tanah Suci",
-      "about": "Aghits Star Group Magelang berpengalaman memberangkatkan jamaah umroh dengan kualitas layanan premium, hotel nyaman, dan bimbingan ibadah terpercaya.",
-      "logo": "/images/logos/default-biro.svg",
-      "colors": {
-        "brand": "#1e3a8a",
-        "accent": "#f59e0b"
-      },
-      "contact": {
-        "phone": "085865899952",
-        "whatsapp": "6285865899952",
-        "email": "info@aghitsstar.com",
-        "address": "Jl. Pahlawan No. 135, Potrobangsan, Magelang Utara, Jawa Tengah 56116"
       }
     }
   }
