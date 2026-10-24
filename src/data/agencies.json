@@ -1861,52 +1861,6 @@
         }
       ]
     },
-    "alkhairat-tour": {
-      "name": "PT. Alkhairat Tour Travel",
-      "shortName": "Alkhairat Tour Travel",
-      "tagline": "Amanah, Resmi, dan Terjangkau",
-      "description": "Penyelenggara perjalanan umroh Samarinda dengan penerbangan nyaman dan pendampingan menyeluruh dari manasik hingga pulang.",
-      "address": "Kota Samarinda, Kalimantan Timur",
-      "phone": "08125575477",
-      "whatsapp": "08125575477",
-      "email": "alkhairattour@gmail.com",
-      "features": [
-        "Izin Resmi Kemenag RI",
-        "Hotel Bintang & Dekat Masjid",
-        "Pembimbing & Muthawif Berpengalaman",
-        "Handling Bandara & Perlengkapan Lengkap"
-      ],
-      "packages": [
-        {
-          "id": "alkhairat-tour-reguler",
-          "name": "Umroh Reguler 9 Hari",
-          "duration": "9 Hari",
-          "price": "Rp 29.500.000",
-          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
-          "flight": "Lion Air / Batik Air Direct / Transit",
-          "features": [
-            "Tiket PP",
-            "Visa Umroh",
-            "Makan 3x Sehari",
-            "Handling & Perlengkapan"
-          ]
-        },
-        {
-          "id": "alkhairat-tour-vip",
-          "name": "Umroh VIP Bintang 5",
-          "duration": "12 Hari",
-          "price": "Rp 36.500.000",
-          "hotel": "Hotel Bintang 5 Dekat Pelataran",
-          "flight": "Garuda Indonesia / Saudia Airlines",
-          "features": [
-            "Tiket PP",
-            "Visa Umroh",
-            "Fullboard Hotel Bintang 5",
-            "Handling VIP & Kereta Cepat"
-          ]
-        }
-      ]
-    },
     "sabilur-raasyad": {
       "name": "PT. Sabilur Raasyad Tour and Travel",
       "shortName": "Sabilur Raasyad Tour",
