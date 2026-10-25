@@ -1890,46 +1890,47 @@
     },
     "sabilur-raasyad": {
       "name": "PT. Sabilur Raasyad Tour and Travel",
-      "shortName": "Sabilur Raasyad Tour",
-      "tagline": "Kekeluargaan & Pelayanan Khidmat",
-      "description": "Melayani keberangkatan umroh warga Samarinda dan sekitarnya dengan bimbingan ustadz pembimbing langsung.",
-      "address": "Kota Samarinda, Kalimantan Timur",
+      "shortName": "Sabilur Raasyad",
+      "tagline": "Bimbingan Ibadah Sesuai Sunnah & Amanah di Tanah Suci",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kemenag RI terakreditasi A di Samarinda, dipimpin oleh Guru Abrar. Melayani perjalanan ibadah umroh reguler dan plus dengan fasilitas hotel dekat pelataran dan bimbingan manasik intensif.",
+      "address": "Jl. KH. Harun Nafsi No. 33 RT. 015, Kel. Rapak Dalam, Kec. Loa Janan Ilir, Kota Samarinda, Kalimantan Timur",
       "phone": "082251139999",
       "whatsapp": "082251139999",
-      "email": "sabilurraasyad@gmail.com",
+      "email": "sabilurraasyadtour@gmail.com",
       "features": [
-        "Izin Resmi Kemenag RI",
-        "Hotel Bintang & Dekat Masjid",
-        "Pembimbing & Muthawif Berpengalaman",
+        "Izin Resmi PPIU Kemenag RI (Akreditasi A)",
+        "Bimbingan Ibadah Intensif Bersama Guru Abrar",
+        "Hotel Nyaman Dekat Pelataran Masjid",
         "Handling Bandara & Perlengkapan Lengkap"
       ],
       "packages": [
         {
-          "id": "sabilur-raasyad-reguler",
-          "name": "Umroh Reguler 9 Hari",
-          "duration": "9 Hari",
-          "price": "Rp 29.500.000",
-          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
-          "flight": "Lion Air / Batik Air Direct / Transit",
+          "id": "sabilur-reguler",
+          "name": "Umroh Reguler Keberangkatan Samarinda / Balikpapan",
+          "duration": "9 - 12 Hari",
+          "price": "Rp 31.500.000",
+          "hotel": "Hotel Bintang 4 / Bintang 5 Dekat Masjid",
+          "flight": "Lion Air / Batik Air / Saudia Airlines",
           "features": [
-            "Tiket PP",
-            "Visa Umroh",
-            "Makan 3x Sehari",
-            "Handling & Perlengkapan"
+            "Tiket Pesawat PP",
+            "Visa Umroh Resmi",
+            "Fullboard Hotel",
+            "Muthawif Berpengalaman",
+            "Air Zamzam"
           ]
         },
         {
-          "id": "sabilur-raasyad-vip",
-          "name": "Umroh VIP Bintang 5",
-          "duration": "12 Hari",
-          "price": "Rp 36.500.000",
-          "hotel": "Hotel Bintang 5 Dekat Pelataran",
-          "flight": "Garuda Indonesia / Saudia Airlines",
+          "id": "sabilur-vip",
+          "name": "Umroh Plus / Ramadhan Samarinda",
+          "duration": "12 - 16 Hari",
+          "price": "Rp 38.500.000",
+          "hotel": "Hotel Bintang 5 Depan Pelataran",
+          "flight": "Garuda Indonesia / Saudia Direct",
           "features": [
-            "Tiket PP",
-            "Visa Umroh",
-            "Fullboard Hotel Bintang 5",
-            "Handling VIP & Kereta Cepat"
+            "Tiket Eksekutif PP",
+            "Hotel Pelataran Makkah & Madinah",
+            "Ziarah & City Tour Khusus",
+            "Kereta Cepat Haramain"
           ]
         }
       ]
@@ -2854,98 +2855,6 @@
         }
       ]
     },
-    "sukkari-halal-tour": {
-      "name": "PT. Sukkari Halal Tour",
-      "shortName": "Labbaika Tour",
-      "tagline": "Pelayanan Sepenuh Hati Membimbing Jamaah ke Baitullah",
-      "description": "Penyelenggara perjalanan ibadah umroh resmi Kemenag RI di Kota Pekanbaru Riau, menghadirkan fasilitas terpercaya, hotel dekat masjid, dan bimbingan ibadah sesuai sunnah.",
-      "address": "Jl. HR. Soebrantas No. 88, Panam, Kota Pekanbaru, Riau",
-      "phone": "082297080801",
-      "whatsapp": "082297080801",
-      "email": "sukkaritour@gmail.com",
-      "features": [
-        "Izin Resmi PPIU Kemenag RI",
-        "Hotel Berbintang Dekat Pelataran Masjid",
-        "Pembimbing & Muthawif Berpengalaman",
-        "Handling Lengkap & Manasik Intensif"
-      ],
-      "packages": [
-        {
-          "id": "sukkari-reguler",
-          "name": "Umroh Reguler 9 Hari",
-          "duration": "9 Hari",
-          "price": "Rp 29.500.000",
-          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
-          "flight": "Lion Air / Batik Air Direct / Transit",
-          "features": [
-            "Tiket PP",
-            "Visa Umroh",
-            "Makan 3x Sehari",
-            "Handling & Perlengkapan"
-          ]
-        },
-        {
-          "id": "sukkari-vip",
-          "name": "Umroh VIP Bintang 5",
-          "duration": "12 Hari",
-          "price": "Rp 36.500.000",
-          "hotel": "Hotel Bintang 5 Dekat Pelataran",
-          "flight": "Garuda Indonesia / Saudia Airlines",
-          "features": [
-            "Tiket PP",
-            "Visa Umroh",
-            "Fullboard Hotel Bintang 5",
-            "Handling VIP & Kereta Cepat"
-          ]
-        }
-      ]
-    },
-    "wahdan-sabilana": {
-      "name": "PT. Wahdan Sabilana",
-      "shortName": "Wahdan Sabilana",
-      "tagline": "Sahabat Perjalanan Menuju Ridho Ilahi di Tanah Suci",
-      "description": "Biro travel umroh dan haji berizin resmi Kemenag RI di Kota Banjarmasin, berkomitmen pada kepastian keberangkatan, kenyamanan hotel, dan pembimbing ramah.",
-      "address": "Kota Banjarmasin, Kalimantan Selatan",
-      "phone": "08125178877",
-      "whatsapp": "08125178877",
-      "email": "wahdansabilana@gmail.com",
-      "features": [
-        "Izin Resmi PPIU Kemenag RI",
-        "Hotel Berbintang Dekat Pelataran Masjid",
-        "Pembimbing & Muthawif Berpengalaman",
-        "Handling Lengkap & Manasik Intensif"
-      ],
-      "packages": [
-        {
-          "id": "wahdan-reguler",
-          "name": "Umroh Reguler 9 Hari",
-          "duration": "9 Hari",
-          "price": "Rp 29.500.000",
-          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
-          "flight": "Lion Air / Batik Air Direct / Transit",
-          "features": [
-            "Tiket PP",
-            "Visa Umroh",
-            "Makan 3x Sehari",
-            "Handling & Perlengkapan"
-          ]
-        },
-        {
-          "id": "wahdan-vip",
-          "name": "Umroh VIP Bintang 5",
-          "duration": "12 Hari",
-          "price": "Rp 36.500.000",
-          "hotel": "Hotel Bintang 5 Dekat Pelataran",
-          "flight": "Garuda Indonesia / Saudia Airlines",
-          "features": [
-            "Tiket PP",
-            "Visa Umroh",
-            "Fullboard Hotel Bintang 5",
-            "Handling VIP & Kereta Cepat"
-          ]
-        }
-      ]
-    },
     "wahyu-titian-insani": {
       "name": "PT. Wahyu Titian Insani",
       "shortName": "Wahyu Titian Insani",
@@ -3222,48 +3131,97 @@
         }
       ]
     },
-    "barokah-kabah-palembang": {
-      "name": "PT. Barokah Kabah Palembang",
-      "shortName": "Bakkah Tour",
-      "tagline": "Amanah Menuntun Langkah Menuju Rumah Allah",
-      "description": "Biro perjalanan umroh resmi anggota SAPUHI di Kota Palembang, menghadirkan program umroh berkualitas dengan akomodasi dekat pelataran dan jadwal pasti.",
-      "address": "Jalan Sukorejo No. 87 Ilir Timur 3, Kota Palembang, Sumatera Selatan",
-      "phone": "08127874724",
-      "whatsapp": "08127874724",
-      "email": "barokahkabahpalembang@gmail.com",
+    "nur-devidiva-haromain": {
+      "name": "PT. Nur Devidiva Haromain",
+      "shortName": "Nur Devi Diva Haromain",
+      "tagline": "Sahabat Setia Perjalanan Ibadah Umroh dan Haji Anda",
+      "description": "Biro perjalanan ibadah umroh resmi Kemenag RI berkantor pusat di Kota Samarinda. Berkomitmen memberikan pelayanan ibadah yang nyaman, transparan, dan terpercaya bagi masyarakat Kalimantan Timur.",
+      "address": "Jl. PM. Noor No. 125, Kel. Sempaja Selatan, Kec. Samarinda Utara, Kota Samarinda, Kalimantan Timur",
+      "phone": "081347017822",
+      "whatsapp": "081347017822",
+      "email": "info@nurdevidiva.com",
       "features": [
-        "Izin Resmi PPIU Kemenag RI",
-        "Hotel Berbintang Dekat Pelataran Masjid",
-        "Pembimbing & Muthawif Berpengalaman",
-        "Handling Lengkap & Manasik Intensif"
+        "Izin PPIU Resmi Kemenag RI Kantor Pusat Samarinda",
+        "Kepastian Jadwal & Tiket Penerbangan",
+        "Pendampingan Manasik & Muthawif Ramah",
+        "Akomodasi Hotel Dekat Area Ibadah"
       ],
       "packages": [
         {
-          "id": "bakkah-reguler",
-          "name": "Umroh Reguler 9 Hari",
+          "id": "devidiva-reguler",
+          "name": "Paket Umroh Barokah 9 Hari",
           "duration": "9 Hari",
-          "price": "Rp 29.500.000",
-          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
-          "flight": "Lion Air / Batik Air Direct / Transit",
+          "price": "Rp 30.500.000",
+          "hotel": "Hotel Bintang 4 Dekat Masjid",
+          "flight": "Batik Air / Lion Air Transit",
           "features": [
             "Tiket PP",
             "Visa Umroh",
-            "Makan 3x Sehari",
-            "Handling & Perlengkapan"
+            "Makan 3x Sehari Masakan Indonesia",
+            "Bus AC Nyaman",
+            "Handling & Koper"
           ]
         },
         {
-          "id": "bakkah-vip",
-          "name": "Umroh VIP Bintang 5",
+          "id": "devidiva-vip",
+          "name": "Paket Umroh Silver 12 Hari",
           "duration": "12 Hari",
-          "price": "Rp 36.500.000",
+          "price": "Rp 36.000.000",
           "hotel": "Hotel Bintang 5 Dekat Pelataran",
           "flight": "Garuda Indonesia / Saudia Airlines",
           "features": [
+            "Tiket PP Direct",
+            "Hotel Dekat Pelataran",
+            "Handling VIP",
+            "Kereta Cepat Haramain"
+          ]
+        }
+      ]
+    },
+    "alkhairat-tour-travel": {
+      "name": "PT. Alkhairat Tour Travel",
+      "shortName": "Alkhairat Tour",
+      "tagline": "Perjalanan Ibadah Penuh Berkah, Amanah, dan Terpercaya",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah resmi Kemenag RI berkantor pusat di Samarinda Ilir. Memberikan kemudahan dan ketenangan bagi jamaah dengan pelayanan prima dan fasilitas berkualitas.",
+      "address": "Jl. Lambung Mangkurat No. 29 RT. 19, Kel. Pelita, Kec. Samarinda Ilir, Kota Samarinda, Kalimantan Timur",
+      "phone": "08125575477",
+      "whatsapp": "08125575477",
+      "email": "alkhairattour@gmail.com",
+      "features": [
+        "Izin PPIU Resmi Kemenag RI Kantor Pusat",
+        "Pemberangkatan Pasti & Transparan",
+        "Bimbingan Ibadah Sesuai Al-Quran dan Sunnah",
+        "Layanan Ramah Jamaah Lansia & Keluarga"
+      ],
+      "packages": [
+        {
+          "id": "alkhairat-hemat",
+          "name": "Paket Umroh Hemat 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.800.000",
+          "hotel": "Hotel Bintang 3 / Bintang 4",
+          "flight": "Lion Air / Super Air Jet Direct/Transit",
+          "features": [
             "Tiket PP",
-            "Visa Umroh",
-            "Fullboard Hotel Bintang 5",
-            "Handling VIP & Kereta Cepat"
+            "Visa Resmi",
+            "Akomodasi Hotel Nyaman",
+            "Konsumsi 3x Sehari",
+            "Handling & Manasik"
+          ]
+        },
+        {
+          "id": "alkhairat-vip",
+          "name": "Paket Umroh Premium 12 Hari",
+          "duration": "12 Hari",
+          "price": "Rp 35.500.000",
+          "hotel": "Hotel Bintang 5 Pelataran Masjid",
+          "flight": "Saudia Airlines / Garuda",
+          "features": [
+            "Tiket PP Direct",
+            "Fullboard Hotel Mewah",
+            "Handling VIP",
+            "Kereta Cepat",
+            "Free Ziarah Thaif"
           ]
         }
       ]
