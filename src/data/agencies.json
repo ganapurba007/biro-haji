@@ -3084,98 +3084,6 @@
         }
       ]
     },
-    "namira-amalia-utama": {
-      "name": "PT. Namira Amalia Utama",
-      "shortName": "Namira Amalia",
-      "tagline": "Melayani Ibadah Umroh dan Haji Khusus Amanah & Sesuai Sunnah",
-      "description": "Penyelenggara Perjalanan Ibadah Umroh dan Haji Khusus (PIHK) resmi Kementerian Agama RI (SK No. 349 Th 2020) anggota HIMPUH berpusat di Sampit, Kotawaringin Timur. Berkomitmen memberikan bimbingan ibadah kaffah, hotel nyaman, serta kepastian keberangkatan.",
-      "address": "Jl. Kopi Selatan No. 15 Sampit, Kec. Mentawa Baru Ketapang, Kab. Kotawaringin Timur, Kalimantan Tengah",
-      "phone": "0811525678",
-      "whatsapp": "0811525678",
-      "email": "pt.nautama@gmail.com",
-      "features": [
-        "Izin Resmi PIHK & PPIU Kemenag RI",
-        "Anggota Resmi Asosiasi HIMPUH",
-        "Akomodasi Hotel Nyaman Dekat Masjid",
-        "Bimbingan Ibadah & Manasik Sesuai Sunnah"
-      ],
-      "packages": [
-        {
-          "id": "namira-reguler",
-          "name": "Paket Umroh Reguler Sampit",
-          "duration": "9 - 12 Hari",
-          "price": "Rp 32.500.000",
-          "hotel": "Hotel Bintang 4 Makkah & Madinah",
-          "flight": "Lion Air / Saudia Airlines",
-          "features": [
-            "Tiket PP",
-            "Visa Umroh",
-            "Makan 3x Sehari",
-            "Handling & Perlengkapan"
-          ]
-        },
-        {
-          "id": "namira-vip",
-          "name": "Paket Haji Khusus & Umroh Plus",
-          "duration": "12 - 25 Hari",
-          "price": "Rp 42.000.000",
-          "hotel": "Hotel Bintang 5 Pelataran",
-          "flight": "Garuda Indonesia / Saudia",
-          "features": [
-            "Tiket Direct PP",
-            "Hotel Depan Masjid",
-            "Kereta Cepat Haramain",
-            "Ziarah Lengkap"
-          ]
-        }
-      ]
-    },
-    "muslimun-travel": {
-      "name": "PT. Muslimun Travel",
-      "shortName": "Muslimun Travel",
-      "tagline": "Sahabat Perjalanan Ibadah Menuju Baitullah yang Mabrur",
-      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kemenag RI (SK No. 257 Th 2017) anggota HIMPUH berkantor pusat di Kertak Hanyar, Banjar, Kalimantan Selatan. Melayani jamaah umroh Kalsel dengan jadwal terencana dan pendampingan ibadah intensif.",
-      "address": "Jl. Raya Beruntung Jaya No. 15 RT.001 RW.01, Kertak Hanyar, Kab. Banjar, Kalimantan Selatan",
-      "phone": "08115232895",
-      "whatsapp": "08115232895",
-      "email": "muslimun.travel15@gmail.com",
-      "features": [
-        "Izin Resmi PPIU Kemenag RI No. 257/2017",
-        "Anggota Resmi Asosiasi HIMPUH",
-        "Penerbangan Nyaman dari Banjarmasin",
-        "Muthawif Berpengalaman Sesuai Sunnah"
-      ],
-      "packages": [
-        {
-          "id": "muslimun-reguler",
-          "name": "Umroh Reguler Keberangkatan Banjarmasin",
-          "duration": "9 - 12 Hari",
-          "price": "Rp 31.900.000",
-          "hotel": "Hotel Bintang 4 Dekat Masjid",
-          "flight": "Lion Air / Batik Air / Saudia",
-          "features": [
-            "Tiket PP Banjarmasin",
-            "Visa Umroh",
-            "Hotel & Konsumsi Fullboard",
-            "City Tour Makkah & Madinah"
-          ]
-        },
-        {
-          "id": "muslimun-ramadhan",
-          "name": "Umroh Ramadhan & Syawal Kalsel",
-          "duration": "12 - 15 Hari",
-          "price": "Rp 39.500.000",
-          "hotel": "Hotel Bintang 4 / 5 Ring 1",
-          "flight": "Garuda Indonesia / Saudia Airlines",
-          "features": [
-            "Tiket Penerbangan Utama",
-            "Hotel Dekat Pelataran",
-            "Air Zamzam 5L",
-            "Handling Eksklusif"
-          ]
-        }
-      ]
-    },
     "citra-reksa-tama": {
       "name": "PT. Citra Reksa Tama Tour & Travel",
       "shortName": "Citra Tour",
@@ -3224,32 +3132,92 @@
     },
     "sulthan-silver-silk": {
       "name": "PT. Sulthan Silver Silk",
-      "shortName": "Sulthan Silver",
+      "shortName": "Sulthan Silver Silk",
       "tagline": "Pelayanan Umroh Prima dan Terpercaya Menuju Baitullah",
-      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kemenag RI (SK No. 12540001126980004) anggota HIMPUH berkantor pusat di Jl. Arifin Ahmad Pekanbaru, Riau. Menghadirkan paket umroh berkelas dengan bimbingan ibadah kaffah.",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kementerian Agama RI (SK No. 12540001126980004) anggota HIMPUH berkantor pusat di Jl. Arifin Ahmad Pekanbaru, Riau. Menghadirkan paket ibadah umroh berkualitas dengan hotel dekat pelataran masjid, bimbingan manasik intensif, serta kepastian tiket dan jadwal.",
       "address": "Jl. Arifin Ahmad No. 108-109, Bukit Raya, Kota Pekanbaru, Riau",
       "phone": "08117578333",
       "whatsapp": "08117578333",
-      "email": "sulthansilversilk@gmail.com",
+      "email": "sulthansilver@gmail.com",
       "features": [
         "Izin Resmi PPIU Kemenag RI",
         "Anggota Resmi Asosiasi HIMPUH",
-        "Hotel Bintang 5 Dekat Pelataran",
-        "Pembimbing Ibadah Berpengalaman"
+        "Hotel Dekat Pelataran Masjidil Haram & Nabawi",
+        "Pembimbing Ibadah Berpengalaman Sesuai Sunnah"
       ],
       "packages": [
         {
           "id": "sulthan-reguler",
-          "name": "Paket Umroh Silver Executive",
+          "name": "Paket Umroh Silver Executive Pekanbaru",
           "duration": "9 - 12 Hari",
-          "price": "Rp 33.000.000",
-          "hotel": "Hotel Bintang 5 Pelataran",
-          "flight": "Saudia Airlines / Garuda",
+          "price": "Rp 31.500.000",
+          "hotel": "Hotel Bintang 4 / 5 Pelataran",
+          "flight": "Saudia Airlines / Scoot / Batik Air",
           "features": [
-            "Tiket PP",
+            "Tiket PP Pekanbaru",
             "Visa Umroh",
-            "Hotel Depan Masjid",
-            "Muthawif Pembimbing"
+            "Makan 3x Fullboard",
+            "City Tour Makkah & Madinah"
+          ]
+        },
+        {
+          "id": "sulthan-vip",
+          "name": "Paket Umroh VIP & Ramadhan",
+          "duration": "12 - 15 Hari",
+          "price": "Rp 39.500.000",
+          "hotel": "Hotel Bintang 5 Depan Masjid",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket Direct PP",
+            "Hotel Depan Masjidil Haram",
+            "Kereta Cepat Haramain",
+            "Handling VIP"
+          ]
+        }
+      ]
+    },
+    "hayata-travel": {
+      "name": "PT. Cahaya Alam Wisata",
+      "shortName": "Hayata Travel",
+      "tagline": "Ibadah Aman, Nyaman, dan Berkah Bersama Hayata Travel Makassar",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kementerian Agama RI (SK No. PPIU-032-1223) berkantor pusat di Kota Makassar, Sulawesi Selatan. Berpengalaman memberangkatkan ribuan jamaah dengan fasilitas hotel berbintang, penerbangan nyaman langsung dari Makassar, serta manasik ibadah intensif.",
+      "address": "Jl. Batara Bira, Ruko Baddoka Mas Blok A10, Biringkanaya, Kota Makassar, Sulawesi Selatan 90243",
+      "phone": "085255625944",
+      "whatsapp": "085255625944",
+      "email": "cahayaalamwisata.hayata@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI Terakreditasi",
+        "Penerbangan Nyaman Langsung dari Makassar",
+        "Bimbingan Manasik Bersama Asatidzah Berpengalaman",
+        "Akomodasi Hotel Nyaman & Dekat Masjid"
+      ],
+      "packages": [
+        {
+          "id": "hayata-reguler",
+          "name": "Paket Umroh Reguler 13 Hari Makassar",
+          "duration": "13 Hari",
+          "price": "Rp 32.800.000",
+          "hotel": "Hotel Bintang 4 Makkah & Madinah",
+          "flight": "Lion Air / Saudia Airlines Direct Makassar",
+          "features": [
+            "Tiket PP Direct Makassar",
+            "Visa Umroh",
+            "Makan Menu Indonesia 3x",
+            "Bus AC Eksekutif"
+          ]
+        },
+        {
+          "id": "hayata-ramadhan",
+          "name": "Paket Umroh Awal Ramadhan & Syawal",
+          "duration": "13 - 16 Hari",
+          "price": "Rp 41.000.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP Full Service",
+            "Hotel Ring 1 Depan Masjid",
+            "Air Zamzam 5 Liter",
+            "Handling Eksklusif"
           ]
         }
       ]
