@@ -2807,6 +2807,466 @@
           ]
         }
       ]
+    },
+    "bunda-asri-lestari": {
+      "name": "PT. Bunda Asri Lestari",
+      "shortName": "Bunda Asri Lestari",
+      "tagline": "Ibadah Khusyuk dan Nyaman Bersama Bunda Asri Lestari",
+      "description": "Biro perjalanan umroh dan haji berizin resmi Kemenag RI di Kota Bandar Lampung, mengutamakan kepastian jadwal, akomodasi hotel nyaman dekat masjid, serta bimbingan ibadah intensif.",
+      "address": "Jl. Teuku Umar No. 90 RT. 001 LK. I, Kel. Penengahan, Kedaton, Bandar Lampung, Lampung",
+      "phone": "0811795838",
+      "whatsapp": "0811795838",
+      "email": "bundaasrilestari@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "bunda-asri-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct / Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "bunda-asri-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
+    },
+    "sukkari-halal-tour": {
+      "name": "PT. Sukkari Halal Tour",
+      "shortName": "Labbaika Tour",
+      "tagline": "Pelayanan Sepenuh Hati Membimbing Jamaah ke Baitullah",
+      "description": "Penyelenggara perjalanan ibadah umroh resmi Kemenag RI di Kota Pekanbaru Riau, menghadirkan fasilitas terpercaya, hotel dekat masjid, dan bimbingan ibadah sesuai sunnah.",
+      "address": "Jl. HR. Soebrantas No. 88, Panam, Kota Pekanbaru, Riau",
+      "phone": "082297080801",
+      "whatsapp": "082297080801",
+      "email": "sukkaritour@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "sukkari-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct / Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "sukkari-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
+    },
+    "wahdan-sabilana": {
+      "name": "PT. Wahdan Sabilana",
+      "shortName": "Wahdan Sabilana",
+      "tagline": "Sahabat Perjalanan Menuju Ridho Ilahi di Tanah Suci",
+      "description": "Biro travel umroh dan haji berizin resmi Kemenag RI di Kota Banjarmasin, berkomitmen pada kepastian keberangkatan, kenyamanan hotel, dan pembimbing ramah.",
+      "address": "Kota Banjarmasin, Kalimantan Selatan",
+      "phone": "08125178877",
+      "whatsapp": "08125178877",
+      "email": "wahdansabilana@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "wahdan-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct / Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "wahdan-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
+    },
+    "wahyu-titian-insani": {
+      "name": "PT. Wahyu Titian Insani",
+      "shortName": "Wahyu Titian Insani",
+      "tagline": "Kenyamanan dan Kekhusyukan Ibadah Jamaah Prioritas Utama",
+      "description": "Penyelenggara ibadah umroh terpercaya berizin PPIU di Banjarmasin dengan komitmen fasilitas prima, jadwal pasti, dan handling profesional.",
+      "address": "Kota Banjarmasin, Kalimantan Selatan",
+      "phone": "08125048123",
+      "whatsapp": "08125048123",
+      "email": "wahyutitianinsani@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "wahyu-titian-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct / Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "wahyu-titian-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
+    },
+    "singadilaga-wisata": {
+      "name": "PT. Singadilaga Bersaudara Wisata",
+      "shortName": "SDL Tour",
+      "tagline": "Amanah, Transparan, dan Membimbing dengan Tulus",
+      "description": "Biro perjalanan umroh dan haji resmi berizin Kemenag RI di Baturaja OKU Sumatera Selatan, menyediakan paket umroh hemat hingga VIP dengan pelayanan prima.",
+      "address": "Baturaja, Kab. Ogan Komering Ulu, Sumatera Selatan",
+      "phone": "081273888844",
+      "whatsapp": "081273888844",
+      "email": "sdltour.baturaja@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "singadilaga-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct / Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "singadilaga-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
+    },
+    "haafa-barokah-mulia": {
+      "name": "PT. Haafa Barokah Mulia",
+      "shortName": "Haafa Tour",
+      "tagline": "Mitra Ibadah Menuju Kemabruran di Tanah Suci",
+      "description": "Penyelenggara umroh dan haji berizin resmi Kemenag RI di Kota Jambi dengan fasilitas hotel berbintang, maskapai terbaik, dan muthawif berpengalaman.",
+      "address": "Jl. Abdul Muis RT 015 Lingkar Selatan, Jambi Selatan, Kota Jambi",
+      "phone": "082181816669",
+      "whatsapp": "082181816669",
+      "email": "haafatour.jambi@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "haafa-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct / Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "haafa-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
+    },
+    "najah-hurrahman": {
+      "name": "PT. Najah Hurrahman",
+      "shortName": "NH Tour",
+      "tagline": "Kemudahan Melangkah ke Baitullah Bersama NH Tour",
+      "description": "Biro umroh resmi PPIU Kemenag RI di Pangkalan Bun Kotawaringin Barat Kalimantan Tengah, mengedepankan pelayanan kekeluargaan dan kepastian ibadah.",
+      "address": "Pangkalan Bun, Kab. Kotawaringin Barat, Kalimantan Tengah",
+      "phone": "08125000557",
+      "whatsapp": "08125000557",
+      "email": "najahhurrahman@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "najah-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct / Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "najah-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
+    },
+    "zahra-ibadah-umat": {
+      "name": "PT. Zahra Ibadah Umat",
+      "shortName": "Zahra Ibadah Umat",
+      "tagline": "Ibadah Tenang, Fasilitas Terjamin, Meraih Mabrur",
+      "description": "Biro perjalanan ibadah umroh anggota SAPUHI resmi di Palembang Sumatera Selatan, menyediakan akomodasi terbaik dan bimbingan manasik intensif.",
+      "address": "Jl. Srijaya Negara No. 05/2288, Bukit Lama, Kota Palembang, Sumatera Selatan",
+      "phone": "081367569993",
+      "whatsapp": "081367569993",
+      "email": "zahraibadahumat@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "zahra-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct / Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "zahra-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
+    },
+    "bagus-umratama": {
+      "name": "PT. Bagus Umratama",
+      "shortName": "Bagus Umratama",
+      "tagline": "Pelayanan Terbaik Menuju Ridho Allah di Baitullah",
+      "description": "Penyelenggara perjalanan ibadah umroh terpercaya berizin PPIU Kemenag di Banjarmasin Timur, dengan fasilitas hotel nyaman dan pendampingan terpadu.",
+      "address": "Jl. Pramuka No. 45 RT. 12, Kel. Pengambangan, Banjarmasin Timur, Kalimantan Selatan",
+      "phone": "085821491119",
+      "whatsapp": "085821491119",
+      "email": "bagusumratama@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "bagus-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct / Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "bagus-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
+    },
+    "barokah-kabah-palembang": {
+      "name": "PT. Barokah Kabah Palembang",
+      "shortName": "Bakkah Tour",
+      "tagline": "Amanah Menuntun Langkah Menuju Rumah Allah",
+      "description": "Biro perjalanan umroh resmi anggota SAPUHI di Kota Palembang, menghadirkan program umroh berkualitas dengan akomodasi dekat pelataran dan jadwal pasti.",
+      "address": "Jalan Sukorejo No. 87 Ilir Timur 3, Kota Palembang, Sumatera Selatan",
+      "phone": "08127874724",
+      "whatsapp": "08127874724",
+      "email": "barokahkabahpalembang@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI",
+        "Hotel Berbintang Dekat Pelataran Masjid",
+        "Pembimbing & Muthawif Berpengalaman",
+        "Handling Lengkap & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "bakkah-reguler",
+          "name": "Umroh Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 29.500.000",
+          "hotel": "Hotel Bintang 4 (Makkah & Madinah)",
+          "flight": "Lion Air / Batik Air Direct / Transit",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Makan 3x Sehari",
+            "Handling & Perlengkapan"
+          ]
+        },
+        {
+          "id": "bakkah-vip",
+          "name": "Umroh VIP Bintang 5",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh",
+            "Fullboard Hotel Bintang 5",
+            "Handling VIP & Kereta Cepat"
+          ]
+        }
+      ]
     }
   }
 }
