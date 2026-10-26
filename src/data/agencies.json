@@ -3313,6 +3313,236 @@
           ]
         }
       ]
+    },
+    "babussalam-mubarak": {
+      "name": "PT. Babussalam Mubarak Internasional",
+      "shortName": "Babussalam Mubarak Tour",
+      "tagline": "Biro Perjalanan Umroh & Haji Terpercaya Kebumen Penuh Berkah",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kementerian Agama RI (NIB 15062300983160003) berkantor pusat di Kebumen, Jawa Tengah. Kami berkomitmen memberikan pelayanan prima, bimbingan manasik intensif sesuai sunnah, dan kepastian akomodasi terbaik bagi jamaah.",
+      "address": "Jl. Mangkusari No. 101, Kutosari, Kec. Kebumen, Kab. Kebumen, Jawa Tengah",
+      "phone": "082228200297",
+      "whatsapp": "082228200297",
+      "email": "babussalammubarakinternasional@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (PPIU Resmi Kemenag (NIB 15062300983160003))",
+        "Bimbingan Ibadah Sesuai Al-Qur'an & As-Sunnah",
+        "Hotel Dekat Pelataran Masjid & Maskapai Terpercaya",
+        "Pelayanan Ramah & Berpengalaman dari Daerah"
+      ],
+      "packages": [
+        {
+          "id": "babussalam-mubarak-reguler",
+          "name": "Paket Umroh Reguler 9 & 12 Hari",
+          "duration": "9 - 12 Hari",
+          "price": "Rp 28.500.000",
+          "hotel": "Hotel Bintang 4 Makkah & Madinah",
+          "flight": "Saudia Airlines / Garuda Indonesia Direct",
+          "features": [
+            "Tiket Pesawat PP Internasional",
+            "Visa Umroh Resmi & Asuransi Perjalanan",
+            "Makan 3x Sehari Prasmanan Menu Indonesia",
+            "City Tour Makkah & Madinah Bus AC Nyaman"
+          ]
+        },
+        {
+          "id": "babussalam-mubarak-vip",
+          "name": "Paket Umroh VIP Ring 1",
+          "duration": "12 Hari",
+          "price": "Rp 36.000.000",
+          "hotel": "Hotel Bintang 5 Nol Meter Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Hotel Depan Pelataran Masjidil Haram",
+            "Layanan Fast Track & Handling VIP",
+            "Koper & Perlengkapan Eksklusif",
+            "Air Zamzam Resmi 5 Liter"
+          ]
+        }
+      ]
+    },
+    "rawdha-halal": {
+      "name": "PT. Rawdha Halal Wisata",
+      "shortName": "Rawdha Tour Purwokerto",
+      "tagline": "Sahabat Menuju Baitullah Sesuai Sunnah di Banyumas & Purwokerto",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kementerian Agama RI (NIB 13102201122980003) berkantor di Purwokerto Selatan, Banyumas. Menghadirkan paket umroh reguler & VIP dengan hotel ring 1, penerbangan terbaik, serta bimbingan muthawif berkompeten.",
+      "address": "Jl. Patriot No. 27 RT 004/003, Karangpucung, Purwokerto Selatan, Kab. Banyumas, Jawa Tengah",
+      "phone": "081259497668",
+      "whatsapp": "081259497668",
+      "email": "rawdhatour@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (PPIU Resmi Kemenag (NIB 13102201122980003))",
+        "Bimbingan Ibadah Sesuai Al-Qur'an & As-Sunnah",
+        "Hotel Dekat Pelataran Masjid & Maskapai Terpercaya",
+        "Pelayanan Ramah & Berpengalaman dari Daerah"
+      ],
+      "packages": [
+        {
+          "id": "rawdha-halal-reguler",
+          "name": "Paket Umroh Reguler 9 & 12 Hari",
+          "duration": "9 - 12 Hari",
+          "price": "Rp 28.500.000",
+          "hotel": "Hotel Bintang 4 Makkah & Madinah",
+          "flight": "Saudia Airlines / Garuda Indonesia Direct",
+          "features": [
+            "Tiket Pesawat PP Internasional",
+            "Visa Umroh Resmi & Asuransi Perjalanan",
+            "Makan 3x Sehari Prasmanan Menu Indonesia",
+            "City Tour Makkah & Madinah Bus AC Nyaman"
+          ]
+        },
+        {
+          "id": "rawdha-halal-vip",
+          "name": "Paket Umroh VIP Ring 1",
+          "duration": "12 Hari",
+          "price": "Rp 36.000.000",
+          "hotel": "Hotel Bintang 5 Nol Meter Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Hotel Depan Pelataran Masjidil Haram",
+            "Layanan Fast Track & Handling VIP",
+            "Koper & Perlengkapan Eksklusif",
+            "Air Zamzam Resmi 5 Liter"
+          ]
+        }
+      ]
+    },
+    "safar-berkah": {
+      "name": "PT. Safar Berkah Bersama",
+      "shortName": "Safar Berkah Bersama",
+      "tagline": "Perjalanan Ibadah Umroh Amanah, Nyaman, & Menentramkan Hati",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kementerian Agama RI (NIB 05032200128660002) di Kebumen, Jawa Tengah. Memberikan bimbingan ibadah terarah, kepastian jadwal keberangkatan 5 Pasti Umrah, dan transparansi paket fasilitas.",
+      "address": "Jl. Pahlawan No. 188 RT 005/004, Kutosari, Kec. Kebumen, Kab. Kebumen, Jawa Tengah",
+      "phone": "082292292291",
+      "whatsapp": "082292292291",
+      "email": "safarberkahbersama@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (PPIU Resmi Kemenag (NIB 05032200128660002))",
+        "Bimbingan Ibadah Sesuai Al-Qur'an & As-Sunnah",
+        "Hotel Dekat Pelataran Masjid & Maskapai Terpercaya",
+        "Pelayanan Ramah & Berpengalaman dari Daerah"
+      ],
+      "packages": [
+        {
+          "id": "safar-berkah-reguler",
+          "name": "Paket Umroh Reguler 9 & 12 Hari",
+          "duration": "9 - 12 Hari",
+          "price": "Rp 28.500.000",
+          "hotel": "Hotel Bintang 4 Makkah & Madinah",
+          "flight": "Saudia Airlines / Garuda Indonesia Direct",
+          "features": [
+            "Tiket Pesawat PP Internasional",
+            "Visa Umroh Resmi & Asuransi Perjalanan",
+            "Makan 3x Sehari Prasmanan Menu Indonesia",
+            "City Tour Makkah & Madinah Bus AC Nyaman"
+          ]
+        },
+        {
+          "id": "safar-berkah-vip",
+          "name": "Paket Umroh VIP Ring 1",
+          "duration": "12 Hari",
+          "price": "Rp 36.000.000",
+          "hotel": "Hotel Bintang 5 Nol Meter Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Hotel Depan Pelataran Masjidil Haram",
+            "Layanan Fast Track & Handling VIP",
+            "Koper & Perlengkapan Eksklusif",
+            "Air Zamzam Resmi 5 Liter"
+          ]
+        }
+      ]
+    },
+    "saffana-tour": {
+      "name": "PT. Saffana Tour Travel",
+      "shortName": "Saffana Tour Semarang",
+      "tagline": "Biro Umroh Profesional & Terpercaya di Kota Semarang",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kementerian Agama RI (NIB 02730101008760004) berpusat di Ngaliyan, Kota Semarang. Berpengalaman melayani ribuan tamu Allah dengan fasilitas maskapai direct flight dan hotel strategis dekat Masjid Nabawi & Masjidil Haram.",
+      "address": "Jl. Untung Suropati Kav. 57, Bambankerep, Ngaliyan, Kota Semarang, Jawa Tengah",
+      "phone": "082136388823",
+      "whatsapp": "082136388823",
+      "email": "saffanatoursemarang@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (PPIU Resmi Kemenag (NIB 02730101008760004))",
+        "Bimbingan Ibadah Sesuai Al-Qur'an & As-Sunnah",
+        "Hotel Dekat Pelataran Masjid & Maskapai Terpercaya",
+        "Pelayanan Ramah & Berpengalaman dari Daerah"
+      ],
+      "packages": [
+        {
+          "id": "saffana-tour-reguler",
+          "name": "Paket Umroh Reguler 9 & 12 Hari",
+          "duration": "9 - 12 Hari",
+          "price": "Rp 28.500.000",
+          "hotel": "Hotel Bintang 4 Makkah & Madinah",
+          "flight": "Saudia Airlines / Garuda Indonesia Direct",
+          "features": [
+            "Tiket Pesawat PP Internasional",
+            "Visa Umroh Resmi & Asuransi Perjalanan",
+            "Makan 3x Sehari Prasmanan Menu Indonesia",
+            "City Tour Makkah & Madinah Bus AC Nyaman"
+          ]
+        },
+        {
+          "id": "saffana-tour-vip",
+          "name": "Paket Umroh VIP Ring 1",
+          "duration": "12 Hari",
+          "price": "Rp 36.000.000",
+          "hotel": "Hotel Bintang 5 Nol Meter Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Hotel Depan Pelataran Masjidil Haram",
+            "Layanan Fast Track & Handling VIP",
+            "Koper & Perlengkapan Eksklusif",
+            "Air Zamzam Resmi 5 Liter"
+          ]
+        }
+      ]
+    },
+    "surya-amanah-bersama": {
+      "name": "PT. Surya Amanah Bersama",
+      "shortName": "Surya Amanah Tour Cilacap",
+      "tagline": "Layanan Umroh Resmi Amanah & Bimbingan Khusyuk untuk Jamaah Cilacap",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kementerian Agama RI (NIB 23082200430560004) di Cilacap, Jawa Tengah. Memfasilitasi keberangkatan jamaah dengan pendampingan sejak dari daerah, hotel nyaman, dan bimbingan ibadah sesuai sunnah Rasulullah SAW.",
+      "address": "Jl. Kendeng No. 25 A RT 006/014, Sidanegara, Cilacap Tengah, Kab. Cilacap, Jawa Tengah",
+      "phone": "081327019512",
+      "whatsapp": "081327019512",
+      "email": "pt.suryaamanahbersama2023@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (PPIU Resmi Kemenag (NIB 23082200430560004))",
+        "Bimbingan Ibadah Sesuai Al-Qur'an & As-Sunnah",
+        "Hotel Dekat Pelataran Masjid & Maskapai Terpercaya",
+        "Pelayanan Ramah & Berpengalaman dari Daerah"
+      ],
+      "packages": [
+        {
+          "id": "surya-amanah-bersama-reguler",
+          "name": "Paket Umroh Reguler 9 & 12 Hari",
+          "duration": "9 - 12 Hari",
+          "price": "Rp 28.500.000",
+          "hotel": "Hotel Bintang 4 Makkah & Madinah",
+          "flight": "Saudia Airlines / Garuda Indonesia Direct",
+          "features": [
+            "Tiket Pesawat PP Internasional",
+            "Visa Umroh Resmi & Asuransi Perjalanan",
+            "Makan 3x Sehari Prasmanan Menu Indonesia",
+            "City Tour Makkah & Madinah Bus AC Nyaman"
+          ]
+        },
+        {
+          "id": "surya-amanah-bersama-vip",
+          "name": "Paket Umroh VIP Ring 1",
+          "duration": "12 Hari",
+          "price": "Rp 36.000.000",
+          "hotel": "Hotel Bintang 5 Nol Meter Pelataran",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Hotel Depan Pelataran Masjidil Haram",
+            "Layanan Fast Track & Handling VIP",
+            "Koper & Perlengkapan Eksklusif",
+            "Air Zamzam Resmi 5 Liter"
+          ]
+        }
+      ]
     }
   }
 }
