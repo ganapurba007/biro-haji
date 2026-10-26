@@ -3083,6 +3083,236 @@
           ]
         }
       ]
+    },
+    "alkalam-mulia": {
+      "name": "PT. Alkalam Mulia Universal",
+      "shortName": "Alkalam Mulia Tour",
+      "tagline": "Mitra Ibadah Umroh & Haji Nyaman, Amanah, dan Berkah Surakarta",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kementerian Agama RI (NIB 81202121323680003) berkantor pusat di Kota Surakarta (Solo), Jawa Tengah. Melayani jamaah umroh dan haji khusus dengan bimbingan ibadah intensif sesuai sunnah dan akomodasi terpercaya.",
+      "address": "Jl. Adi Sucipto No. 88A, Kerten, Kec. Laweyan, Kota Surakarta, Jawa Tengah",
+      "phone": "085186664513",
+      "whatsapp": "085186664513",
+      "email": "alkalamuliauniversal@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (NIB 81202121323680003)",
+        "Bimbingan Ibadah Sesuai Al-Qur'an & Sunnah",
+        "Penerbangan Nyaman & Hotel Dekat Pelataran Masjid",
+        "Didampingi Muthowif & Tour Leader Berpengalaman"
+      ],
+      "packages": [
+        {
+          "id": "alkalam-reguler",
+          "name": "Paket Umroh Barokah 9 & 12 Hari",
+          "duration": "9 - 12 Hari",
+          "price": "Rp 28.500.000",
+          "hotel": "Hotel Bintang 4 Makkah & Madinah",
+          "flight": "Saudia Airlines / Garuda Indonesia Direct",
+          "features": [
+            "Tiket Pesawat PP Internasional",
+            "Visa Umroh & Asuransi Perjalanan",
+            "Makan 3x Sehari Menu Indonesia",
+            "Ziarah Kota Makkah & Madinah Bus Eksekutif"
+          ]
+        },
+        {
+          "id": "alkalam-vip",
+          "name": "Paket Umroh VIP Ring 1",
+          "duration": "12 Hari",
+          "price": "Rp 36.500.000",
+          "hotel": "Hotel Bintang 5 Depan Pelataran Masjidil Haram",
+          "flight": "Garuda Indonesia / Saudia",
+          "features": [
+            "Hotel Pelataran Depan Masjid (Zero Meter)",
+            "Handling Eksekutif Bandara & Hotel",
+            "Perlengkapan Umroh Eksklusif Lengkap",
+            "Air Zamzam Resmi"
+          ]
+        }
+      ]
+    },
+    "gagah-berkah": {
+      "name": "PT. Gagah Berkah Wisata",
+      "shortName": "Gagah Berkah Wisata",
+      "tagline": "Perjalanan Ibadah Penuh Berkah, Amanah, dan Menentramkan Hati",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kementerian Agama RI (NIB 16052300319420008) berkantor pusat di Kab. Sukoharjo, Jawa Tengah. Kami berkomitmen memberikan pelayanan terbaik dari bimbingan manasik, fasilitas hotel, hingga pemulangan jamaah.",
+      "address": "Jl. Kubu Jamur RT 003/008, Kel. Trangsan, Kec. Gatak, Kab. Sukoharjo, Jawa Tengah",
+      "phone": "081548625578",
+      "whatsapp": "081548625578",
+      "email": "gagahberkahwisata@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (NIB 16052300319420008)",
+        "Jadwal Keberangkatan Pasti & Transparan",
+        "Manasik Ibadah Lengkap & Bimbingan Muthowif",
+        "Armada Bus Ziarah AC Eksekutif Nyaman"
+      ],
+      "packages": [
+        {
+          "id": "gagah-hemat",
+          "name": "Paket Umroh Hemat Reguler 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 27.900.000",
+          "hotel": "Hotel Bintang 3/4 Dekat Masjid",
+          "flight": "Lion Air / Batik Air / Scoot Promo",
+          "features": [
+            "Tiket Pesawat PP",
+            "Visa Umroh & Asuransi Perjalanan",
+            "Konsumsi Menu Nusantara 3x Sehari",
+            "Perlengkapan Umroh Standar"
+          ]
+        },
+        {
+          "id": "gagah-plus",
+          "name": "Paket Umroh Gold 12 Hari Sukoharjo",
+          "duration": "12 Hari",
+          "price": "Rp 34.000.000",
+          "hotel": "Hotel Bintang 4/5 Makkah & Madinah",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Penerbangan Direct Tanpa Transit Lama",
+            "Hotel Jalan Kaki Ringan ke Masjid",
+            "Muthowif Berlisensi Resmi",
+            "Handling & Manasik Hotel Berbintang"
+          ]
+        }
+      ]
+    },
+    "sabiel-wisata": {
+      "name": "PT. Sabiel Elbarkah Wisata",
+      "shortName": "Sabiel Wisata Boyolali",
+      "tagline": "Biro Umroh Terpercaya Dekat Bandara Adi Soemarmo Boyolali",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kementerian Agama RI (NIB 28112300476460002) berkantor di Donohudan, Boyolali, Jawa Tengah. Memberikan kemudahan bimbingan ibadah dan akses keberangkatan yang nyaman bagi jamaah Soloraya dan sekitarnya.",
+      "address": "Jl. Raya Ngemplak Gagan RT 01/01, Kel. Donohudan, Kec. Ngemplak, Kab. Boyolali, Jawa Tengah",
+      "phone": "081329404556",
+      "whatsapp": "081329404556",
+      "email": "sabielwisata25@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (NIB 28112300476460002)",
+        "Lokasi Strategis Dekat Asrama Haji Donohudan",
+        "Pelayanan Kekeluargaan & Pembimbing Ramah",
+        "Fasilitas Lengkap Tanpa Biaya Tersembunyi"
+      ],
+      "packages": [
+        {
+          "id": "sabiel-reguler",
+          "name": "Paket Umroh Reguler Nyaman 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 28.000.000",
+          "hotel": "Hotel Bintang 4 Makkah & Madinah",
+          "flight": "Direct Solo / Jogja - Madinah/Jeddah",
+          "features": [
+            "Tiket PP Penerbangan Nyaman",
+            "Visa Umroh Resmi & Asuransi Syariah",
+            "Makan Buffet Menu Indonesia 3x",
+            "Handling Bandara & Ziarah Lengkap"
+          ]
+        },
+        {
+          "id": "sabiel-ramadhan",
+          "name": "Paket Umroh I'tikaf Ramadhan 15 Hari",
+          "duration": "15 Hari",
+          "price": "Rp 39.500.000",
+          "hotel": "Hotel Bintang 4/5 Makkah & Madinah",
+          "flight": "Garuda Indonesia / Saudia Airlines",
+          "features": [
+            "Fasilitas I'tikaf 10 Hari Terakhir Ramadhan",
+            "Menu Sahur & Buka Puasa Khusus",
+            "Bimbingan Ibadah & Doa Terarah",
+            "Perlengkapan Eksklusif"
+          ]
+        }
+      ]
+    },
+    "azzahroni-tour": {
+      "name": "PT. Azzahroni Syifa Tour",
+      "shortName": "Azzahroni Syifa Tour",
+      "tagline": "Biro Perjalanan Haji & Umroh Amanah Demak Kota Wali",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kementerian Agama RI (NIB 11042300507330002) berkantor pusat di Dempet, Kab. Demak, Jawa Tengah. Melayani jamaah umroh dengan tradisi santun, manasik intensif, dan kepastian fasilitas ibadah yang khusyuk.",
+      "address": "Jl. Demak - Purwodadi KM 10 RT 002/004, Kel. Dempet, Kec. Dempet, Kab. Demak, Jawa Tengah",
+      "phone": "081393028934",
+      "whatsapp": "081393028934",
+      "email": "azzahronisyifatour.info@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (NIB 11042300507330002)",
+        "Manasik Ibadah Teori & Praktek Mendalam",
+        "Didampingi Pembimbing Spiritual & Muthowif Santun",
+        "Keberangkatan Terjadwal Rapi & Tepat Waktu"
+      ],
+      "packages": [
+        {
+          "id": "azzahroni-berkah",
+          "name": "Paket Umroh Syifa 9 Hari Demak",
+          "duration": "9 Hari",
+          "price": "Rp 27.500.000",
+          "hotel": "Hotel Bintang 3/4 Makkah & Madinah",
+          "flight": "Lion Air / Saudia Airlines",
+          "features": [
+            "Tiket Pesawat PP",
+            "Visa Umroh & Asuransi",
+            "Makan Menu Indonesia 3x Sehari",
+            "City Tour Makkah, Madinah & Percetakan Qur'an"
+          ]
+        },
+        {
+          "id": "azzahroni-vip",
+          "name": "Paket Umroh Premium 12 Hari",
+          "duration": "12 Hari",
+          "price": "Rp 35.000.000",
+          "hotel": "Hotel Bintang 5 Pelataran Makkah & Madinah",
+          "flight": "Garuda Indonesia Direct Solo/Surabaya",
+          "features": [
+            "Hotel Nol Meter Dekat Masjidil Haram",
+            "Handling Check-in VIP",
+            "Koper & Perlengkapan Eksklusif",
+            "Air Zamzam Resmi 5 Liter"
+          ]
+        }
+      ]
+    },
+    "berkah-amanah-sabilillah": {
+      "name": "PT. Berkah Amanah Sabilillah",
+      "shortName": "BAS Tour Wonosobo",
+      "tagline": "Mitra Ibadah Umroh Amanah, Nyaman, & Menentramkan Hati Jamaah Wonosobo",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kementerian Agama RI (NIB 12710024023060001) berkantor di Gedung B.A.S. Selomerto, Kab. Wonosobo, Jawa Tengah. Kami mengutamakan kepuasan, bimbingan rukun umroh yang benar, dan kenyamanan jamaah dari daerah.",
+      "address": "Gedung B.A.S., Jl. Raya Banyumas KM 03 RT 001/003, Wonorejo, Kec. Selomerto, Kab. Wonosobo, Jawa Tengah",
+      "phone": "081228626713",
+      "whatsapp": "081228626713",
+      "email": "ptbas.mail@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (NIB 12710024023060001)",
+        "Pemberangkatan & Pendampingan Sejak dari Wonosobo",
+        "Kenyamanan Hotel Dekat Masjidil Haram & Nabawi",
+        "Pelayanan Ramah, Hangat, & Kekeluargaan"
+      ],
+      "packages": [
+        {
+          "id": "bas-reguler",
+          "name": "Paket Umroh Barokah Wonosobo 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 28.200.000",
+          "hotel": "Hotel Bintang 4 Makkah & Madinah",
+          "flight": "Saudia Airlines / Garuda Direct",
+          "features": [
+            "Tiket PP Internasional",
+            "Antar Jemput Bus Nyaman dari Wonosobo ke Bandara",
+            "Visa Umroh & Asuransi Perjalanan",
+            "Ziarah Lengkap Makkah & Madinah"
+          ]
+        },
+        {
+          "id": "bas-family",
+          "name": "Paket Umroh Keluarga 12 Hari Gold",
+          "duration": "12 Hari",
+          "price": "Rp 34.500.000",
+          "hotel": "Hotel Bintang 5 Dekat Pintu Utama Masjid",
+          "flight": "Garuda Indonesia Direct",
+          "features": [
+            "Akomodasi Nyaman Sangat Dekat Masjid",
+            "Bimbingan Ibadah Privat Keluarga",
+            "Menu Spesial Nusantara 3x Sehari",
+            "Perlengkapan Umroh Eksklusif"
+          ]
+        }
+      ]
     }
   }
 }
