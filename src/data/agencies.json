@@ -3313,6 +3313,236 @@
           ]
         }
       ]
+    },
+    "pandawa-umroh": {
+      "name": "PT. Pandawa Umroh Syiar Baitulloh",
+      "shortName": "Pandawa Umroh Sragen",
+      "tagline": "Biro Resmi Umroh & Haji Khusus Amanah Menuju Baitullah",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kemenag RI (NIB 19042300060570002) berpusat di Ngrampal, Kab. Sragen. Kami berkomitmen memberikan layanan ibadah yang khusyuk, transparan, dan pendampingan terbaik bagi jamaah.",
+      "address": "Jl. Raya Sukowati, Bendungan RT 013/005, Pilangsari, Kec. Ngrampal, Kab. Sragen, Jawa Tengah",
+      "phone": "081344032035",
+      "whatsapp": "081344032035",
+      "email": "pandawaumroh.sb@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (NIB 19042300060570002)",
+        "Pemberangkatan & Pendampingan Penuh dari Sragen",
+        "Hotel Bintang Dekat Pelataran Masjid",
+        "Bimbingan Ibadah Sesuai Sunnah & Manasik Intensif"
+      ],
+      "packages": [
+        {
+          "id": "pandawa-reguler",
+          "name": "Paket Umroh Barokah 9 Hari Sragen",
+          "duration": "9 Hari",
+          "price": "Rp 28.500.000",
+          "hotel": "Hotel Bintang 4 Makkah & Madinah",
+          "flight": "Saudia Airlines / Garuda Direct",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh & Asuransi",
+            "Makan 3x Sehari Menu Indonesia",
+            "Ziarah Lengkap Makkah & Madinah"
+          ]
+        },
+        {
+          "id": "pandawa-vip",
+          "name": "Paket Umroh VIP 12 Hari Sukowati",
+          "duration": "12 Hari",
+          "price": "Rp 35.000.000",
+          "hotel": "Hotel Bintang 5 Dekat Pintu Utama Masjid",
+          "flight": "Garuda Indonesia Direct",
+          "features": [
+            "Tiket PP Direct",
+            "Hotel Dekat Pelataran",
+            "Kereta Cepat Haramain",
+            "Handling VIP & Manasik Eksklusif"
+          ]
+        }
+      ]
+    },
+    "soko-namu": {
+      "name": "PT. Soko Namu Group",
+      "shortName": "Soko Namu Travel Semarang",
+      "tagline": "Perjalanan Ibadah Berkelas, Terpercaya, dan Penuh Berkah",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kemenag RI (NIB 10082200709170003) berkantor di Apartemen Alton Banyumanik, Kota Semarang. Menghadirkan paket ibadah umroh berkualitas tinggi dengan pelayanan profesional dan fasilitas terbaik.",
+      "address": "Apartemen Alton Unit GF 2, Jl. Prof. Soedarto No. 10, Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah",
+      "phone": "0817386343",
+      "whatsapp": "0817386343",
+      "email": "sokonamugroup.pt@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (NIB 10082200709170003)",
+        "Lokasi Kantor Strategis di Banyumanik Semarang",
+        "Fasilitas Penerbangan Nyaman & Hotel Pilihan",
+        "Muthawif Berpengalaman Sesuai Tuntunan Syariah"
+      ],
+      "packages": [
+        {
+          "id": "soko-reguler",
+          "name": "Paket Umroh Bronze Semarang 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 28.900.000",
+          "hotel": "Hotel Bintang 4 Ring 1 Madinah & Makkah",
+          "flight": "Batik Air / Saudia Airlines",
+          "features": [
+            "Tiket PP Internasional",
+            "Visa Umroh Resmi",
+            "Fullboard Makan Indonesia",
+            "City Tour Makkah-Madinah"
+          ]
+        },
+        {
+          "id": "soko-gold",
+          "name": "Paket Umroh Gold 12 Hari Semarang",
+          "duration": "12 Hari",
+          "price": "Rp 36.200.000",
+          "hotel": "Hotel Bintang 5 Pelataran Masjid",
+          "flight": "Garuda Indonesia Direct",
+          "features": [
+            "Tiket PP Direct Flight",
+            "Hotel Bintang 5 Menara Zamzam/Setara",
+            "Free Kereta Cepat Haramain",
+            "Layanan Handling Eksklusif"
+          ]
+        }
+      ]
+    },
+    "alfa-mutiara": {
+      "name": "PT. Alfa Mutiara Almadani",
+      "shortName": "Alfa Tour Grobogan",
+      "tagline": "Sahabat Setia Jamaah Menuju Baitullah yang Mabrur",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kemenag RI (NIB 26022402592610003) berpusat di Purwodadi, Kab. Grobogan. Mengutamakan kepuasan, bimbingan rukun umroh intensif, dan kenyamanan jamaah Jawa Tengah.",
+      "address": "Kec. Purwodadi, Kab. Grobogan, Jawa Tengah",
+      "phone": "081225167123",
+      "whatsapp": "081225167123",
+      "email": "alfatourjaya@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (NIB 26022402592610003)",
+        "Pemberangkatan & Manasik Terpadu Grobogan",
+        "Hotel Nyaman Dekat Masjidil Haram & Nabawi",
+        "Pelayanan Kekeluargaan & Pembimbing Ramah"
+      ],
+      "packages": [
+        {
+          "id": "alfa-reguler",
+          "name": "Paket Umroh Berkah Grobogan 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 27.900.000",
+          "hotel": "Hotel Bintang 3/4 Nyaman Dekat Masjid",
+          "flight": "Lion Air Direct / Saudia",
+          "features": [
+            "Tiket PP Internasional",
+            "Visa & Asuransi Perjalanan",
+            "Transportasi Bus AC Nyaman",
+            "Ziarah Lengkap Makkah Madinah"
+          ]
+        },
+        {
+          "id": "alfa-spesial",
+          "name": "Paket Umroh Plus 12 Hari Grobogan",
+          "duration": "12 Hari",
+          "price": "Rp 34.000.000",
+          "hotel": "Hotel Bintang 4/5 Berjarak Dekat",
+          "flight": "Garuda Indonesia Direct",
+          "features": [
+            "Tiket PP Direct",
+            "Kamar Nyaman Bintang 4/5",
+            "Bimbingan Ibadah Personal",
+            "Perlengkapan Umroh Lengkap"
+          ]
+        }
+      ]
+    },
+    "hijrah-haramain": {
+      "name": "PT. Hijrah Haramain Temanggung",
+      "shortName": "Hijrah Haramain Temanggung",
+      "tagline": "Bimbingan Khusyuk, Layanan Amanah, Ibadah Menentramkan",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kemenag RI (NIB 91200061815820003) berkantor di Pringsurat, Kab. Temanggung. Hadir melayani jamaah dengan komitmen keabsahan ibadah sesuai sunnah dan kenyamanan akomodasi.",
+      "address": "Dusun Batikan RT 001/004, Soropadan, Kec. Pringsurat, Kab. Temanggung, Jawa Tengah",
+      "phone": "081226926492",
+      "whatsapp": "081226926492",
+      "email": "hijrahharamain.tmg@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (NIB 91200061815820003)",
+        "Layanan & Manasik Langsung di Temanggung",
+        "Hotel Pilihan Nyaman Akses Mudah ke Masjid",
+        "Pendampingan Muthawif Sabar & Berilmu"
+      ],
+      "packages": [
+        {
+          "id": "hijrah-reguler",
+          "name": "Paket Umroh Taqwa Temanggung 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 28.300.000",
+          "hotel": "Hotel Bintang 4 Dekat Masjid",
+          "flight": "Saudia Airlines / Garuda Direct",
+          "features": [
+            "Tiket PP",
+            "Visa Umroh & Asuransi",
+            "Makan 3x Sehari Khas Nusantara",
+            "Ziarah Kota Makkah & Madinah"
+          ]
+        },
+        {
+          "id": "hijrah-plus",
+          "name": "Paket Umroh Istiqomah 12 Hari Temanggung",
+          "duration": "12 Hari",
+          "price": "Rp 34.800.000",
+          "hotel": "Hotel Bintang 5 Dekat Pelataran Masjid",
+          "flight": "Garuda Indonesia Direct",
+          "features": [
+            "Akomodasi Hotel Bintang 5",
+            "Kereta Cepat Makkah-Madinah",
+            "Manasik Eksklusif Temanggung",
+            "Handling VIP Bandara"
+          ]
+        }
+      ]
+    },
+    "siyaha-eiman": {
+      "name": "PT. Siyaha Eiman Nusantara",
+      "shortName": "Siyaha Eiman Magelang",
+      "tagline": "Wujudkan Rindu Baitullah dengan Pelayanan Terbaik",
+      "description": "Penyelenggara Perjalanan Ibadah Umrah (PPIU) resmi Kemenag RI (NIB 91203079203260004) berkantor di Magelang Utara, Kota Magelang. Kami fokus memberikan bimbingan ibadah murni dan fasilitas terpercaya untuk kenyamanan jamaah Magelang Raya.",
+      "address": "Jl. Urip Sumoharjo No. 37C RT 03/03, Wates, Kec. Magelang Utara, Kota Magelang, Jawa Tengah",
+      "phone": "08112012050",
+      "whatsapp": "08112012050",
+      "email": "siyahaeiman@gmail.com",
+      "features": [
+        "Izin Resmi PPIU Kemenag RI (NIB 91203079203260004)",
+        "Kantor Strategis di Magelang Utara (Wates)",
+        "Hotel Nyaman Dekat Pelataran Masjidil Haram",
+        "Bimbingan Ibadah Intensif & Kekeluargaan"
+      ],
+      "packages": [
+        {
+          "id": "siyaha-reguler",
+          "name": "Paket Umroh Amanah Magelang 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 28.500.000",
+          "hotel": "Hotel Bintang 4 Dekat Pelataran",
+          "flight": "Saudia Airlines / Batik Air",
+          "features": [
+            "Tiket PP Internasional",
+            "Visa Umroh Resmi",
+            "Konsumsi 3x Sehari Prasmanan",
+            "Ziarah Lengkap Makkah-Madinah"
+          ]
+        },
+        {
+          "id": "siyaha-vip",
+          "name": "Paket Umroh VIP Magelang 12 Hari",
+          "duration": "12 Hari",
+          "price": "Rp 35.500.000",
+          "hotel": "Hotel Bintang 5 Ring 1 Pelataran",
+          "flight": "Garuda Indonesia Direct",
+          "features": [
+            "Tiket PP Direct Flight",
+            "Hotel Bintang 5 Depan Masjid",
+            "Kereta Cepat Haramain",
+            "Handling VIP & Fasilitas Eksekutif"
+          ]
+        }
+      ]
     }
   }
 }
