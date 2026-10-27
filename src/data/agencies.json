@@ -3405,6 +3405,44 @@
           ]
         }
       ]
+    },
+    "almahdar-tour": {
+      "slug": "almahdar-tour",
+      "name": "PT Almahdar Tour & Travel",
+      "shortName": "ALMAHDAR",
+      "subName": "Biro Umroh Pontianak",
+      "tagline": "Biro Resmi PPIU Kemenag RI — Menuju Tanah Suci dengan Amanah, Nyaman, dan Pasti",
+      "about": "PT Almahdar Tour adalah biro penyelenggara ibadah umroh resmi berizin Kementerian Agama RI (SK PPIU No. U.503 Tahun 2020) di Pontianak, Kalimantan Barat. Kami menghadirkan kepastian keberangkatan, fasilitas hotel terbaik dekat masjid, dan bimbingan ibadah intensif sesuai sunnah.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#065f46",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "08125645121",
+        "whatsapp": "628125645121",
+        "email": "kontak@almahdar-tour.com",
+        "address": "Jl. RE. Martadinata Komp. Ruko Blok B5, Pontianak, Kalimantan Barat"
+      }
+    },
+    "ritas-raudah-wisata": {
+      "slug": "ritas-raudah-wisata",
+      "name": "PT Ritas Raudah Wisata",
+      "shortName": "RITAS RAUDAH",
+      "subName": "Biro Umroh Samarinda",
+      "tagline": "Sahabat Ibadah ke Tanah Suci — Terpercaya, Berizin Resmi, dan Pelayanan Prima",
+      "about": "PT Ritas Raudah Wisata merupakan biro penyelenggara perjalanan umroh berizin resmi Kementerian Agama RI (SK No. 894/2019) di Samarinda, Kalimantan Timur. Berkomitmen mendampingi jamaah menggapai ibadah mabrur dengan pelayanan ramah, fasilitas nyaman, dan bimbingan muthawif berpengalaman.",
+      "logo": "/images/logos/default-biro.svg",
+      "colors": {
+        "brand": "#1e3a8a",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "08125818879",
+        "whatsapp": "628125818879",
+        "email": "kontak@ritasraudah.com",
+        "address": "Jl. P. Antasari No. 18, Samarinda, Kalimantan Timur"
+      }
     }
   }
 }
