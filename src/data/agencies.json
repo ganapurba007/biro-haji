@@ -3444,25 +3444,6 @@
         "address": "Jl. P. Antasari No. 18, Samarinda, Kalimantan Timur"
       }
     },
-    "bagus-tours": {
-      "slug": "bagus-tours",
-      "name": "PT Bagus Umratama (Bagus Tours)",
-      "shortName": "BAGUS TOURS",
-      "subName": "Biro Umroh Banjarmasin",
-      "tagline": "Biro Resmi PPIU & PIHK Kemenag RI — Melayani Tamu Allah Sepenuh Hati",
-      "about": "PT Bagus Umratama (Bagus Tours) adalah penyelenggara resmi ibadah Umroh (SK No. 547/2019) dan Haji Khusus (PIHK No. 877/2020) di Kota Banjarmasin, Kalimantan Selatan. Kami menghadirkan penerbangan nyaman, hotel strategis dekat Masjidil Haram dan Nabawi, serta bimbingan ibadah intensif sesuai sunnah.",
-      "logo": "/images/logos/default-biro.svg",
-      "colors": {
-        "brand": "#047857",
-        "accent": "#f59e0b"
-      },
-      "contact": {
-        "phone": "085821491119",
-        "whatsapp": "6285821491119",
-        "email": "bagus_umratama@yahoo.com",
-        "address": "Jl. Pramuka No. 45 RT 12/RW 02, Pengambangan, Banjarmasin Timur, Kota Banjarmasin"
-      }
-    },
     "ziu-tour": {
       "slug": "ziu-tour",
       "name": "PT Zahra Ibadah Umat (ZIU)",
@@ -3499,44 +3480,6 @@
         "whatsapp": "62818564466",
         "email": "aryo.tours@yahoo.co.id",
         "address": "Jl. Raden Intan No. 107, Enggal, Kota Bandar Lampung, Lampung"
-      }
-    },
-    "multazam-sriwijaya": {
-      "slug": "multazam-sriwijaya",
-      "name": "PT Multazam Sriwijaya Barakah",
-      "shortName": "MULTAZAM SRIWIJAYA",
-      "subName": "Biro Umroh Palembang",
-      "tagline": "Biro Resmi Perjalanan Ibadah Umroh Amanah di Sumatera Selatan",
-      "about": "PT Multazam Sriwijaya Barakah adalah biro perjalanan ibadah umroh resmi anggota SAPUHI yang berbasis di Palembang. Menyediakan paket perjalanan ibadah dengan akomodasi hotel pelataran bintang dan pendampingan muthawif bersertifikat.",
-      "logo": "/images/logos/default-biro.svg",
-      "colors": {
-        "brand": "#166534",
-        "accent": "#eab308"
-      },
-      "contact": {
-        "phone": "081394471444",
-        "whatsapp": "6281394471444",
-        "email": "sriwijayabarakah2022@gmail.com",
-        "address": "Jl. A. Yani No. 11 RT 19/RW 06, Tangga Takat, Seberang Ulu II, Kota Palembang"
-      }
-    },
-    "bakkah-tour": {
-      "slug": "bakkah-tour",
-      "name": "PT Barokah Kabah Palembang (Bakkah Tour)",
-      "shortName": "BAKKAH TOUR",
-      "subName": "Biro Umroh Palembang",
-      "tagline": "Menuju Rumah Allah dengan Bimbingan Khusyuk dan Hati Tenang",
-      "about": "PT Barokah Kabah Palembang (Bakkah Tour) adalah penyelenggara resmi perjalanan ibadah umroh (SK PPIU Kemenag RI NIB 15012200086460001) di Palembang. Menghadirkan paket umroh transparan, pasti jadwalnya, dan bimbingan manasik intensif sesuai sunnah.",
-      "logo": "/images/logos/default-biro.svg",
-      "colors": {
-        "brand": "#312e81",
-        "accent": "#f59e0b"
-      },
-      "contact": {
-        "phone": "08127874724",
-        "whatsapp": "628127874724",
-        "email": "barokahkabahpalembang@gmail.com",
-        "address": "Jl. Sukorejo No. 87, Ilir Timur 3, Kota Palembang, Sumatera Selatan"
       }
     }
   }
