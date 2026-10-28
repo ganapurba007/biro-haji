@@ -420,22 +420,23 @@
       }
     },
     "hijrah-haramain-temanggung": {
-      "name": "PT Hijrah Haramain Temanggung",
-      "shortName": "HIJRAH HARAMAIN",
-      "subName": "Biro Umroh Temanggung",
-      "tagline": "Mitra Hijrah Menuju Baitullah yang Amanah & Nyaman",
-      "about": "PT Hijrah Haramain Temanggung adalah biro penyelenggara umroh resmi terkemuka di Temanggung dengan standar pelayanan hotel berbintang dekat Masjidil Haram dan bimbingan ibadah ramah jamaah.",
+      "slug": "hijrah-haramain-temanggung",
+      "name": "PT. Hijrah Haramain Temanggung",
+      "shortName": "Hijrah Tour & Travel",
+      "subName": "Biro Umroh & Haji Temanggung",
+      "tagline": "Melayani Ibadah Umroh dan Haji Sepenuh Hati Menuju Mabrur",
+      "about": "PT. Hijrah Haramain Temanggung (Hijrah Tour & Travel) adalah penyelenggara perjalanan ibadah umroh resmi di Temanggung, Jawa Tengah (NIB 91200061815820003). Kami berkomitmen melayani jamaah dengan amanah, kepastian keberangkatan, dan kenyamanan ibadah di Tanah Suci.",
       "logo": "/images/logos/hijrah-haramain-temanggung.svg",
       "colors": {
-        "brand": "#15803d",
-        "accent": "#eab308"
+        "brand": "#047857",
+        "accent": "#f59e0b"
       },
       "contact": {
-        "phone": "+62 812-2692-6492",
-        "tollFree": "0800-1-HIJRAHHARAMAIN",
-        "email": "kontak@hijrah-haramain.com",
+        "phone": "081226926492",
+        "tollFree": "-",
+        "email": "hijrahharamain.tmg@gmail.com",
         "whatsapp": "6281226926492",
-        "address": "Jl. Medono - Secang, Temanggung, Jawa Tengah"
+        "address": "Dusun Batikan RT 01 RW 04, Soropadan, Pringsurat, Kab. Temanggung"
       }
     },
     "ebitour-purworejo": {
@@ -3499,6 +3500,186 @@
         "whatsapp": "6281256043223",
         "email": "tazakka_tour@yahoo.com",
         "address": "Jl. Dr. Wahidin No. 88, Pontianak Kota, Kalimantan Barat"
+      }
+    },
+    "babussalam-mubarak": {
+      "slug": "babussalam-mubarak",
+      "name": "PT. Babussalam Mubarak",
+      "shortName": "Babussalam Mubarak Tour",
+      "subName": "Biro Umroh & Haji Kebumen",
+      "tagline": "Melayani Ibadah Umroh dan Haji Sepenuh Hati Menuju Mabrur",
+      "about": "PT. Babussalam Mubarak (Babussalam Mubarak Tour) adalah penyelenggara perjalanan ibadah umroh resmi di Kebumen, Jawa Tengah (NIB 9120302830386 / SK Kemenag PPIU). Kami berkomitmen melayani jamaah dengan amanah, kepastian keberangkatan, dan kenyamanan ibadah di Tanah Suci.",
+      "logo": "/images/logos/babussalam-mubarak.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "08122961819",
+        "tollFree": "-",
+        "email": "babussalammubarak@gmail.com",
+        "whatsapp": "628122961819",
+        "address": "Kebumen, Jawa Tengah"
+      }
+    },
+    "battuta-rihla-mulia": {
+      "slug": "battuta-rihla-mulia",
+      "name": "PT. Battuta Rihla Mulia",
+      "shortName": "Battuta Tour",
+      "subName": "Biro Umroh & Haji Semarang",
+      "tagline": "Melayani Ibadah Umroh dan Haji Sepenuh Hati Menuju Mabrur",
+      "about": "PT. Battuta Rihla Mulia (Battuta Tour) adalah penyelenggara perjalanan ibadah umroh resmi di Semarang, Jawa Tengah (SK PPIU Kemenag Jateng). Kami berkomitmen melayani jamaah dengan amanah, kepastian keberangkatan, dan kenyamanan ibadah di Tanah Suci.",
+      "logo": "/images/logos/battuta-rihla-mulia.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "08122930268",
+        "tollFree": "-",
+        "email": "battutarihla@gmail.com",
+        "whatsapp": "628122930268",
+        "address": "Semarang, Jawa Tengah"
+      }
+    },
+    "rawdha-halal-wisata": {
+      "slug": "rawdha-halal-wisata",
+      "name": "PT. Rawdha Halal Wisata",
+      "shortName": "Rawdha Halal Wisata",
+      "subName": "Biro Umroh & Haji Banyumas",
+      "tagline": "Melayani Ibadah Umroh dan Haji Sepenuh Hati Menuju Mabrur",
+      "about": "PT. Rawdha Halal Wisata (Rawdha Halal Wisata) adalah penyelenggara perjalanan ibadah umroh resmi di Banyumas, Jawa Tengah (SK PPIU Kemenag Jateng). Kami berkomitmen melayani jamaah dengan amanah, kepastian keberangkatan, dan kenyamanan ibadah di Tanah Suci.",
+      "logo": "/images/logos/rawdha-halal-wisata.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "08112613133",
+        "tollFree": "-",
+        "email": "rawdhasurga@gmail.com",
+        "whatsapp": "628112613133",
+        "address": "Banyumas, Jawa Tengah"
+      }
+    },
+    "muhajir-insani": {
+      "slug": "muhajir-insani",
+      "name": "PT. Muhajir Insani",
+      "shortName": "Muhajir Insani Tour",
+      "subName": "Biro Umroh & Haji Grobogan",
+      "tagline": "Melayani Ibadah Umroh dan Haji Sepenuh Hati Menuju Mabrur",
+      "about": "PT. Muhajir Insani (Muhajir Insani Tour) adalah penyelenggara perjalanan ibadah umroh resmi di Grobogan, Jawa Tengah (SK PPIU Kemenag Jateng). Kami berkomitmen melayani jamaah dengan amanah, kepastian keberangkatan, dan kenyamanan ibadah di Tanah Suci.",
+      "logo": "/images/logos/muhajir-insani.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "08122822188",
+        "tollFree": "-",
+        "email": "muhajirinsani@gmail.com",
+        "whatsapp": "628122822188",
+        "address": "Grobogan, Jawa Tengah"
+      }
+    },
+    "sai-amanah-mandiri": {
+      "slug": "sai-amanah-mandiri",
+      "name": "PT. Sai Amanah Mandiri",
+      "shortName": "Sai Amanah Mandiri",
+      "subName": "Biro Umroh & Haji Klaten",
+      "tagline": "Melayani Ibadah Umroh dan Haji Sepenuh Hati Menuju Mabrur",
+      "about": "PT. Sai Amanah Mandiri (Sai Amanah Mandiri) adalah penyelenggara perjalanan ibadah umroh resmi di Klaten, Jawa Tengah (SK PPIU Kemenag Jateng). Kami berkomitmen melayani jamaah dengan amanah, kepastian keberangkatan, dan kenyamanan ibadah di Tanah Suci.",
+      "logo": "/images/logos/sai-amanah-mandiri.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "082138020304",
+        "tollFree": "-",
+        "email": "saiamanahmandiri@gmail.com",
+        "whatsapp": "6282138020304",
+        "address": "Klaten, Jawa Tengah"
+      }
+    },
+    "internasional-haramain": {
+      "slug": "internasional-haramain",
+      "name": "PT. Internasional Haramain",
+      "shortName": "Internasional Haramain",
+      "subName": "Biro Umroh & Haji Surakarta",
+      "tagline": "Melayani Ibadah Umroh dan Haji Sepenuh Hati Menuju Mabrur",
+      "about": "PT. Internasional Haramain (Internasional Haramain) adalah penyelenggara perjalanan ibadah umroh resmi di Surakarta, Jawa Tengah (SK PPIU Kemenag Jateng). Kami berkomitmen melayani jamaah dengan amanah, kepastian keberangkatan, dan kenyamanan ibadah di Tanah Suci.",
+      "logo": "/images/logos/internasional-haramain.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "085772962001",
+        "tollFree": "-",
+        "email": "haramainsurakarta@gmail.com",
+        "whatsapp": "6285772962001",
+        "address": "Surakarta, Jawa Tengah"
+      }
+    },
+    "allais-tur-manajemen": {
+      "slug": "allais-tur-manajemen",
+      "name": "PT. Allais Tur Manajemen",
+      "shortName": "Allais Tur",
+      "subName": "Biro Umroh & Haji Kebumen",
+      "tagline": "Melayani Ibadah Umroh dan Haji Sepenuh Hati Menuju Mabrur",
+      "about": "PT. Allais Tur Manajemen (Allais Tur) adalah penyelenggara perjalanan ibadah umroh resmi di Kebumen, Jawa Tengah (NIB 91202043820890003). Kami berkomitmen melayani jamaah dengan amanah, kepastian keberangkatan, dan kenyamanan ibadah di Tanah Suci.",
+      "logo": "/images/logos/allais-tur-manajemen.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "085796052525",
+        "tollFree": "-",
+        "email": "allaistm2@gmail.com",
+        "whatsapp": "6285796052525",
+        "address": "Jl. Hasyim Asy'ari No.15 Ruko Graha Mahardika, Selang, Kebumen"
+      }
+    },
+    "tareem-jasa-universal": {
+      "slug": "tareem-jasa-universal",
+      "name": "PT. Tareem Jasa Universal",
+      "shortName": "Tareem Jasa Universal",
+      "subName": "Biro Umroh & Haji Banyumas",
+      "tagline": "Melayani Ibadah Umroh dan Haji Sepenuh Hati Menuju Mabrur",
+      "about": "PT. Tareem Jasa Universal (Tareem Jasa Universal) adalah penyelenggara perjalanan ibadah umroh resmi di Banyumas, Jawa Tengah (SK Kemenag PPIU 03-08-2023). Kami berkomitmen melayani jamaah dengan amanah, kepastian keberangkatan, dan kenyamanan ibadah di Tanah Suci.",
+      "logo": "/images/logos/tareem-jasa-universal.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "08112911900",
+        "tollFree": "-",
+        "email": "tareemjasauniversalpt@gmail.com",
+        "whatsapp": "628112911900",
+        "address": "Purwokerto Barat, Kab. Banyumas, Jawa Tengah"
+      }
+    },
+    "talitha-aldi-lestari": {
+      "slug": "talitha-aldi-lestari",
+      "name": "PT. Talitha Aldi Lestari",
+      "shortName": "Talitha Aldi Lestari",
+      "subName": "Biro Umroh & Haji Sragen",
+      "tagline": "Melayani Ibadah Umroh dan Haji Sepenuh Hati Menuju Mabrur",
+      "about": "PT. Talitha Aldi Lestari (Talitha Aldi Lestari) adalah penyelenggara perjalanan ibadah umroh resmi di Sragen, Jawa Tengah (SK PPIU Kemenag Jateng). Kami berkomitmen melayani jamaah dengan amanah, kepastian keberangkatan, dan kenyamanan ibadah di Tanah Suci.",
+      "logo": "/images/logos/talitha-aldi-lestari.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "085293237199",
+        "tollFree": "-",
+        "email": "talithaaldilestari@gmail.com",
+        "whatsapp": "6285293237199",
+        "address": "Sragen, Jawa Tengah"
       }
     }
   }
