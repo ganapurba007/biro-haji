@@ -3482,46 +3482,6 @@
         "address": "Jl. Dr. Wahidin No. 88, Pontianak Kota, Kalimantan Barat"
       }
     },
-    "amany-travelindo-indonesia": {
-      "slug": "amany-travelindo-indonesia",
-      "name": "PT. Amany Travelindo Indonesia",
-      "shortName": "Amany Travelindo",
-      "subName": "Biro Umroh & Haji Kendal",
-      "tagline": "Melayani Ibadah Umroh dan Haji Sepenuh Hati Menuju Mabrur",
-      "about": "PT. Amany Travelindo Indonesia adalah penyelenggara perjalanan ibadah umroh resmi (PPIU) di Kendal, Jawa Tengah. Kami berkomitmen melayani jamaah dengan amanah, kepastian jadwal, dan kenyamanan ibadah di Tanah Suci.",
-      "logo": "/images/logos/default.svg",
-      "colors": {
-        "brand": "#047857",
-        "accent": "#f59e0b"
-      },
-      "contact": {
-        "phone": "08126626488",
-        "tollFree": "-",
-        "email": "amanytravelindoindonesia@gmail.com",
-        "whatsapp": "628126626488",
-        "address": "Jl. Soekarno Hatta No. 227 RT 015 RW 004, Ketapang, Kendal, Jawa Tengah"
-      }
-    },
-    "arreyhan-arafah-group": {
-      "slug": "arreyhan-arafah-group",
-      "name": "PT. Arreyhan Arafah Group",
-      "shortName": "Arreyhan Arafah",
-      "subName": "Biro Umroh & Haji Kendal",
-      "tagline": "Melayani Ibadah Umroh dan Haji Sepenuh Hati Menuju Mabrur",
-      "about": "PT. Arreyhan Arafah Group adalah biro umroh resmi berizin Kementerian Agama di Kendal, Jawa Tengah. Memberikan pelayanan prima, bimbingan ibadah intensif, dan kenyamanan akomodasi jamaah.",
-      "logo": "/images/logos/default.svg",
-      "colors": {
-        "brand": "#047857",
-        "accent": "#f59e0b"
-      },
-      "contact": {
-        "phone": "081904444866",
-        "tollFree": "-",
-        "email": "arreyhanarafah@gmail.com",
-        "whatsapp": "6281904444866",
-        "address": "Ruko No. 3 Jl. Tentara Pelajar Purin RT 001 RW 008, Purwokerto, Patebon, Kendal, Jawa Tengah"
-      }
-    },
     "gemilang-multazam-mitra-sakti-wisata": {
       "slug": "gemilang-multazam-mitra-sakti-wisata",
       "name": "PT. Gemilang Multazam Mitra Sakti Wisata",
@@ -3580,46 +3540,6 @@
         "email": "ptciptadharmamulya@gmail.com",
         "whatsapp": "6281390009876",
         "address": "Jl. Dr. Cipto Mangunkusumo KM 5 Jetis RT 002 RW 006, Bandungan, Kab. Semarang, Jawa Tengah"
-      }
-    },
-    "surya-amanah-bersama": {
-      "slug": "surya-amanah-bersama",
-      "name": "PT. Surya Amanah Bersama",
-      "shortName": "Surya Amanah",
-      "subName": "Biro Umroh & Haji Cilacap",
-      "tagline": "Melayani Ibadah Umroh dan Haji Sepenuh Hati Menuju Mabrur",
-      "about": "PT. Surya Amanah Bersama adalah biro penyelenggara perjalanan ibadah umroh resmi (PPIU) di Cilacap, berkomitmen menghadirkan bimbingan ibadah yang khusyuk dan kepastian berangkat.",
-      "logo": "/images/logos/default.svg",
-      "colors": {
-        "brand": "#047857",
-        "accent": "#f59e0b"
-      },
-      "contact": {
-        "phone": "081327019512",
-        "tollFree": "-",
-        "email": "pt.suryaamanahbersama2023@gmail.com",
-        "whatsapp": "6281327019512",
-        "address": "Jl. Kendeng No. 25 A RT 006 RW 014, Sidanegara, Cilacap Tengah, Cilacap, Jawa Tengah"
-      }
-    },
-    "saffana-tour-travel": {
-      "slug": "saffana-tour-travel",
-      "name": "PT. Saffana Tour Travel",
-      "shortName": "Saffana Tour",
-      "subName": "Biro Umroh & Haji Semarang",
-      "tagline": "Melayani Ibadah Umroh dan Haji Sepenuh Hati Menuju Mabrur",
-      "about": "PT. Saffana Tour Travel adalah biro perjalanan umroh berizin resmi di Kota Semarang, menyediakan berbagai program umroh reguler dan plus dengan fasilitas akomodasi pilihan.",
-      "logo": "/images/logos/default.svg",
-      "colors": {
-        "brand": "#047857",
-        "accent": "#f59e0b"
-      },
-      "contact": {
-        "phone": "082136388823",
-        "tollFree": "-",
-        "email": "saffanatoursemarang@gmail.com",
-        "whatsapp": "6282136388823",
-        "address": "Jl. Untung Suropati Kav. No. 57 RT 001 RW 003, Bambankerep, Ngaliyan, Kota Semarang, Jawa Tengah"
       }
     },
     "habib-tour-travel": {
