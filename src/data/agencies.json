@@ -3601,6 +3601,101 @@
         "whatsapp": "6285815061131",
         "address": "Jl. Mayor Basuno 30 RT 002 RW 001, Sunggingan, Kota Kudus, Kudus, Jawa Tengah"
       }
+    },
+    "aghits-star-haramain": {
+      "name": "PT. Aghits Star Haramain",
+      "shortName": "AGHITS STAR",
+      "subName": "Umroh & Haji Magelang",
+      "tagline": "Biro Perjalanan Umroh & Haji Khusus Magelang Amanah & Terpercaya",
+      "about": "PT. Aghits Star Haramain adalah biro perjalanan ibadah resmi Kemenag RI yang berpusat di Mertoyudan, Magelang. Berkomitmen menghadirkan bimbingan ibadah intensif sesuai sunnah dan kenyamanan maksimal bagi para tamu Allah.",
+      "logo": "/images/logos/surya-biro.svg",
+      "colors": {
+        "brand": "#047857",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "0856-0200-0048",
+        "tollFree": "0856-0200-0048",
+        "email": "aghits.star@gmail.com",
+        "whatsapp": "6285602000048",
+        "address": "Jl. Mayor Unus KM 5 RT 001 RW 009, Jogonegoro, Mertoyudan, Kab. Magelang, Jawa Tengah"
+      }
+    },
+    "indonesia-rindu-baitullah": {
+      "name": "PT. Indonesia Rindu Baitullah",
+      "shortName": "RINDU BAITULLAH",
+      "subName": "Tour & Travel Temanggung",
+      "tagline": "Mitra Ibadah Umroh Nyaman, Aman, dan Berkah Temanggung",
+      "about": "PT. Indonesia Rindu Baitullah adalah penyelenggara resmi ibadah umroh terpercaya di Temanggung. Kami melayani jamaah dengan sepenuh hati, fasilitas berkualitas, dan bimbingan manasik komprehensif.",
+      "logo": "/images/logos/surya-biro.svg",
+      "colors": {
+        "brand": "#0f766e",
+        "accent": "#d97706"
+      },
+      "contact": {
+        "phone": "0813-2816-7606",
+        "tollFree": "0813-2816-7606",
+        "email": "ptindonesiarindubaitullah@gmail.com",
+        "whatsapp": "6281328167606",
+        "address": "Jl. Perintis Kemerdekaan No. 10A RT 004 RW 004, Jurang, Kec. Temanggung, Kab. Temanggung, Jawa Tengah"
+      }
+    },
+    "duta-multazam-amanah": {
+      "name": "PT. Duta Multazam Amanah",
+      "shortName": "DUTA MULTAZAM",
+      "subName": "Haji & Umroh Semarang",
+      "tagline": "Penyelenggara Umroh & Haji Terpercaya Kota Semarang",
+      "about": "PT. Duta Multazam Amanah memberikan kepastian jadwal keberangkatan, akomodasi prima dekat masjid, serta bimbingan ibadah yang khusyuk bagi jamaah dari Semarang dan sekitarnya.",
+      "logo": "/images/logos/surya-biro.svg",
+      "colors": {
+        "brand": "#15803d",
+        "accent": "#eab308"
+      },
+      "contact": {
+        "phone": "0877-3111-1157",
+        "tollFree": "0877-3111-1157",
+        "email": "dutamultazamamanah01@gmail.com",
+        "whatsapp": "6287731111157",
+        "address": "Jl. Segaran Baru RT 004 RW 011, Purwoyoso, Kec. Ngaliyan, Kota Semarang, Jawa Tengah"
+      }
+    },
+    "besti-syiar-baitullah": {
+      "name": "PT. Besti Syiar Baitullah",
+      "shortName": "BESTI SYIAR",
+      "subName": "Umroh Travel Semarang",
+      "tagline": "Syiar Menuju Baitullah dengan Layanan Terbaik & Sepenuh Hati",
+      "about": "PT. Besti Syiar Baitullah adalah biro umroh resmi berizin Kemenag RI di Gayamsari Semarang, menyediakan paket umroh reguler dan VIP dengan fasilitas transparan dan muthawif berpengalaman.",
+      "logo": "/images/logos/surya-biro.svg",
+      "colors": {
+        "brand": "#1d4ed8",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "0821-3722-5777",
+        "tollFree": "0821-3722-5777",
+        "email": "bestisyiarbaitullah@gmail.com",
+        "whatsapp": "6282137225777",
+        "address": "Jl. Gajah Raya No. 35 RT 005 RW 002, Siwalan, Kec. Gayamsari, Kota Semarang, Jawa Tengah"
+      }
+    },
+    "mubarak-haramain-utama": {
+      "name": "PT. Mubarak Haramain Utama",
+      "shortName": "MUBARAK HARAMAIN",
+      "subName": "Umroh & Haji Khusus Solo",
+      "tagline": "Biro Umroh & Haji Khusus Resmi Berizin Kota Surakarta",
+      "about": "PT. Mubarak Haramain Utama melayani pendaftaran umroh dan haji plus masyarakat Solo Raya dengan amanah, penerbangan terjadwal pasti, hotel berbintang, dan bimbingan manasik intensif.",
+      "logo": "/images/logos/surya-biro.svg",
+      "colors": {
+        "brand": "#0369a1",
+        "accent": "#f59e0b"
+      },
+      "contact": {
+        "phone": "0812-2620-431",
+        "tollFree": "0812-2620-431",
+        "email": "mubarakharamainsolo@gmail.com",
+        "whatsapp": "628122620431",
+        "address": "Kampung Sewu RT 001 RW 006, Sewu, Kec. Jebres, Kota Surakarta, Jawa Tengah"
+      }
     }
   }
 }
