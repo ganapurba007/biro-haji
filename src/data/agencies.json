@@ -3986,6 +3986,151 @@
           "airline": "Garuda Indonesia Direct Solo"
         }
       ]
+    },
+    "upaya-fastabiqul-magelang": {
+      "name": "PT. Upaya Fastabiqul Khoirot",
+      "shortName": "Upaya Fastabiqul",
+      "subName": "Biro Perjalanan Haji & Umroh Magelang",
+      "tagline": "Berlomba-lomba dalam Kebaikan Menuju Baitullah",
+      "about": "PT. Upaya Fastabiqul Khoirot adalah biro perjalanan ibadah umroh resmi Kemenag RI di Magelang, berkomitmen melayani jamaah dengan ketulusan, pendampingan ibadah intensif, dan kenyamanan fasilitas.",
+      "contact": {
+        "address": "Magelang, Jawa Tengah",
+        "phone": "0851-8666-4513",
+        "whatsapp": "6285186664513",
+        "email": "alkalamuliauniversal@gmail.com"
+      },
+      "packages": [
+        {
+          "name": "Paket Umroh Barokah 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 27.500.000",
+          "hotel": "Bintang 4 Dekat Masjid",
+          "airline": "Lion Air Direct"
+        },
+        {
+          "name": "Paket Umroh VIP 12 Hari",
+          "duration": "12 Hari",
+          "price": "Rp 34.500.000",
+          "hotel": "Bintang 5 Pelataran",
+          "airline": "Saudia Airlines Direct"
+        }
+      ]
+    },
+    "amanah-karunia-sukoharjo": {
+      "name": "PT. Amanah Karunia Wisata",
+      "shortName": "Amanah Karunia",
+      "subName": "Biro Haji & Umroh Terpercaya Sukoharjo",
+      "tagline": "Amanah Melayani Jamaah Meraih Umroh Mabrur",
+      "about": "PT. Amanah Karunia Wisata hadir di Sukoharjo memberikan kepastian keberangkatan, akomodasi nyaman dekat masjid, dan bimbingan manasik sesuai tuntunan sunnah.",
+      "contact": {
+        "address": "Sukoharjo, Jawa Tengah",
+        "phone": "0815-4862-5578",
+        "whatsapp": "6281548625578",
+        "email": "gagahberkahwisata@gmail.com"
+      },
+      "packages": [
+        {
+          "name": "Paket Umroh Reguler 10 Hari",
+          "duration": "10 Hari",
+          "price": "Rp 28.500.000",
+          "hotel": "Bintang 4 Shuttle",
+          "airline": "Batik Air Direct Solo"
+        },
+        {
+          "name": "Paket Umroh Executive 12 Hari",
+          "duration": "12 Hari",
+          "price": "Rp 35.000.000",
+          "hotel": "Bintang 5 Ring 1",
+          "airline": "Garuda Indonesia Direct"
+        }
+      ]
+    },
+    "suryaamanah-bersama-cilacap": {
+      "name": "PT. Surya Amanah Bersama",
+      "shortName": "Surya Amanah",
+      "subName": "Biro Perjalanan Umroh Resmi Cilacap",
+      "tagline": "Menyinari Langkah Jamaah Menuju Tanah Suci",
+      "about": "PT. Surya Amanah Bersama merupakan penyelenggara perjalanan ibadah umroh resmi Kemenag RI di Cilacap, mengutamakan kepuasan jamaah melalui bimbingan muthawif bersertifikasi dan hotel berkualitas.",
+      "contact": {
+        "address": "Cilacap, Jawa Tengah",
+        "phone": "0813-2701-9512",
+        "whatsapp": "6281327019512",
+        "email": "suryaamanahbersama2023@gmail.com"
+      },
+      "packages": [
+        {
+          "name": "Paket Umroh Barokah 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 27.900.000",
+          "hotel": "Bintang 4 Dekat Masjid",
+          "airline": "Lion Air Direct"
+        },
+        {
+          "name": "Paket Umroh VIP Syawal 12 Hari",
+          "duration": "12 Hari",
+          "price": "Rp 35.500.000",
+          "hotel": "Bintang 5 Pelataran",
+          "airline": "Saudia Airlines Direct"
+        }
+      ]
+    },
+    "mozaik-wali-wisata-purbalingga": {
+      "name": "PT. Mozaik Wali Wisata",
+      "shortName": "Mozaik Wali",
+      "subName": "Biro Umroh & Wisata Religi Purbalingga",
+      "tagline": "Rangkaian Ibadah Sempurna Menuju Baitullah",
+      "about": "PT. Mozaik Wali Wisata melayani jamaah umroh wilayah Purbalingga dan sekitarnya dengan komitmen pelayanan prima, bimbingan manasik mendalam, dan tiket terkonfirmasi pasti.",
+      "contact": {
+        "address": "Purbalingga, Jawa Tengah",
+        "phone": "0877-3111-1157",
+        "whatsapp": "6287731111157",
+        "email": "dutamultazamamanah01@gmail.com"
+      },
+      "packages": [
+        {
+          "name": "Paket Umroh Reguler 10 Hari",
+          "duration": "10 Hari",
+          "price": "Rp 28.200.000",
+          "hotel": "Bintang 4",
+          "airline": "Batik Air Direct"
+        },
+        {
+          "name": "Paket Umroh Plus Turki 14 Hari",
+          "duration": "14 Hari",
+          "price": "Rp 38.000.000",
+          "hotel": "Bintang 5",
+          "airline": "Turkish Airlines Direct"
+        }
+      ]
+    },
+    "khadimul-haramain-purbalingga": {
+      "name": "PT. Khadimul Haramain Asyarifain",
+      "shortName": "Khadimul Haramain",
+      "subName": "Pelayan Jamaah Dua Kota Suci Purbalingga",
+      "tagline": "Mengabdi dengan Hati, Melayani dengan Ketulusan",
+      "about": "PT. Khadimul Haramain Asyarifain adalah biro travel umroh resmi di Purbalingga dengan dedikasi penuh menghadirkan kenyamanan ibadah dan pendampingan menyeluruh bagi setiap jamaah.",
+      "contact": {
+        "address": "Purbalingga, Jawa Tengah",
+        "phone": "0812-1000-232",
+        "whatsapp": "628121000232",
+        "email": "info.waliwisata@gmail.com"
+      },
+      "packages": [
+        {
+          "name": "Paket Umroh Khidmat 9 Hari",
+          "duration": "9 Hari",
+          "price": "Rp 27.800.000",
+          "hotel": "Bintang 4 Walking Distance",
+          "airline": "Lion Air Direct"
+        },
+        {
+          "name": "Paket Umroh VIP 12 Hari",
+          "duration": "12 Hari",
+          "price": "Rp 34.900.000",
+          "hotel": "Bintang 5 Pelataran",
+          "airline": "Saudia Direct Madinah"
+        }
+      ]
     }
   }
 }
